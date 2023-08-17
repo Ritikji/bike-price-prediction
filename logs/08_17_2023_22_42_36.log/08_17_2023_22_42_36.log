@@ -1,0 +1,14 @@
+[ 2023-08-17 22:42:38,875 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-08-17 22:42:38,889 ] 187 werkzeug - INFO -  * Debugger PIN: 553-770-768
+[ 2023-08-17 22:42:41,945 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 22:42:41] "GET / HTTP/1.1" 200 -
+[ 2023-08-17 22:42:41,976 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 22:42:41] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[ 2023-08-17 22:42:47,293 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 22:42:47] "GET / HTTP/1.1" 200 -
+[ 2023-08-17 22:42:47,310 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 22:42:47] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[ 2023-08-17 22:42:47,469 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 22:42:47] "GET / HTTP/1.1" 200 -
+[ 2023-08-17 22:42:47,534 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 22:42:47] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[ 2023-08-17 22:42:48,155 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 22:42:48] "GET / HTTP/1.1" 200 -
+[ 2023-08-17 22:42:48,174 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 22:42:48] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[ 2023-08-17 22:42:50,200 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 22:42:50] "GET / HTTP/1.1" 200 -
+[ 2023-08-17 22:42:50,212 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 22:42:50] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+[ 2023-08-17 22:42:51,011 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 22:42:51] "GET / HTTP/1.1" 200 -
+[ 2023-08-17 22:42:51,027 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 22:42:51] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -

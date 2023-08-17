@@ -1,0 +1,26 @@
+[ 2023-08-17 23:32:31,154 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-08-17 23:32:31,223 ] 187 werkzeug - INFO -  * Debugger PIN: 553-770-768
+[ 2023-08-17 23:33:12,842 ] 69 root - INFO - DataFrame Gathered
+[ 2023-08-17 23:33:12,842 ] 16 root - INFO - Predict started
+[ 2023-08-17 23:33:13,954 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:33:13] "POST /predict HTTP/1.1" 200 -
+[ 2023-08-17 23:33:13,991 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:33:13] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-08-17 23:33:29,020 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:33:29] "GET /predict HTTP/1.1" 200 -
+[ 2023-08-17 23:33:29,042 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:33:29] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-08-17 23:33:29,073 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:33:29] "GET /predict HTTP/1.1" 200 -
+[ 2023-08-17 23:33:38,772 ] 69 root - INFO - DataFrame Gathered
+[ 2023-08-17 23:33:38,773 ] 16 root - INFO - Predict started
+[ 2023-08-17 23:33:38,798 ] 69 root - INFO - DataFrame Gathered
+[ 2023-08-17 23:33:38,799 ] 16 root - INFO - Predict started
+[ 2023-08-17 23:33:38,931 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:33:38] "POST /predict HTTP/1.1" 200 -
+[ 2023-08-17 23:33:39,000 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:33:39] "POST /predict HTTP/1.1" 200 -
+[ 2023-08-17 23:33:39,016 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:33:39] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-08-17 23:35:04,510 ] 69 root - INFO - DataFrame Gathered
+[ 2023-08-17 23:35:04,511 ] 16 root - INFO - Predict started
+[ 2023-08-17 23:35:04,749 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:35:04] "POST /predict HTTP/1.1" 200 -
+[ 2023-08-17 23:35:04,838 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:35:04] "[33mGET /Bike%20Image%20URL HTTP/1.1[0m" 404 -
+[ 2023-08-17 23:35:04,861 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:35:04] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-08-17 23:35:10,525 ] 69 root - INFO - DataFrame Gathered
+[ 2023-08-17 23:35:10,525 ] 16 root - INFO - Predict started
+[ 2023-08-17 23:35:10,674 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:35:10] "POST /predict HTTP/1.1" 200 -
+[ 2023-08-17 23:35:10,692 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:35:10] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-08-17 23:35:10,696 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:35:10] "[33mGET /Bike%20Image%20URL HTTP/1.1[0m" 404 -

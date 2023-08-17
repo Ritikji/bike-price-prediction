@@ -1,0 +1,2199 @@
+bike_name,price,city,kms_driven,owner,age,power,brand
+Hero CD Dawn 100cc,11000.0,Adalaj,65000.0,0,10.0,100.0,5
+Bajaj Pulsar RS200 ABS,80000.0,Ahmedabad,10647.0,0,6.0,200.0,1
+Royal Enfield Classic 350cc,114000.0,Delhi,7500.0,0,4.0,350.0,17
+Yamaha Fazer25 250cc,80000.0,Delhi,22000.0,0,3.0,250.0,21
+Royal Enfield Himalayan 410cc,119000.0,Ahmedabad,9000.0,2,5.0,410.0,17
+Royal Enfield Bullet 350cc,100000.0,Bankura,18000.0,0,4.0,350.0,17
+Bajaj Pulsar 150cc,21000.0,Bangalore,45000.0,0,12.0,150.0,1
+Bajaj Pulsar 150cc,22000.0,Mumbai,41214.0,0,8.0,150.0,1
+Yamaha Fazer FI 150cc,46728.0,Ernakulam,55300.0,0,7.0,150.0,21
+Hero CD Dawn 100cc,26000.0,Bangalore,41000.0,0,10.0,100.0,5
+Bajaj Pulsar RS200 ABS,120000.0,Bangalore,3689.0,0,4.0,200.0,1
+Royal Enfield Thunderbird 500cc,135000.0,Pune,9800.0,2,6.0,500.0,17
+Bajaj Pulsar 220F,42000.0,Mumbai,32897.0,0,7.0,220.0,1
+TVS Apache RTR 160cc Rear Disc,70000.0,Bangalore,16575.0,0,4.0,160.0,19
+Royal Enfield Bullet 500cc,164100.0,Delhi,8000.0,0,2.0,500.0,17
+Bajaj Dominar 400 ABS,150000.0,Bangalore,11000.0,0,4.0,400.0,1
+Royal Enfield Classic 500cc,110000.0,Delhi,5130.0,0,5.0,500.0,17
+Yamaha FZ S V 2.0 150cc,45000.0,Delhi,40718.0,0,7.0,150.0,21
+TVS Apache RTR 160cc,35000.0,Delhi,14400.0,0,8.0,160.0,19
+Royal Enfield Himalayan 410cc Sleet ABS,175000.0,Alipore,1800.0,0,2.0,410.0,17
+KTM Duke 390cc,95000.0,Gurgaon,33300.0,0,8.0,390.0,11
+Bajaj Pulsar 150cc,47000.0,Gurgaon,25000.0,0,4.0,150.0,1
+Bajaj Discover 100cc,28000.0,Ahmednagar,2347.0,0,6.0,100.0,1
+Bajaj Platina 100cc,17300.0,Jhansi,30000.0,0,12.0,100.0,1
+Bajaj Avenger 220cc,40000.0,Mumbai,3443.0,0,6.0,220.0,1
+Bajaj V15 150cc,57000.0,Bhopal,500.0,0,4.0,150.0,1
+Bajaj Pulsar 150cc,26000.0,Pune,18412.0,0,11.0,150.0,1
+KTM Duke 390cc,120000.0,Pune,26400.0,0,8.0,390.0,11
+Yamaha FZ 150cc,17000.0,Delhi,36111.0,0,12.0,150.0,21
+Bajaj Avenger 220cc,55000.0,Jaipur,18000.0,0,5.0,220.0,1
+Honda CBR 150R 150cc,60000.0,Vadodara,15252.0,0,6.0,150.0,6
+Bajaj Pulsar RS200,84700.0,Pune,27845.0,0,6.0,200.0,1
+Bajaj Pulsar 150cc,6700.0,Delhi,81000.0,0,17.0,150.0,1
+Hero Splendor Plus 100cc,46000.0,Faridabad,10883.0,0,3.0,100.0,5
+Royal Enfield Classic Stealth Black 500cc,195000.0,Delhi,1401.0,0,3.0,500.0,17
+Bajaj Pulsar RS200 ABS,80000.0,Bangalore,45380.0,0,6.0,200.0,1
+Hero CD Deluxe 100cc,29000.0,Delhi,18000.0,0,5.0,100.0,5
+Bajaj Pulsar 150cc,21000.0,Gurgaon,45244.0,0,9.0,150.0,1
+Honda CB Unicorn 150cc,40000.0,Hyderabad,49000.0,2,8.0,150.0,6
+Bajaj Pulsar 150cc,29000.0,Asansol,26000.0,2,9.0,150.0,1
+Bajaj Discover 125cc,23490.0,Mumbai,39000.0,0,9.0,125.0,1
+Bajaj Discover 125cc,20000.0,Mumbai,21000.0,0,14.0,125.0,1
+TVS Apache RTR 160cc,64000.0,Ghaziabad,19394.0,0,9.0,160.0,19
+Royal Enfield Classic 500cc,158400.0,Patna,2100.0,0,4.0,500.0,17
+Yamaha YZF-R15 150cc,102000.0,Delhi,2600.0,0,5.0,150.0,21
+Bajaj Pulsar 220cc,35000.0,Faridabad,40000.0,0,12.0,220.0,1
+Bajaj Pulsar 150cc,50000.0,Hyderabad,65007.0,0,7.0,150.0,1
+KTM Duke 200cc,860000.0,Delhi,12000.0,2,5.0,200.0,11
+Yamaha SZ 150cc,25000.0,Vidisha,172082.0,0,9.0,150.0,21
+Yamaha Saluto 125cc,29000.0,Delhi,26076.0,0,6.0,125.0,21
+Bajaj  Pulsar 180cc,27999.0,Guntur,53999.0,0,11.0,180.0,1
+Honda CB Unicorn 160 STD,75500.0,Kolkata,12400.0,0,3.0,160.0,6
+Royal Enfield Thunderbird X 350cc ABS,151300.0,Sonipat,14000.0,0,2.0,350.0,17
+Royal Enfield Classic 350cc,98800.0,Kochi,39000.0,0,5.0,350.0,17
+Bajaj Pulsar 220F,55000.0,Bangalore,47042.0,0,5.0,220.0,1
+Hero CBZ Xtreme 150cc,22000.0,Hyderabad,5610.0,0,10.0,150.0,5
+KTM Duke 200cc,112600.0,Thane,21000.0,0,4.0,200.0,11
+KTM RC 200cc,118000.0,Hyderabad,14000.0,0,5.0,200.0,11
+Hero CBZ Xtreme 150cc,9000.0,Delhi,62135.0,2,13.0,150.0,5
+Royal Enfield Classic 350cc,147000.0,Bangalore,11000.0,0,5.0,350.0,17
+Suzuki Gixxer SF 150cc,60000.0,Ahmedabad,15000.0,0,6.0,150.0,18
+Triumph Bonneville T100 900cc,640000.0,Delhi,7500.0,2,4.0,900.0,20
+Bajaj Pulsar 135LS,19000.0,Delhi,41999.0,0,8.0,135.0,1
+Bajaj Pulsar 135LS,27000.0,Bangalore,49000.0,0,11.0,135.0,1
+Yamaha FZ16 150cc,30000.0,Delhi,9300.0,0,11.0,150.0,21
+Honda CBR 250R,80000.0,Pune,30900.0,2,9.0,250.0,6
+TVS Apache RTR 160cc,31500.0,Delhi,20000.0,0,8.0,160.0,19
+Honda Dream Yuga 110cc,24000.0,Chennai,52345.0,0,7.0,110.0,6
+Honda CB Unicorn 150cc,46000.0,Rajkot,36000.0,0,10.0,150.0,6
+Bajaj Discover 125M,32500.0,Delhi,16000.0,0,6.0,125.0,1
+Harley-Davidson Iron 883,573300.0,Pune,28000.0,0,5.0,883.0,4
+TVS Star Sport 100cc,22900.0,Jhansi,12000.0,0,5.0,100.0,19
+Royal Enfield Classic 500cc,120000.0,Chennai,19500.0,0,7.0,500.0,17
+TVS Apache RTR 180cc,22000.0,Gurgaon,25560.0,0,12.0,180.0,19
+Honda CB Twister 110cc,25000.0,Karnal,28000.0,0,7.0,110.0,6
+Bajaj Discover 125M,26000.0,Hyderabad,75000.0,0,9.0,125.0,1
+Bajaj Avenger 200cc,20000.0,Noida,45000.0,0,11.0,200.0,1
+Hyosung GT650R,395000.0,Nashik,5000.0,0,6.0,650.0,7
+TVS Sport 100cc,17500.0,Faridabad,14736.0,0,8.0,100.0,19
+Bajaj Pulsar 220cc,41000.0,Faridabad,31651.0,0,5.0,220.0,1
+Royal Enfield Bullet Electra 350cc,80000.0,Lucknow,32735.0,0,8.0,350.0,17
+Bajaj Avenger 200cc,39500.0,Nagpur,24500.0,0,12.0,200.0,1
+Suzuki GS 150 R 150cc,22000.0,Delhi,30664.0,0,9.0,150.0,18
+Royal Enfield Classic 350cc,80000.0,Ratnagiri,13260.0,2,5.0,350.0,17
+Yamaha YZF-R15 2.0 150cc,105900.0,Bangalore,17000.0,0,4.0,150.0,21
+TVS Apache RTR 200 4V Carburetor,68000.0,Pune,21400.0,0,4.0,200.0,19
+Bajaj Pulsar 150cc,46000.0,Faridabad,14788.0,0,3.0,150.0,1
+Bajaj Avenger Cruise 220,60000.0,Bangalore,35641.0,0,5.0,220.0,1
+Royal Enfield Bullet Twinspark 350cc,115000.0,Delhi,10000.0,0,3.0,350.0,17
+TVS Apache RR310,205000.0,Delhi,14000.0,0,3.0,310.0,19
+Royal Enfield Classic 350cc,115400.0,Bahadurgarh,11400.0,0,4.0,350.0,17
+TVS Star City Plus 110cc,23000.0,Gurgaon,23244.0,0,5.0,110.0,19
+Yamaha Fazer 150cc,40000.0,Thane,48000.0,0,7.0,150.0,21
+Bajaj Platina 100cc,32000.0,Jaipur,23000.0,0,4.0,100.0,1
+Bajaj Pulsar RS200 ABS,113500.0,Mysore,4000.0,0,5.0,200.0,1
+Bajaj XCD 135,11000.0,Gurgaon,31275.0,0,12.0,135.0,1
+Hero Passion Pro 100cc,39500.0,Gurgaon,14243.0,0,6.0,100.0,5
+Yamaha FZ16 150cc,50000.0,Bangalore,19000.0,0,6.0,150.0,21
+Honda CBF Stunner 125cc,26000.0,Pune,24801.0,0,11.0,125.0,6
+Bajaj Avenger Street 150,55000.0,Thane,8200.0,0,5.0,150.0,1
+Hero Karizma ZMR 223cc,32713.0,Gurgaon,43500.0,0,12.0,223.0,5
+Yamaha FZs 150cc,45000.0,Jaipur,18237.0,0,7.0,150.0,21
+Harley-Davidson Street 750,486000.0,Ahmedabad,2600.0,0,5.0,750.0,4
+Royal Enfield Thunderbird 350cc,102700.0,Noida,22000.0,0,5.0,350.0,17
+Hero Xtreme Sports Rear Disc 150cc,75000.0,Delhi,11921.0,0,3.0,150.0,5
+Honda CB Shine 125cc,30000.0,Kanpur Nagar,29508.0,0,8.0,125.0,6
+KTM Duke 390cc,90000.0,Mumbai,30000.0,0,7.0,390.0,11
+Hero Karizma ZMR 223cc,28000.0,Delhi,14256.0,0,12.0,223.0,5
+Bajaj Dominar 400 ABS,140000.0,Jalandhar,800.0,0,3.0,400.0,1
+Royal Enfield Classic Chrome 500cc,160000.0,Jaipur,14000.0,0,4.0,500.0,17
+Royal Enfield Classic 350cc,130000.0,Mumbai,20000.0,0,3.0,350.0,17
+Honda CBR 250R,65000.0,Asansol,21000.0,0,8.0,250.0,6
+Yamaha YZF-R15 2.0 150cc,55000.0,Rupnagar,27000.0,0,9.0,150.0,21
+Yamaha Saluto 125cc,31900.0,Delhi,21700.0,0,6.0,125.0,21
+Bajaj Avenger Street 220,70000.0,Faridabad,11052.0,0,3.0,220.0,1
+Royal Enfield Classic Desert Storm 500cc,140000.0,Delhi,8500.0,0,5.0,500.0,17
+Bajaj Avenger 220cc,45000.0,Chennai,8903.0,0,8.0,220.0,1
+Bajaj Discover 150F,43000.0,Purnia,45000.0,0,6.0,150.0,1
+KTM RC 390cc,225000.0,Indore,2400.0,0,4.0,390.0,11
+Hero Splendor 100cc,27500.0,Ahmedabad,32659.0,0,10.0,100.0,5
+Hero Passion Pro 100cc,29339.0,Ernakulam,12771.0,0,4.0,100.0,5
+Bajaj Pulsar 220cc,70000.0,Jalandhar,5000.0,0,4.0,220.0,1
+Benelli 302R 300CC,240000.0,Mumbai,15025.0,2,3.0,302.0,2
+TVS Apache RR310,187000.0,Delhi,14800.0,0,3.0,310.0,19
+Bajaj Pulsar 150cc,17000.0,Delhi,51411.0,0,11.0,150.0,1
+Mahindra Mojo 300cc,100000.0,Gurgaon,13154.0,0,5.0,300.0,15
+Hero Super Splendor 125cc,25000.0,Jhansi,35000.0,0,8.0,125.0,5
+Honda Dream Yuga 110cc,30000.0,Jaipur,18516.0,0,8.0,110.0,6
+Honda CB Hornet 160R STD,75000.0,Pune,18000.0,0,3.0,160.0,6
+Honda CB Shine 125cc,28000.0,Pune,6231.0,0,11.0,125.0,6
+Hero Splendor Plus 100cc,16000.0,Faridabad,19285.0,0,12.0,100.0,5
+Hero Splendor Plus IBS i3S 100cc,56000.0,Delhi,1745.0,0,2.0,100.0,5
+TVS Apache RTR 200 4V ABS Race Edition,85000.0,Delhi,3900.0,2,3.0,200.0,19
+Mahindra Centuro 110cc,21500.0,Delhi,43500.0,0,6.0,110.0,15
+Bajaj Pulsar 150cc,11100.0,Pune,12000.0,3,12.0,150.0,1
+Bajaj Discover 135cc,21000.0,Jaipur,18330.0,0,10.0,135.0,1
+TVS Apache RTR 200 4V Carburetor,105000.0,Raiganj,5400.0,0,4.0,200.0,19
+Royal Enfield Classic 350cc,92000.0,Ghaziabad,26900.0,0,7.0,350.0,17
+Bajaj Platina 100cc,38000.0,Faridabad,15383.0,0,2.0,100.0,1
+Honda CBR 250R ABS,62700.0,Mumbai,5678.0,3,9.0,250.0,6
+Royal Enfield Thunderbird 350cc,115000.0,Bangalore,9100.0,0,8.0,350.0,17
+Bajaj Avenger Street 180,74084.0,Aurangabad,12833.0,0,3.0,180.0,1
+Bajaj Dominar 400 ABS,119500.0,Delhi,12000.0,0,4.0,400.0,1
+Hero HF Deluxe 100cc,18000.0,Faridabad,13290.0,0,9.0,100.0,5
+Royal Enfield Bullet 350cc,130000.0,Noida,6600.0,0,18.0,350.0,17
+Mahindra Mojo 300cc,145000.0,Thane,16000.0,0,5.0,300.0,15
+Royal Enfield Classic 350cc,120000.0,Delhi,3626.0,0,4.0,350.0,17
+Royal Enfield Standard 350cc,70000.0,Faridabad,46000.0,2,11.0,350.0,17
+Honda CB Unicorn 150cc,25000.0,Delhi,30000.0,0,11.0,150.0,6
+Royal Enfield Thunderbird 350cc,89000.0,Mumbai,13000.0,0,8.0,350.0,17
+Yamaha FZs 150cc,32000.0,Gurgaon,40828.0,0,6.0,150.0,21
+Honda Dream Yuga 110cc,21000.0,Gurgaon,20719.0,0,8.0,110.0,6
+Yamaha FZ 150cc,50000.0,Bangalore,28000.0,0,7.0,150.0,21
+Royal Enfield Classic 350cc,134400.0,Delhi,1550.0,0,4.0,350.0,17
+Honda CB Unicorn 150cc,21000.0,Chennai,97000.0,0,11.0,150.0,6
+Bajaj Platina 100cc,24000.0,Gurgaon,18710.0,0,7.0,100.0,1
+Royal Enfield Classic 350cc,115000.0,Bhubaneshwar,23000.0,0,6.0,350.0,17
+Yamaha FZ S V 2.0 150cc,60000.0,Bangalore,15000.0,0,5.0,150.0,21
+Yamaha FZ S V 2.0 150cc,46000.0,Noida,28700.0,2,6.0,150.0,21
+Royal Enfield Thunderbird 350cc,86700.0,Vadodara,45000.0,0,7.0,350.0,17
+Hero HF Deluxe 100cc,55000.0,Pune,18000.0,0,4.0,100.0,5
+Bajaj Avenger Street 220,48000.0,Mumbai,28081.0,2,6.0,220.0,1
+Yamaha YZF-R15 2.0 150cc,60000.0,Kolkata,20500.0,0,10.0,150.0,21
+Royal Enfield Thunderbird X 500cc,158000.0,Jaisalmer,1500.0,0,3.0,500.0,17
+Royal Enfield Classic 350cc,125000.0,Pune,11451.0,0,6.0,350.0,17
+Bajaj Avenger Street 150,37000.0,Ghaziabad,39500.0,0,5.0,150.0,1
+Harley-Davidson Street 750,480000.0,Delhi,1450.0,0,4.0,750.0,4
+Hero Splendor 100cc,14500.0,Ahmedabad,78882.0,0,18.0,100.0,5
+Royal Enfield Thunderbird 500cc,121000.0,Bangalore,35422.0,0,5.0,500.0,17
+KTM Duke 390cc,105000.0,Mumbai,18000.0,0,6.0,390.0,11
+Bajaj CT 100 100cc,30000.0,Noida,8250.0,0,3.0,100.0,1
+TVS Star Sport 100cc,25000.0,Jaipur,22620.0,0,9.0,100.0,19
+Bajaj Discover 125cc,29600.0,Latur,105000.0,0,15.0,125.0,1
+Honda Dream Yuga 110cc,30000.0,Jaipur,61743.0,0,8.0,110.0,6
+Bajaj Discover 125M,29900.0,Delhi,20000.0,0,7.0,125.0,1
+Royal Enfield Classic Gunmetal Grey 350cc,135000.0,Delhi,15559.0,0,3.0,350.0,17
+Mahindra Centuro 110cc,18700.0,Gurgaon,34409.0,0,7.0,110.0,15
+Royal Enfield Classic Chrome 500cc,145000.0,Delhi,7481.0,0,5.0,500.0,17
+Bajaj Avenger 220cc,41000.0,Delhi,20245.0,2,11.0,220.0,1
+Bajaj Pulsar 150cc,66000.0,Delhi,15000.0,0,2.0,150.0,1
+Hyosung GT 650N,340000.0,Delhi,2500.0,0,4.0,650.0,7
+Hero Splendor Plus Self Alloy 100cc,55000.0,Faridabad,4195.0,0,2.0,100.0,5
+Bajaj Pulsar 150cc,10000.0,Ghaziabad,64955.0,0,15.0,150.0,1
+Yamaha Fazer 150cc,32000.0,Gurgaon,8500.0,0,9.0,150.0,21
+Bajaj Avenger 220cc,65000.0,Dehradun,23000.0,0,5.0,220.0,1
+Royal Enfield Standard 500cc,125000.0,Gurgaon,10409.0,0,4.0,500.0,17
+Bajaj Pulsar 200cc,17000.0,Mumbai,53399.0,2,13.0,200.0,1
+Royal Enfield Classic 350cc,95000.0,Delhi,15080.0,0,5.0,350.0,17
+Bajaj Discover 100M,21000.0,Mumbai,28808.0,0,7.0,100.0,1
+TVS Apache RTR 160 4V DISC ABS,85000.0,Delhi,11496.0,0,2.0,160.0,19
+KTM RC 390cc,125000.0,Mumbai,32500.0,0,5.0,390.0,11
+Bajaj Discover 110cc,20000.0,Chennai,27000.0,0,9.0,110.0,1
+Royal Enfield Standard 500cc,82000.0,Kolkata,15000.0,0,6.0,500.0,17
+Ducati Monster 796 Corse Stripe,380000.0,Bangalore,31000.0,0,9.0,796.0,3
+Royal Enfield Classic 350cc,125000.0,Pune,10300.0,0,4.0,350.0,17
+Hero Splendor iSmart 100cc,40000.0,Jaipur,20000.0,0,5.0,100.0,5
+Hero Ignitor Disc 125cc,27500.0,Mysore,25757.0,0,8.0,125.0,5
+Honda CBF Stunner 125cc,22000.0,Jaipur,35300.0,2,10.0,125.0,6
+Kawasaki Z650,500000.0,Mumbai,5989.0,0,4.0,650.0,12
+Bajaj Discover 125cc,24500.0,Ahmedabad,14324.0,0,6.0,125.0,1
+Hero Karizma ZMR 223cc,55000.0,Hyderabad,32000.0,0,7.0,223.0,5
+Bajaj Pulsar NS200,46000.0,Bangalore,27687.0,3,9.0,200.0,1
+Suzuki Gixxer SF 150cc Rear Disc,60000.0,Bangalore,24000.0,0,5.0,150.0,18
+Royal Enfield Bullet Electra 350cc,110000.0,Mumbai,22000.0,0,4.0,350.0,17
+Honda CB Twister 110cc,27000.0,Lucknow,36000.0,3,11.0,110.0,6
+Royal Enfield Bullet 350cc,61000.0,Faridabad,11783.0,0,14.0,350.0,17
+Royal Enfield Continental GT 535cc,130000.0,Hyderabad,15000.0,2,6.0,535.0,17
+Bajaj Discover 125cc,28000.0,Delhi,15000.0,0,8.0,125.0,1
+Hero Splendor NXG 100cc,18500.0,Ganaur,30000.0,0,9.0,100.0,5
+Royal Enfield Classic 350cc,125000.0,Delhi,33160.0,0,3.0,350.0,17
+Honda CD 110 Dream,24100.0,Jhansi,20000.0,0,7.0,110.0,6
+Bajaj Dominar 400 ABS,160000.0,Mumbai,1320.0,0,4.0,400.0,1
+Honda CBR 250R,150000.0,Solan,2200.0,0,4.0,250.0,6
+Yamaha FZs 150cc,18000.0,Gurgaon,18465.0,0,12.0,150.0,21
+Bajaj Avenger 220cc,46000.0,Delhi,1656.0,0,6.0,220.0,1
+Bajaj Pulsar 220cc,76000.0,Bangalore,26724.0,0,4.0,220.0,1
+Royal Enfield Bullet Electra 350cc,75700.0,Pune,80000.0,0,14.0,350.0,17
+Honda CBR 150R 150cc,90000.0,Jaipur,8740.0,0,6.0,150.0,6
+MV Agusta F3 800cc,1500000.0,Hubli,2000.0,0,3.0,800.0,14
+Bajaj Pulsar RS200 ABS,100000.0,Visakhapatnam,17540.0,0,4.0,200.0,1
+Hero Splendor Plus 100cc,20000.0,Faridabad,19440.0,0,11.0,100.0,5
+Hero HF Deluxe 100cc,22000.0,Gurgaon,18000.0,0,8.0,100.0,5
+Honda CBR 250R,120000.0,Delhi,3059.0,0,6.0,250.0,6
+Hero Achiever 150cc,35800.0,Kolkata,25000.0,0,7.0,150.0,5
+Hero Splendor Plus 100cc,26000.0,Gurgaon,37877.0,0,7.0,100.0,5
+Bajaj Pulsar 150cc,30000.0,Bhawani Mandi,35000.0,0,9.0,150.0,1
+Bajaj Pulsar NS 200cc,65000.0,Vadodara,13000.0,0,8.0,200.0,1
+TVS Apache RR310,199000.0,Mumbai,12000.0,0,3.0,310.0,19
+Hero Xpulse 200T,76000.0,Jalandhar,3000.0,0,2.0,200.0,5
+Hero Splendor Plus 100cc,38000.0,Bidar,26000.0,0,6.0,100.0,5
+KTM RC 200cc,126999.0,Bangalore,22000.0,0,5.0,200.0,11
+Royal Enfield Bullet Twinspark 350cc,112000.0,Bangalore,12200.0,0,7.0,350.0,17
+Bajaj Pulsar 150cc,14000.0,Ahmedabad,48000.0,0,12.0,150.0,1
+Bajaj Pulsar NS200,77000.0,Trivandrum,11300.0,0,4.0,200.0,1
+Royal Enfield Classic 350cc,132000.0,Jaipur,3467.0,0,6.0,350.0,17
+Hero Hunk 150cc,20010.0,Ahmedabad,24578.0,0,13.0,150.0,5
+Honda CBF Stunner 125cc,23000.0,Chandigarh,28795.0,0,8.0,125.0,6
+Royal Enfield Bullet Electra 350cc,95000.0,Delhi,16932.0,0,7.0,350.0,17
+Bajaj Discover 125cc,13900.0,Alipore,99999.0,0,17.0,125.0,1
+Royal Enfield Bullet Electra Twinspark 350cc Double Disc,135000.0,Howrah,2200.0,0,3.0,350.0,17
+Bajaj Avenger Street 220,45000.0,Bangalore,39000.0,0,5.0,220.0,1
+Bajaj Pulsar RS200,110000.0,Delhi,5655.0,0,5.0,200.0,1
+TVS Apache RTR 200 4V Carburetor,85000.0,Gurgaon,7500.0,0,3.0,200.0,19
+Bajaj Discover 100cc,20000.0,Cuttack,39727.0,0,8.0,100.0,1
+Suzuki Intruder 150cc,82500.0,Bangalore,31500.0,0,3.0,150.0,18
+Royal Enfield Bullet 350cc,99999.0,Balrampur,55.0,2,15.0,350.0,17
+Bajaj Platina  Alloy ES-100cc,31500.0,Faridabad,14267.0,0,5.0,100.0,1
+Hero HF Deluxe Eco 100cc,41000.0,Faridabad,4544.0,0,2.0,100.0,5
+Bajaj Pulsar NS160,55000.0,Delhi,7034.0,0,4.0,160.0,1
+Royal Enfield Bullet Electra 350cc,96000.0,Durgapur,9000.0,0,16.0,350.0,17
+Bajaj Avenger Street 220,70000.0,Pune,6135.0,0,3.0,220.0,1
+TVS Apache RTR 160cc,75000.0,Sonepat,6668.0,0,4.0,160.0,19
+Royal Enfield Continental GT 535cc,155000.0,Mumbai,17000.0,0,5.0,535.0,17
+Bajaj Platina  Alloy ES-100cc,24000.0,Delhi,28000.0,0,7.0,100.0,1
+Kawasaki Z900,500000.0,Coimbatore,182.0,0,3.0,900.0,12
+Hero HF Deluxe Eco 100cc,46000.0,Faridabad,11309.0,0,2.0,100.0,5
+TVS Apache RTR 180cc ABS,48000.0,Delhi,20000.0,2,5.0,180.0,19
+Triumph Street Triple ABS 675cc,599999.0,Mumbai,7800.0,3,5.0,675.0,20
+Bajaj Platina  Alloy ES-100cc,30000.0,Faridabad,16544.0,0,4.0,100.0,1
+Bajaj Pulsar NS200,80000.0,Udhampur,7500.0,0,4.0,200.0,1
+Bajaj Platina  Alloy ES-100cc,38000.0,Faridabad,12692.0,0,2.0,100.0,1
+Yamaha FZ16 150cc,32600.0,Mumbai,23500.0,0,7.0,150.0,21
+Honda CBR 150R 150cc,67000.0,Jaipur,43871.0,0,6.0,150.0,6
+Royal Enfield Classic 500cc,130000.0,Ranip,15000.0,0,5.0,500.0,17
+Benelli TNT 300,200000.0,Pune,6400.0,2,5.0,300.0,2
+Honda Livo 110cc,40000.0,Faridabad,10637.0,0,3.0,110.0,6
+Hero Passion Plus 100cc,10669.0,Raigarh(mh),49000.0,0,15.0,100.0,5
+KTM Duke 390cc,160000.0,Thane,10500.0,0,5.0,390.0,11
+Honda CBR 250R,110000.0,Surat,4700.0,0,6.0,250.0,6
+Bajaj Pulsar 150cc,22000.0,Sundargarh,30000.0,0,14.0,150.0,1
+Hero Hunk 150cc,17000.0,Gurgaon,31214.0,0,10.0,150.0,5
+TVS Apache RTR 160 4V Disc,78700.0,Rudrapur,3710.0,0,2.0,160.0,19
+Bajaj Pulsar NS200,85000.0,Delhi,10000.0,0,3.0,200.0,1
+Harley-Davidson Iron 883,700000.0,Mumbai,10334.0,0,5.0,883.0,4
+Bajaj  Pulsar 180cc,32000.0,Delhi,20000.0,0,8.0,180.0,1
+Kawasaki Ninja 300cc,166000.0,Gadarpur,5150.0,0,7.0,300.0,12
+Bajaj Platina 100cc,21000.0,Faridabad,15705.0,0,4.0,100.0,1
+Royal Enfield Thunderbird 500cc,140000.0,Mumbai,17000.0,0,6.0,500.0,17
+Ducati Panigale 959,1220000.0,Pune,4400.0,2,5.0,959.0,3
+Hero Splendor Plus 100cc,17500.0,Faridabad,22002.0,0,11.0,100.0,5
+Royal Enfield Bullet Electra 350cc,75000.0,Gurgaon,16135.0,0,6.0,350.0,17
+Bajaj Pulsar 150cc,16000.0,Thane,99000.0,0,11.0,150.0,1
+Bajaj Pulsar RS200 ABS,79000.0,Bhubaneshwar,32000.0,0,6.0,200.0,1
+Honda Dream Yuga 110cc,20000.0,Gurgaon,18438.0,0,9.0,110.0,6
+Hero Passion Plus 100cc,15000.0,Tiruvallur,35000.0,0,13.0,100.0,5
+Bajaj Pulsar 180cc,25000.0,Hisar,65000.0,0,7.0,180.0,1
+Bajaj Discover 100M,29300.0,Varanasi,19000.0,0,6.0,100.0,1
+Hero Passion Pro 100cc,23000.0,Delhi,18114.0,0,7.0,100.0,5
+TVS Apache 150cc,11000.0,Kanchipuram,6807.0,0,14.0,150.0,19
+KTM RC 200cc,175000.0,Hyderabad,6344.0,0,3.0,200.0,11
+Royal Enfield Classic 350cc Signals Edition,160000.0,Bangalore,18000.0,0,3.0,350.0,17
+Royal Enfield Classic 350cc,120000.0,Chennai,12000.0,0,5.0,350.0,17
+Yamaha SZR 150cc,30000.0,Jaipur,35600.0,0,9.0,150.0,21
+Hero Glamour i3s 125cc,37000.0,Delhi,12000.0,0,4.0,125.0,5
+TVS Star Sport 100cc,22800.0,Jhansi,17000.0,2,5.0,100.0,19
+Hero Glamour 125cc,16200.0,Pune,90382.0,0,12.0,125.0,5
+TVS Apache RTR 180cc,65000.0,Anantapur,31100.0,0,5.0,180.0,19
+Bajaj Dominar 400 ABS,177500.0,Silchar,3000.0,0,2.0,400.0,1
+Royal Enfield Classic 350cc,100000.0,Gurgaon,8942.0,0,7.0,350.0,17
+Yamaha FZs 150cc,35000.0,Delhi,28000.0,0,9.0,150.0,21
+Royal Enfield Bullet Electra 350cc,78000.0,Siliguri,20000.0,0,8.0,350.0,17
+KTM Duke 250cc,170000.0,Hyderabad,3822.0,0,3.0,250.0,11
+Benelli TNT 300,199999.0,Chennai,15000.0,2,4.0,300.0,2
+Hero CD Deluxe 100cc,33680.0,Delhi,28000.0,0,4.0,100.0,5
+Bajaj Pulsar NS200,50000.0,Gurgaon,28332.0,0,8.0,200.0,1
+Royal Enfield Bullet Twinspark 350cc,103000.0,Gurgaon,23705.0,0,4.0,350.0,17
+Honda CB Hornet 160R Special Edition-CBS,88000.0,Thane,150.0,0,4.0,160.0,6
+Suzuki Gixxer SF 150cc Special MOTOGP Edition Rear Disc,58500.0,Bangalore,15500.0,2,4.0,150.0,18
+Hero Splendor Plus 100cc,34000.0,Faridabad,16306.0,0,5.0,100.0,5
+Suzuki Intruder SP 150cc,100500.0,Ahmedabad,6000.0,0,3.0,150.0,18
+Hero Passion Pro 100cc,20800.0,Faridabad,20757.0,0,8.0,100.0,5
+Hero CD Deluxe 100cc,27000.0,Vadodara,20000.0,0,10.0,100.0,5
+Hero Passion Xpro 110cc,35000.0,Delhi,23000.0,0,6.0,110.0,5
+KTM Duke 200cc,120000.0,Jhajjar,16000.0,2,7.0,200.0,11
+Hero Splendor Plus 100cc,42000.0,Faridabad,9164.0,0,3.0,100.0,5
+Harley-Davidson Fat Bob 107 Ci,1100000.0,Delhi,24000.0,0,4.0,107.0,4
+Bajaj Pulsar 135LS,41000.0,Kolkata,12000.0,0,4.0,135.0,1
+Hero CD Deluxe 100cc,17000.0,Jhansi,35000.0,3,11.0,100.0,5
+Royal Enfield Machismo 350cc,65000.0,Ahmedabad,39838.0,0,20.0,350.0,17
+Royal Enfield Classic 350cc,145000.0,Mumbai,12000.0,0,3.0,350.0,17
+Bajaj V15 150cc,57000.0,Gurgaon,3983.0,0,3.0,150.0,1
+Royal Enfield‎ Bullet 350cc,94049.0,Surat,32000.0,0,7.0,350.0,17
+Bajaj Pulsar 150cc,32000.0,Lucknow,40000.0,2,11.0,150.0,1
+Royal Enfield Classic Desert Storm 500cc,105000.0,Pune,11072.0,0,8.0,500.0,17
+KTM Duke 390cc,210000.0,Hyderabad,6013.0,0,3.0,390.0,11
+Yamaha YZF-R15 2.0 150cc,65000.0,Mumbai,22000.0,0,8.0,150.0,21
+Suzuki GS 150 R 150cc,25000.0,Panchkula,29000.0,0,10.0,150.0,18
+Yamaha YZF-R3 320cc,308000.0,Delhi,16000.0,0,3.0,320.0,21
+Bajaj Avenger 200cc,25000.0,Delhi,25000.0,0,12.0,200.0,1
+Honda CBF Stunner 125cc,28000.0,Mumbai,46915.0,2,10.0,125.0,6
+Bajaj Pulsar NS200,89000.0,Vijayawada,600.0,0,3.0,200.0,1
+Bajaj Pulsar 180cc,32000.0,Pune,30042.0,0,10.0,180.0,1
+Royal Enfield Thunderbird 350cc,90000.0,Mumbai,7800.0,0,7.0,350.0,17
+Hero Glamour 125cc,41000.0,Bhubaneshwar,35000.0,0,7.0,125.0,5
+Royal Enfield Bullet Twinspark 350cc,90000.0,Delhi,32000.0,0,8.0,350.0,17
+Bajaj Avenger 220cc,65000.0,Navi Mumbai,27500.0,0,5.0,220.0,1
+KTM Duke 200cc,100000.0,Ludhiana,6578.0,0,6.0,200.0,11
+Royal Enfield Bullet 350cc,110000.0,Ludhiana,7800.0,0,5.0,350.0,17
+Bajaj Avenger 220cc,60600.0,Hyderabad,7200.0,0,6.0,220.0,1
+Honda CB Unicorn 160 STD,45000.0,Chennai,17400.0,0,6.0,160.0,6
+TVS Apache 150cc,16000.0,Gurgaon,28350.0,0,15.0,150.0,19
+Ducati Monster 796 Corse Stripe,380000.0,Chennai,30000.0,0,9.0,796.0,3
+KTM RC 390cc,240000.0,Ludhiana,4000.0,0,5.0,390.0,11
+Bajaj Dominar 400 ABS,125000.0,Bangalore,27400.0,0,4.0,400.0,1
+Bajaj Pulsar RS200,90000.0,Faridabad,39000.0,0,6.0,200.0,1
+Bajaj Pulsar AS150,50000.0,Gurgaon,12859.0,0,6.0,150.0,1
+Suzuki Slingshot Plus 125cc,15900.0,Ahmedabad,39000.0,0,10.0,125.0,18
+Honda CB Shine 125cc,40000.0,Nizamabad,17600.0,0,5.0,125.0,6
+Hero Passion Pro 100cc,42000.0,Jaipur,32567.0,0,5.0,100.0,5
+Hero HF Deluxe Eco 100cc,55000.0,Gurgaon,2309.0,0,2.0,100.0,5
+Hero Splendor Plus 100cc,20000.0,Sonepat,60000.0,0,14.0,100.0,5
+Royal Enfield Bullet Electra Twinspark 350cc,90000.0,Gurgaon,44777.0,0,6.0,350.0,17
+Honda CB Twister 110cc,30000.0,Chandigarh,27598.0,0,8.0,110.0,6
+Royal Enfield Thunderbird 350cc,125000.0,Bangalore,3538.0,0,5.0,350.0,17
+Hero CD Dawn 100cc,15000.0,Amravati,80000.0,0,11.0,100.0,5
+Yamaha RX135 135cc 4-Speed,85000.0,Mumbai,300.0,3,24.0,135.0,21
+Royal Enfield Classic 350cc,125600.0,Delhi,16000.0,0,4.0,350.0,17
+Hero Karizma ZMR 223cc,28000.0,Roorkee,38000.0,0,11.0,223.0,5
+Royal Enfield Himalayan 410cc,118000.0,Gurgaon,19000.0,0,4.0,410.0,17
+Bajaj Pulsar 150cc,40000.0,Hyderabad,93566.0,0,6.0,150.0,1
+KTM Duke 390cc,124000.0,Chennai,10168.0,0,5.0,390.0,11
+Royal Enfield Thunderbird 350cc,85000.0,Delhi,25000.0,0,6.0,350.0,17
+Bajaj Platina 100cc,25000.0,Faridabad,17870.0,0,7.0,100.0,1
+Honda CB Shine 125cc,22000.0,Delhi,10835.0,0,10.0,125.0,6
+KTM Duke 250cc,155000.0,Ahmedabad,8790.0,0,4.0,250.0,11
+Hero Passion Pro i3S Disc 100cc,40000.0,Delhi,29697.0,0,4.0,100.0,5
+Royal Enfield Electra 350cc,135000.0,Ahmedabad,10779.0,0,2.0,350.0,17
+Royal Enfield Bullet Electra 350cc,78000.0,Lucknow,8500.0,0,13.0,350.0,17
+Royal Enfield Classic Gunmetal Grey 350cc,135000.0,Delhi,12000.0,0,3.0,350.0,17
+Bajaj Pulsar NS200,79999.0,Chennai,10922.0,0,4.0,200.0,1
+Bajaj Pulsar NS160,56000.0,Delhi,7974.0,0,4.0,160.0,1
+Bajaj Pulsar 220F,68000.0,Mumbai,15000.0,0,3.0,220.0,1
+Bajaj Pulsar RS200 ABS,138900.0,Delhi,280.0,0,3.0,200.0,1
+Suzuki Gixxer 150cc SP Rear Disc,84000.0,24 Pargana,200.0,0,4.0,150.0,18
+TVS Apache RTR 160cc,60000.0,Ghaziabad,14525.0,0,3.0,160.0,19
+Royal Enfield Bullet Electra Twinspark 350cc,135000.0,Indore,23000.0,0,3.0,350.0,17
+KTM RC 200cc,98600.0,Mumbai,15500.0,0,6.0,200.0,11
+Kawasaki ER-6n 650cc,420000.0,Pune,5670.0,0,5.0,650.0,12
+Bajaj Pulsar RS200 ABS,105000.0,Mumbai,15000.0,0,6.0,200.0,1
+Hero Splendor Pro 100cc,20000.0,Alwar,15906.0,0,10.0,100.0,5
+Bajaj CT 100 100cc,9000.0,Gandhinagar,73000.0,0,17.0,100.0,1
+KTM RC 200cc,200000.0,Bangalore,14608.0,0,3.0,200.0,11
+Honda Livo 110cc,53214.0,Jaipur,15492.0,0,2.0,110.0,6
+Royal Enfield Classic 350cc,106700.0,Delhi,14500.0,0,7.0,350.0,17
+Bajaj Pulsar 180cc,24000.0,Delhi,51503.0,0,8.0,180.0,1
+Bajaj CT 100 100cc,21500.0,Gurgaon,22398.0,0,5.0,100.0,1
+Bajaj  Pulsar 180cc,16000.0,Ludhiana,36500.0,0,13.0,180.0,1
+Suzuki Slingshot Plus 125cc,32000.0,Lucknow,22697.0,0,7.0,125.0,18
+Hero Passion Xpro 110cc,37000.0,Kota,18377.0,0,7.0,110.0,5
+Hero Passion Pro 100cc,30000.0,Delhi,23000.0,0,6.0,100.0,5
+Hero Passion Plus 100cc,15000.0,Gurgaon,35400.0,0,13.0,100.0,5
+Bajaj CT 100 100cc,17500.0,Delhi,42852.0,0,6.0,100.0,1
+KTM Duke 390cc,130000.0,Mumbai,27000.0,0,6.0,390.0,11
+TVS Fiero 150cc,12000.0,Pune,36000.0,0,18.0,150.0,19
+Honda CBF Stunner 125cc,17000.0,Faridabad,30124.0,0,11.0,125.0,6
+Bajaj Avenger Cruise 220,68000.0,Jalandhar,5800.0,0,4.0,220.0,1
+Honda CB Shine 125cc,27000.0,Mumbai,89454.0,3,17.0,125.0,6
+Honda CBR 250R,65000.0,Ghaziabad,15000.0,0,9.0,250.0,6
+Bajaj Avenger Street 150,35600.0,Mumbai,41932.0,0,5.0,150.0,1
+Yamaha FZs 150cc,33000.0,Faridabad,99999.0,0,7.0,150.0,21
+TVS Sport 100cc,26000.0,Faridabad,12216.0,0,4.0,100.0,19
+Royal Enfield Classic 350cc,131100.0,Gurgaon,6200.0,0,4.0,350.0,17
+Hyosung GT250R,220000.0,Pune,1884.0,0,5.0,250.0,7
+Royal Enfield Classic Chrome 500cc,95000.0,Bangalore,40000.0,0,10.0,500.0,17
+Yamaha Fazer 150cc,45000.0,Bangalore,38040.0,0,7.0,150.0,21
+Honda X-Blade 160cc,80000.0,Mumbai,15550.0,0,3.0,160.0,6
+Bajaj Avenger Street 220,60000.0,Bhubaneshwar,23500.0,2,5.0,220.0,1
+Hero Karizma ZMR 223cc,28000.0,Mumbai,47098.0,0,9.0,223.0,5
+Honda CB Shine 125cc,33000.0,Jaipur,12552.0,0,8.0,125.0,6
+Royal Enfield Himalayan 410cc,150000.0,Hyderabad,26157.0,0,4.0,410.0,17
+Hero Splendor iSmart Plus IBS 110cc,50000.0,Delhi,11584.0,0,2.0,110.0,5
+Royal Enfield Classic Chrome 500cc,125000.0,Delhi,15888.0,0,5.0,500.0,17
+Royal Enfield Classic 500cc,180000.0,Delhi,4030.0,0,4.0,500.0,17
+Hero Splendor iSmart 110cc,56435.0,Vadodara,12192.0,0,5.0,110.0,5
+Yamaha YZF-R15 150cc,79000.0,Guwahati,22000.0,0,7.0,150.0,21
+Hero CD Deluxe 100cc,20000.0,Lucknow,5000.0,0,10.0,100.0,5
+Honda Dream Yuga 110cc,25000.0,Ahmedabad,51917.0,0,6.0,110.0,6
+Bajaj Avenger Street 150,69000.0,Kanpur Nagar,17000.0,0,5.0,150.0,1
+Bajaj CT 100 100cc,27000.0,Ghaziabad,22477.0,0,5.0,100.0,1
+Bajaj Avenger Cruise 220,60000.0,Mumbai,20021.0,0,5.0,220.0,1
+Bajaj Pulsar 220F,90000.0,Kanpur,2463.0,0,3.0,220.0,1
+TVS Apache RTR 160cc,63000.0,Jaipur,1639.0,0,4.0,160.0,19
+Royal Enfield Thunderbird X 350cc,148000.0,Jalandhar,3000.0,0,3.0,350.0,17
+Bajaj Pulsar NS200,73000.0,Bangalore,6041.0,0,4.0,200.0,1
+Hero Passion Plus 100cc,26000.0,Chennai,28000.0,0,9.0,100.0,5
+Hero Passion Pro i3S Alloy 100cc,60000.0,Ghaziabad,15733.0,0,4.0,100.0,5
+Hero CBZ Xtreme 150cc,27000.0,Gurgaon,25874.0,0,10.0,150.0,5
+Bajaj Pulsar 220F,38000.0,Bangalore,58816.0,0,11.0,220.0,1
+Bajaj Platina 100cc,23000.0,Gurgaon,25144.0,0,6.0,100.0,1
+KTM RC 390cc,155000.0,Mumbai,15500.0,0,5.0,390.0,11
+TVS Star City 110cc,14500.0,Indore,35000.0,0,12.0,110.0,19
+Hero Passion Pro 100cc,20000.0,Delhi,73190.0,0,8.0,100.0,5
+TVS Star City 110cc,26500.0,Jaipur,2342.0,0,9.0,110.0,19
+Bajaj Avenger Cruise 220,80000.0,Pune,16296.0,0,5.0,220.0,1
+TVS Apache RTR 160 4V DISC ABS,89000.0,Delhi,3000.0,0,2.0,160.0,19
+TVS Star City Plus 110cc,38000.0,Gurgaon,23700.0,0,4.0,110.0,19
+Bajaj Pulsar RS200,122200.0,Bangalore,13000.0,0,4.0,200.0,1
+TVS Apache RTR 160 4V Carburetor,90000.0,Ghaziabad,2672.0,0,2.0,160.0,19
+Hero Glamour 125cc,25000.0,Cuttack,20000.0,0,11.0,125.0,5
+Bajaj Avenger 220cc,75000.0,Bangalore,7500.0,0,5.0,220.0,1
+Royal Enfield Classic Desert Storm 500cc,120000.0,Pune,8827.0,0,5.0,500.0,17
+KTM Duke 200cc,95000.0,Tiruchirappalli,27800.0,0,6.0,200.0,11
+Royal Enfield Classic 350cc,135000.0,Ghaziabad,14878.0,0,3.0,350.0,17
+Royal Enfield Classic 350cc,136000.0,Amritsar,20200.0,0,5.0,350.0,17
+Bajaj Avenger Cruise 220,70000.0,Delhi,9900.0,0,5.0,220.0,1
+Hero Karizma ZMR 223cc,70000.0,Delhi,10000.0,3,4.0,223.0,5
+Royal Enfield Thunderbird 350cc,117000.0,Mumbai,3400.0,0,4.0,350.0,17
+Royal Enfield Classic 350cc,80000.0,Pune,22500.0,0,7.0,350.0,17
+TVS Apache RTR 160cc,19542.0,Jaipur,56592.0,0,9.0,160.0,19
+Bajaj CT 100 100cc,29000.0,Faridabad,15369.0,0,3.0,100.0,1
+Bajaj Avenger 220cc,60000.0,Delhi,21000.0,0,7.0,220.0,1
+TVS Star City 110cc,22000.0,Jaipur,31000.0,0,10.0,110.0,19
+Royal Enfield Thunderbird 350cc,51426.0,Mumbai,3622.0,2,12.0,350.0,17
+Honda CB Shine 125cc,47500.0,Mumbai,12546.0,0,5.0,125.0,6
+KTM Duke 390cc,173000.0,Palakkad,18500.0,0,5.0,390.0,11
+Bajaj Pulsar 220F,56000.0,Noida,20012.0,0,4.0,220.0,1
+Harley-Davidson Iron 883,550000.0,Delhi,20000.0,0,6.0,883.0,4
+Royal Enfield Thunderbird 350cc,120000.0,Vadodara,32000.0,0,5.0,350.0,17
+Hero Splendor Plus 100cc,22000.0,Faridabad,11381.0,0,7.0,100.0,5
+Honda CBR 150R 150cc,58000.0,Mumbai,12728.0,0,5.0,150.0,6
+Hero Splendor Plus 100cc,27500.0,Faridabad,19371.0,0,5.0,100.0,5
+Mahindra Centuro 110cc,21400.0,Delhi,27000.0,0,6.0,110.0,15
+Royal Enfield Bullet Twinspark 350cc,110000.0,Gurgaon,17000.0,0,5.0,350.0,17
+Honda CB Unicorn 150cc,25000.0,Mumbai,67503.0,3,15.0,150.0,6
+KTM Duke 390cc,263000.0,Delhi,1178.0,0,2.0,390.0,11
+Bajaj Avenger 220cc,38000.0,Ghaziabad,9370.0,0,8.0,220.0,1
+Hero CD Deluxe 100cc,27500.0,Vadodara,25000.0,0,9.0,100.0,5
+Hero Splendor Pro 100cc,38000.0,Pune,35000.0,0,6.0,100.0,5
+Hero CD Deluxe 100cc,25000.0,Jaipur,21300.0,0,10.0,100.0,5
+Honda CB Shine 125cc,28000.0,Gurgaon,24310.0,0,7.0,125.0,6
+Yamaha FZs 150cc,32000.0,Ghaziabad,18818.0,0,11.0,150.0,21
+Honda CB Trigger 150cc,34500.0,Delhi,43561.0,0,8.0,150.0,6
+Royal Enfield Bullet Twinspark 350cc,110000.0,Naraingarh,24300.0,0,3.0,350.0,17
+Honda CB Unicorn 150cc,59000.0,Bangalore,21952.0,0,3.0,150.0,6
+Royal Enfield Classic 500cc,118000.0,Mumbai,12434.0,0,6.0,500.0,17
+Bajaj Pulsar AS150,44000.0,Delhi,25000.0,0,6.0,150.0,1
+Bajaj Discover 125M,17000.0,Delhi,47543.0,0,8.0,125.0,1
+KTM RC 200cc,140000.0,Nagpur,14000.0,0,5.0,200.0,11
+Honda Dream Yuga 110cc,22000.0,Gurgaon,38706.0,0,8.0,110.0,6
+Hero Passion Plus 100cc,20000.0,Ludhiana,22500.0,0,12.0,100.0,5
+Hero CBZ Xtreme 150cc,16088.0,Rajkot,25000.0,0,12.0,150.0,5
+TVS Apache 150cc,23000.0,Bangalore,174638.0,0,14.0,150.0,19
+Hero Splendor Plus 100cc,12000.0,Gurgaon,67569.0,0,13.0,100.0,5
+Hero Ignitor 125cc,20000.0,Pune,64500.0,2,8.0,125.0,5
+Bajaj Discover 125cc,25500.0,Jaipur,22793.0,0,6.0,125.0,1
+Hero Splendor Plus 100cc,18000.0,Ludhiana,42000.0,0,12.0,100.0,5
+Hero Splendor iSmart 100cc,26000.0,Delhi,35655.0,0,6.0,100.0,5
+Bajaj Pulsar 220cc,40000.0,Ranchi,27500.0,0,12.0,220.0,1
+Harley-Davidson Iron 883,435000.0,Jaipur,5550.0,2,7.0,883.0,4
+Bajaj Pulsar AS150,43600.0,Faridabad,15675.0,0,6.0,150.0,1
+Bajaj Platina 100cc,21500.0,Vadodara,30000.0,0,9.0,100.0,1
+Hero Splendor Pro 100cc,26000.0,Faridabad,14882.0,0,7.0,100.0,5
+Royal Enfield Classic 350cc,74000.0,Mumbai,15000.0,0,9.0,350.0,17
+Royal Enfield Thunderbird 350cc,92000.0,Gandhinagar,25000.0,2,5.0,350.0,17
+Bajaj Pulsar 220cc,29000.0,Mumbai,51106.0,0,9.0,220.0,1
+Bajaj Pulsar 150cc,35000.0,Pune,45189.0,0,10.0,150.0,1
+Royal Enfield Thunderbird 350cc,140000.0,Rajkot,8300.0,0,4.0,350.0,17
+Bajaj V15 150cc,45000.0,Ghaziabad,8634.0,0,4.0,150.0,1
+Bajaj V15 150cc,26000.0,Gurgaon,19346.0,0,4.0,150.0,1
+Hero Splendor Pro 100cc,21000.0,Faridabad,16681.0,0,10.0,100.0,5
+Bajaj Pulsar 180cc,50000.0,Gangaikondan,20000.0,0,6.0,180.0,1
+Yamaha YZF-R15 2.0 150cc,41000.0,Medak,60000.0,0,10.0,150.0,21
+Bajaj Avenger 220cc,42000.0,Bangalore,34502.0,2,7.0,220.0,1
+Bajaj Discover 125ST,20000.0,Gurgaon,28425.0,0,8.0,125.0,1
+Bajaj Pulsar NS160,68500.0,Delhi,8100.0,0,3.0,160.0,1
+Honda CBR650R,770000.0,Delhi,4750.0,0,2.0,650.0,6
+Royal Enfield Classic Desert Storm 500cc,130000.0,Ahmedabad,14000.0,0,6.0,500.0,17
+Bajaj Discover 125cc,25000.0,Faridabad,21163.0,0,5.0,125.0,1
+Bajaj Pulsar 150cc,21000.0,Gurgaon,44770.0,0,11.0,150.0,1
+Bajaj Avenger Street 220,70000.0,Hyderabad,15500.0,0,5.0,220.0,1
+Hero Splendor Plus 100cc,49000.0,Ghaziabad,16152.0,0,3.0,100.0,5
+Bajaj Boxer CT100,18000.0,Bolpur,50000.0,0,17.0,100.0,1
+KTM Duke 200cc,94700.0,Baripara,32700.0,0,4.0,200.0,11
+Bajaj Pulsar NS200,48928.0,Kolkata,56000.0,0,9.0,200.0,1
+Bajaj Pulsar 180cc,40000.0,Pune,43500.0,0,11.0,180.0,1
+Yamaha Fazer25 250cc,105000.0,Thrissur,14300.0,0,3.0,250.0,21
+TVS Apache RTR 200 4V FI,62000.0,Darbhanga,76663.0,0,4.0,200.0,19
+Royal Enfield Classic 350cc,115000.0,Delhi,8000.0,0,4.0,350.0,17
+Bajaj Pulsar 220cc,72000.0,Bangalore,21389.0,0,4.0,220.0,1
+Harley-Davidson Street 750,370000.0,Mumbai,4899.0,2,5.0,750.0,4
+TVS Apache RTR 200 4V ABS Race Edition,58742.0,Delhi,11068.0,0,3.0,200.0,19
+TVS Phoenix 125cc,18000.0,Delhi,34860.0,0,6.0,125.0,19
+Yamaha SS 125 125cc,18000.0,Gurgaon,19443.0,2,8.0,125.0,21
+Hero Splendor Plus 100cc,35000.0,Ghaziabad,17105.0,0,6.0,100.0,5
+Suzuki Gixxer 150cc,35000.0,Mumbai,43399.0,2,6.0,150.0,18
+Honda CB Hornet 160R,78000.0,Chakan,2200.0,0,4.0,160.0,6
+Honda CB Trigger 150cc,33000.0,Delhi,44020.0,0,7.0,150.0,6
+Honda CB Shine 125cc,25000.0,Ahmedabad,31400.0,0,7.0,125.0,6
+Bajaj Discover 125ST,27000.0,Bangalore,23000.0,0,8.0,125.0,1
+Bajaj Pulsar 150cc,12000.0,Delhi,32148.0,2,14.0,150.0,1
+Hero Passion Xpro 110cc,27100.0,Jhansi,29000.0,0,8.0,110.0,5
+Bajaj Avenger Street 220,66000.0,Bangalore,26592.0,0,4.0,220.0,1
+Yamaha Gladiator 125cc,21000.0,Coimbatore,49309.0,0,13.0,125.0,21
+Honda Livo 110cc,53400.0,Delhi,1500.0,0,3.0,110.0,6
+Hero Passion Pro 100cc,45000.0,Ghaziabad,13451.0,0,3.0,100.0,5
+Royal Enfield Thunderbird 500cc,114000.0,Hyderabad,22493.0,0,5.0,500.0,17
+Bajaj V15 150cc,35500.0,Delhi,17500.0,2,5.0,150.0,1
+Hero Splendor Pro 100cc,20000.0,Faridabad,19420.0,0,10.0,100.0,5
+Suzuki Gixxer 150cc,38500.0,Kalyan,20000.0,0,7.0,150.0,18
+Honda CB Shine 125cc,30000.0,Gurgaon,47293.0,0,5.0,125.0,6
+Benelli TNT 300,210000.0,Kolkata,21000.0,0,6.0,300.0,2
+Hero CD Dawn 100cc,12000.0,Ahmedabad,35000.0,0,15.0,100.0,5
+Royal Enfield Bullet Twinspark 350cc,98000.0,Hyderabad,20783.0,0,5.0,350.0,17
+Hero Passion Pro 100cc,37000.0,Bangalore,18067.0,0,7.0,100.0,5
+Honda CB Unicorn 160,45000.0,Aurangabad,41230.0,0,6.0,160.0,6
+Royal Enfield Thunderbird 350cc,125000.0,Pune,20000.0,0,6.0,350.0,17
+Hero Passion Pro 100cc,30000.0,Chennai,22560.0,0,7.0,100.0,5
+Bajaj Pulsar 150cc,30000.0,Faridabad,21585.0,0,6.0,150.0,1
+Bajaj Discover 100M,32000.0,Lucknow,41585.0,2,9.0,100.0,1
+Bajaj CT 100 100cc,24000.0,Gurgaon,15780.0,0,5.0,100.0,1
+Bajaj V15 150cc,50000.0,Delhi,9200.0,0,4.0,150.0,1
+Yamaha FZ V 2.0 150cc,70000.0,Faridabad,11592.0,0,3.0,150.0,21
+Bajaj Discover 125ST,21700.0,Jhansi,28000.0,0,8.0,125.0,1
+BMW S 1000 RR Pro,1800000.0,Delhi,2600.0,0,4.0,1000.0,0
+Bajaj Dominar 400 ABS,130000.0,Chennai,23400.0,0,4.0,400.0,1
+TVS Apache RTR 160cc Matt Red Rear Disc,76000.0,Delhi,8000.0,0,2.0,160.0,19
+Hero Splendor Plus 100cc,15800.0,Faridabad,15939.0,0,13.0,100.0,5
+Hero Xtreme Sports 149cc,65000.0,Pune,4500.0,0,5.0,149.0,5
+Bajaj Pulsar NS200,75000.0,Delhi,3400.0,0,4.0,200.0,1
+Bajaj Avenger 220cc,52000.0,Delhi,31782.0,0,6.0,220.0,1
+Benelli TNT 300,267600.0,Bangalore,21200.0,0,5.0,300.0,2
+Suzuki Gixxer SF 150cc ABS,71000.0,Delhi,14802.0,0,3.0,150.0,18
+Honda CB Unicorn Dazzler 150cc,16000.0,Kanchipuram,51700.0,0,10.0,150.0,6
+Hero Splendor Plus 100cc,14500.0,Delhi,35000.0,0,14.0,100.0,5
+Hero Passion Pro 110cc Drum,56000.0,Delhi,1168.0,0,2.0,110.0,5
+KTM Duke 390cc,100000.0,Mumbai,9300.0,0,8.0,390.0,11
+Hero Splendor Pro 100cc,35000.0,Ahmedabad,37795.0,0,7.0,100.0,5
+Yamaha FZs 150cc,32600.0,Udaipurwati,25000.0,0,10.0,150.0,21
+Bajaj Avenger Cruise 220,70000.0,Yamuna Nagar,5200.0,2,4.0,220.0,1
+Hero HF Deluxe 100cc,36000.0,Vadodara,16830.0,0,6.0,100.0,5
+Honda CBR 250R,70000.0,Delhi,12000.0,0,7.0,250.0,6
+Hero Splendor Plus 100cc,42630.0,Delhi,9900.0,0,3.0,100.0,5
+Royal Enfield Continental GT 535cc,99000.0,Gurgaon,17750.0,0,6.0,535.0,17
+Hyosung GT250R,200000.0,Mumbai,6629.0,0,5.0,250.0,7
+TVS Apache RTR 160cc,45000.0,Ahmedabad,18000.0,0,5.0,160.0,19
+Honda CBF Stunner 125cc,13200.0,Delhi,37000.0,0,13.0,125.0,6
+Bajaj Pulsar 150cc,11000.0,Delhi,30502.0,0,14.0,150.0,1
+KTM RC 390cc,150000.0,Mumbai,11500.0,0,5.0,390.0,11
+Bajaj Pulsar 220cc,35000.0,Chikamaglur,60000.0,2,12.0,220.0,1
+Bajaj Avenger Street 150,40000.0,Ghaziabad,23156.0,0,5.0,150.0,1
+Yamaha SZ-RR 150cc,23600.0,Delhi,22672.0,2,6.0,150.0,21
+Royal Enfield Thunderbird 500cc,125000.0,Pune,14480.0,0,9.0,500.0,17
+Yamaha YZF-R15 150cc,65000.0,Faridabad,26925.0,0,5.0,150.0,21
+Hero HF Deluxe 100cc,26000.0,Jaipur,20000.0,0,9.0,100.0,5
+Hero Passion Xpro 110cc,25000.0,Faridabad,22588.0,0,7.0,110.0,5
+Bajaj Pulsar NS200,70000.0,Agra,13500.0,0,4.0,200.0,1
+Hero Xtreme 200R ABS,97400.0,Guwahati,9700.0,0,2.0,200.0,5
+TVS Apache RTR 180cc,88000.0,Gurgaon,900.0,0,2.0,180.0,19
+Honda CB Hornet 160R STD,65000.0,Pune,38558.0,0,5.0,160.0,6
+Bajaj Pulsar NS160 Rear Disc,85000.0,Silchar,3000.0,0,2.0,160.0,1
+Bajaj V15 150cc,38700.0,Delhi,22540.0,0,5.0,150.0,1
+Bajaj V15 150cc,42000.0,Bhubaneshwar,19000.0,0,5.0,150.0,1
+Suzuki Gixxer SF 150cc SP Rear Disc,50000.0,Delhi,12000.0,0,4.0,150.0,18
+KTM Duke 390cc,240000.0,Bangalore,11000.0,0,3.0,390.0,11
+Bajaj Pulsar RS200,91500.0,Delhi,7000.0,0,6.0,200.0,1
+Yamaha FZ16 150cc,42000.0,Jaipur,25000.0,0,6.0,150.0,21
+Royal Enfield Bullet Twinspark 350cc,80000.0,Faridabad,10444.0,0,6.0,350.0,17
+KTM RC 390cc,160000.0,Delhi,13400.0,0,4.0,390.0,11
+Honda CB Shine 125cc,17000.0,Jhansi,35000.0,3,10.0,125.0,6
+Suzuki Intruder 150cc,70000.0,Delhi,1217.0,0,4.0,150.0,18
+Hero Splendor Pro 100cc,35000.0,Asansol,23000.0,0,7.0,100.0,5
+Hyosung GT650R,170000.0,Anekal,210.0,0,8.0,650.0,7
+Royal Enfield Classic 350cc,115000.0,Chennai,18500.0,0,4.0,350.0,17
+TVS Apache RTR 180cc,70000.0,Chennai,19500.0,0,5.0,180.0,19
+Royal Enfield Himalayan 410cc,142000.0,Pondicherry,26000.0,0,5.0,410.0,17
+Honda CB Shine 125cc,22500.0,Gurgaon,17644.0,0,8.0,125.0,6
+Suzuki Gixxer 150cc,52200.0,Uluberia,29000.0,0,4.0,150.0,18
+Bajaj Pulsar NS200,80000.0,Hamirpur,17000.0,0,3.0,200.0,1
+Bajaj Pulsar 220F,74500.0,Delhi,10000.0,0,4.0,220.0,1
+Royal Enfield Classic Desert Storm 500cc,116762.0,Chennai,30000.0,0,7.0,500.0,17
+Hero CD Dawn 100cc,16000.0,Faridabad,31327.0,0,10.0,100.0,5
+Bajaj Pulsar 220F,68000.0,Mumbai,23511.0,0,4.0,220.0,1
+Bajaj Dominar 400 ABS,106000.0,Mumbai,26429.0,0,4.0,400.0,1
+Bajaj Avenger Street 220,60000.0,Delhi,20373.0,0,6.0,220.0,1
+KTM Duke 250cc,185000.0,Chennai,4362.0,0,2.0,250.0,11
+TVS Star Sport 100cc,11000.0,Gurgaon,52000.0,0,14.0,100.0,19
+Bajaj CT 100 B,21000.0,Gautam Buddha Nagar,13000.0,0,4.0,100.0,1
+Honda CBF Stunner 125cc,18000.0,Gwalior,50000.0,0,10.0,125.0,6
+Royal Enfield Bullet Electra 350cc,85000.0,Vadodara,16904.0,0,7.0,350.0,17
+Bajaj Pulsar 220cc,51000.0,Bangalore,39766.0,0,7.0,220.0,1
+BMW G 310 R,255000.0,Mohali,2200.0,0,3.0,310.0,0
+Royal Enfield Himalayan 410cc Fi ABS,166000.0,Guwahati,250.0,0,2.0,410.0,17
+Suzuki Hayabusa 1300cc,1250000.0,Chandrapur,3800.0,0,7.0,1300.0,18
+Hero Splendor iSmart 110cc,50200.0,Chhatarpur,13500.0,0,4.0,110.0,5
+Bajaj Platina 100cc,27500.0,Sangrur,48000.0,0,8.0,100.0,1
+Bajaj Pulsar 150cc,42000.0,Jalandhar,22000.0,0,7.0,150.0,1
+Hero CD Deluxe 100cc,28000.0,Pune,20108.0,0,10.0,100.0,5
+Kawasaki Vulcan S 650cc,459877.0,Hyderabad,12118.0,0,4.0,650.0,12
+Hero HF Deluxe 100cc,27000.0,Gurgaon,17507.0,0,7.0,100.0,5
+TVS Apache RTR 180cc,55000.0,Gurgaon,20363.0,0,4.0,180.0,19
+Honda CB Trigger 150cc,48915.0,Bhavnagar,22000.0,0,8.0,150.0,6
+TVS Apache RTR 160cc,15000.0,Gurgaon,85086.0,0,14.0,160.0,19
+Honda CB Twister 110cc,30000.0,Pune,11000.0,0,13.0,110.0,6
+KTM RC 200cc,137500.0,Hyderabad,56000.0,0,6.0,200.0,11
+Hyosung GT650R,350000.0,Ranchi,2500.0,0,5.0,650.0,7
+Kawasaki Versys 650cc,700000.0,Mumbai,6500.0,0,3.0,650.0,12
+Bajaj Avenger 220cc,35000.0,Deolali,14000.0,0,8.0,220.0,1
+Bajaj XCD 135,25000.0,Noida,21466.0,0,10.0,135.0,1
+Yamaha FZ S V 2.0 150cc-Ltd. Edition,68900.0,Faridabad,16980.0,2,4.0,150.0,21
+Hero Glamour 125cc,25000.0,Gurgaon,46411.0,0,6.0,125.0,5
+Yamaha YZF-R3 320cc,254581.0,Gorakhpur,19100.0,0,4.0,320.0,21
+Bajaj Avenger Cruise 220,67000.0,Bangalore,15500.0,0,5.0,220.0,1
+Bajaj Boxer AT100,18000.0,Ghaziabad,28709.0,0,16.0,100.0,1
+Harley-Davidson Street 750,406600.0,Delhi,10196.0,0,5.0,750.0,4
+Bajaj Pulsar 150cc,9000.0,Ghaziabad,67140.0,2,15.0,150.0,1
+Bajaj Platina 110 CBS,47000.0,Gurgaon,2860.0,0,2.0,110.0,1
+Bajaj Avenger Cruise 220,50900.0,Chennai,40700.0,0,5.0,220.0,1
+Hero Passion Pro 100cc,37000.0,Delhi,29000.0,0,4.0,100.0,5
+Bajaj Discover 135cc,15000.0,Delhi,36888.0,0,13.0,135.0,1
+Bajaj Pulsar 220cc,58000.0,Delhi,28435.0,0,6.0,220.0,1
+TVS Sport 100cc,22000.0,Faridabad,12257.0,0,5.0,100.0,19
+Bajaj Avenger Street 220,76000.0,Thane,7500.0,0,5.0,220.0,1
+Hyosung GT650R,350000.0,Faridabad,1487.0,0,6.0,650.0,7
+Hero Passion Pro 100cc,20500.0,Delhi,51320.0,0,9.0,100.0,5
+KTM RC 390cc,115000.0,Challakere,23000.0,2,5.0,390.0,11
+Royal Enfield Bullet Electra Twinspark 350cc,85000.0,Pune,14000.0,0,8.0,350.0,17
+Honda CB Hornet 160R CBS,46500.0,Gurgaon,6500.0,0,5.0,160.0,6
+Hero HF Deluxe 100cc,33000.0,Faridabad,16270.0,0,5.0,100.0,5
+Hero Splendor Pro Classic 100cc,31621.0,Ambala,19000.0,0,6.0,100.0,5
+Benelli 302R 300CC,283000.0,Pune,8025.0,0,3.0,302.0,2
+Kawasaki Ninja 300cc,276000.0,Bijapur,2100.0,0,5.0,300.0,12
+TVS Apache RTR 180cc,48000.0,Delhi,18533.0,0,5.0,180.0,19
+KTM RC 390cc,170000.0,Durgapur,8000.0,0,5.0,390.0,11
+Suzuki GS 150 R 150cc,25000.0,Bangalore,30000.0,0,9.0,150.0,18
+KTM Duke 390cc,243100.0,Delhi,16000.0,0,3.0,390.0,11
+Hero HF Deluxe 100cc,42000.0,Jhansi,16000.0,0,4.0,100.0,5
+Honda CBR 150R 150cc,100000.0,Chinchwad,15618.0,0,5.0,150.0,6
+Royal Enfield Thunderbird 350cc,110000.0,Bidar,22400.0,0,6.0,350.0,17
+Yamaha YZF-R15 2.0 150cc,65000.0,Jalaun,21000.0,0,6.0,150.0,21
+Royal Enfield Standard 350cc,88000.0,Ambala,18000.0,2,9.0,350.0,17
+Royal Enfield Thunderbird 350cc,65000.0,Chennai,13441.0,2,8.0,350.0,17
+Suzuki Gixxer 150cc,40362.0,Hyderabad,14653.0,0,6.0,150.0,18
+KTM RC 390cc,152500.0,Gurgaon,12280.0,0,4.0,390.0,11
+Yamaha Fazer FI V 2.0 150cc,68000.0,Mumbai,9103.0,2,3.0,150.0,21
+Hero Splendor Plus 100cc,36500.0,Kheda,19000.0,0,5.0,100.0,5
+Hero Passion Pro 100cc,42000.0,Delhi,26434.0,0,5.0,100.0,5
+Royal Enfield Thunderbird 350cc,91000.0,Hyderabad,2000.0,0,6.0,350.0,17
+KTM RC 200cc,150000.0,Sonepat,3800.0,0,5.0,200.0,11
+Triumph Tiger 800 XCA,1200000.0,Hyderabad,25800.0,0,4.0,800.0,20
+Suzuki Gixxer SF 150cc SP Rear Disc,52500.0,Delhi,24487.0,0,4.0,150.0,18
+Royal Enfield Bullet Electra 350cc,70300.0,Hyderabad,10000.0,0,12.0,350.0,17
+TVS Apache RTR 160cc,55000.0,Ghaziabad,18934.0,0,6.0,160.0,19
+Yamaha YZF-R15 2.0 150cc,66000.0,Bangalore,59794.0,0,9.0,150.0,21
+KTM Duke 125cc,135000.0,Bangalore,1050.0,0,3.0,125.0,11
+Royal Enfield Continental GT 535cc,104076.0,Noida,4607.0,0,6.0,535.0,17
+Yamaha FZ S V 2.0 150cc,50000.0,Krishna,33000.0,0,6.0,150.0,21
+KTM RC 200cc,180000.0,Mumbai,2000.0,0,2.0,200.0,11
+Bajaj Pulsar RS200 ABS,78000.0,Delhi,16000.0,0,6.0,200.0,1
+Royal Enfield Thunderbird 350cc,117000.0,Guwahati,13600.0,0,3.0,350.0,17
+Royal Enfield Classic 350cc,87000.0,Gautam Buddha Nagar,16336.0,0,7.0,350.0,17
+Royal Enfield Thunderbird 350cc,100000.0,Noida,47313.0,0,9.0,350.0,17
+Bajaj Pulsar AS150,69000.0,Bangalore,22000.0,0,6.0,150.0,1
+Bajaj Discover 125ST,30000.0,Ghaziabad,13223.0,0,8.0,125.0,1
+Hero Splendor Plus 100cc,19500.0,Jhansi,35000.0,0,11.0,100.0,5
+Yamaha Fazer 150cc,25000.0,Gondia,16000.0,0,12.0,150.0,21
+Yamaha FZs 150cc,33000.0,Delhi,13007.0,2,6.0,150.0,21
+Bajaj Pulsar 150cc,26000.0,Noida,20000.0,0,13.0,150.0,1
+Hero Passion Pro 100cc,26000.0,Faridabad,19152.0,0,8.0,100.0,5
+Hero Ignitor 125cc,25000.0,Bangalore,86000.0,0,7.0,125.0,5
+Royal Enfield Bullet Electra Twinspark 350cc,78000.0,Thane,34200.0,0,6.0,350.0,17
+Royal Enfield Thunderbird 350cc,80000.0,Mumbai,50000.0,0,6.0,350.0,17
+Bajaj V15 150cc,31000.0,Faridabad,27451.0,0,5.0,150.0,1
+Hero Passion Plus 100cc,25000.0,Pune,21000.0,0,11.0,100.0,5
+Mahindra Centuro 110cc,33000.0,Ahmedabad,55000.0,0,7.0,110.0,15
+TVS Apache RR310,189400.0,Thane,8000.0,0,3.0,310.0,19
+Royal Enfield Thunderbird 350cc ABS,155000.0,Navi Mumbai,2900.0,0,2.0,350.0,17
+Hero HF Deluxe 100cc,39000.0,Jaipur,23000.0,0,6.0,100.0,5
+KTM Duke 390cc,190000.0,Delhi,9500.0,0,4.0,390.0,11
+Hero Passion Pro 100cc,50000.0,Bilaspur,8191.0,0,4.0,100.0,5
+Bajaj V12 125cc,34000.0,Delhi,23722.0,0,4.0,125.0,1
+Bajaj Pulsar AS150,45000.0,Delhi,30000.0,0,5.0,150.0,1
+Kawasaki Ninja 650cc,481000.0,Delhi,2000.0,0,4.0,650.0,12
+Royal Enfield Continental GT 535cc,121000.0,Kota,5300.0,2,6.0,535.0,17
+Hero Splendor Pro 100cc,30000.0,Jaipur,53000.0,0,10.0,100.0,5
+Royal Enfield Classic Gunmetal Grey 350cc,160000.0,Mumbai,5000.0,0,3.0,350.0,17
+Bajaj Discover 100cc,17500.0,Chennai,50000.0,0,11.0,100.0,1
+Royal Enfield Classic Chrome 500cc,152500.0,Mumbai,4700.0,0,4.0,500.0,17
+Yamaha FZs 150cc,35273.0,Delhi,3100.0,0,8.0,150.0,21
+Hero Super Splendor 125cc,31000.0,Gurgaon,33548.0,0,10.0,125.0,5
+Yamaha YZF-R15 2.0 150cc,110000.0,Pune,2500.0,0,4.0,150.0,21
+Hero HF Deluxe 100cc,27000.0,Faridabad,18661.0,0,4.0,100.0,5
+Royal Enfield Bullet 350cc,99650.0,Chennai,27235.0,0,4.0,350.0,17
+Yamaha YZF-R15 2.0 150cc,54800.0,Chennai,75000.0,0,7.0,150.0,21
+Hyosung Aquila GV250,150000.0,Ahmednagar,8000.0,2,6.0,250.0,7
+TVS Apache RTR 160cc,33000.0,Faridabad,18204.0,0,6.0,160.0,19
+Bajaj Discover 100cc,20000.0,Delhi,16000.0,0,11.0,100.0,1
+Royal Enfield Bullet Twinspark 500cc,76000.0,Gurgaon,15961.0,0,8.0,500.0,17
+Suzuki Gixxer SF 150cc,55000.0,Pune,29000.0,0,4.0,150.0,18
+Royal Enfield Himalayan 410cc,155000.0,Navi Mumbai,2000.0,0,5.0,410.0,17
+Honda CBF Stunner 125cc,15000.0,Delhi,48000.0,2,8.0,125.0,6
+Bajaj Pulsar RS200,90000.0,Howrah,5026.0,0,5.0,200.0,1
+KTM RC 200cc,168000.0,Delhi,10000.0,0,2.0,200.0,11
+Royal Enfield Thunderbird 350cc,72000.0,Amraoti,30000.0,2,8.0,350.0,17
+Hero Splendor 100cc,32000.0,Delhi,2820.0,0,5.0,100.0,5
+Honda CB Unicorn 150cc,55000.0,Nashik,27200.0,0,11.0,150.0,6
+Mahindra Centuro 110cc,21000.0,Ghaziabad,22681.0,0,8.0,110.0,15
+Royal Enfield Thunderbird 500cc,108000.0,Krishnagar,17600.0,0,7.0,500.0,17
+Bajaj Avenger Street 220,64000.0,Bangalore,20094.0,0,6.0,220.0,1
+TVS Apache RTR 180cc,66000.0,Chaksu,26421.0,0,3.0,180.0,19
+Royal Enfield Standard 500cc,102000.0,Delhi,9700.0,0,7.0,500.0,17
+Bajaj Discover 150cc,29000.0,Gurgaon,39000.0,0,6.0,150.0,1
+Hero Passion Pro 100cc,17000.0,Bardhaman,45000.0,0,12.0,100.0,5
+KTM Duke 390cc,185000.0,Bangalore,8900.0,0,5.0,390.0,11
+Royal Enfield Bullet Electra 350cc,85000.0,Bangalore,45000.0,0,6.0,350.0,17
+Suzuki Gixxer 150cc,45900.0,Mumbai,43599.0,0,4.0,150.0,18
+Bajaj Pulsar RS200 ABS,85000.0,Hyderabad,11063.0,0,6.0,200.0,1
+Bajaj Platina 100cc,20000.0,Faridabad,37473.0,0,9.0,100.0,1
+Bajaj Discover 100cc,15000.0,Chennai,23000.0,0,11.0,100.0,1
+Bajaj Avenger 220cc,41000.0,Bangalore,33000.0,0,9.0,220.0,1
+Yamaha FZs 150cc,66000.0,Bangalore,23000.0,0,5.0,150.0,21
+Yamaha FZ16 150cc,32500.0,Bangalore,42500.0,0,12.0,150.0,21
+Honda CB Shine 125cc,18000.0,Hyderabad,61537.0,0,13.0,125.0,6
+Bajaj Pulsar 220cc,31500.0,Bangalore,80353.0,2,10.0,220.0,1
+Royal Enfield Interceptor 650cc,265500.0,Nellore,12000.0,0,2.0,650.0,17
+Royal Enfield Classic 350cc,120000.0,Jaipur,2069.0,0,7.0,350.0,17
+Yamaha SS 125 125cc,19000.0,Faridabad,25794.0,0,7.0,125.0,21
+Royal Enfield Classic 350cc,150000.0,Delhi,4000.0,0,2.0,350.0,17
+Royal Enfield Machismo 350cc,100000.0,Mumbai,38933.0,2,14.0,350.0,17
+TVS Apache RTR 180cc,45000.0,Faridabad,23481.0,0,5.0,180.0,19
+Bajaj Dominar 400 ABS,140000.0,Delhi,19631.0,2,4.0,400.0,1
+Bajaj Avenger 220cc,77000.0,Delhi,19820.0,0,6.0,220.0,1
+Hero CD Deluxe 100cc,18000.0,Faridabad,16999.0,0,9.0,100.0,5
+Hero Glamour 125cc,18000.0,Delhi,79000.0,0,11.0,125.0,5
+Bajaj Pulsar 220cc,70000.0,Hyderabad,11000.0,0,3.0,220.0,1
+Honda CB Shine 125cc,24500.0,Ahmedabad,26453.0,0,9.0,125.0,6
+Bajaj Pulsar NS200,55000.0,Mumbai,39309.0,2,8.0,200.0,1
+Royal Enfield‎ Bullet 350cc,95000.0,Delhi,26000.0,2,9.0,350.0,17
+Yamaha FZ 150cc,45000.0,Delhi,16000.0,0,7.0,150.0,21
+Suzuki Gixxer 150cc,52000.0,Hyderabad,28000.0,0,5.0,150.0,18
+Royal Enfield Classic 350cc,130000.0,Pune,27370.0,0,6.0,350.0,17
+Suzuki Gixxer SF Fi 150cc,88000.0,Hyderabad,8000.0,0,4.0,150.0,18
+Bajaj Dominar 400 ABS,130000.0,Bangalore,14000.0,2,4.0,400.0,1
+Bajaj Pulsar 150cc,27000.0,Gurgaon,16500.0,0,9.0,150.0,1
+Honda CB Trigger 150cc,52000.0,Bangalore,17600.0,0,7.0,150.0,6
+Hero Passion Pro 100cc,31000.0,Delhi,19000.0,2,5.0,100.0,5
+Bajaj Pulsar 150cc,19000.0,Bangalore,80828.0,0,11.0,150.0,1
+Bajaj Discover 125ST,24000.0,Mumbai,34716.0,0,7.0,125.0,1
+Bajaj Avenger 220cc,35000.0,Pune,52340.0,0,10.0,220.0,1
+Honda CBR 150R 150cc,59000.0,Mumbai,25385.0,0,7.0,150.0,6
+Honda CB Hornet 160R Special Edition-CBS,77600.0,Noida,4730.0,0,4.0,160.0,6
+Bajaj Avenger Street 220,70000.0,Delhi,9799.0,0,4.0,220.0,1
+Yamaha Fazer 150cc,27500.0,Hyderabad,76000.0,0,10.0,150.0,21
+Bajaj Pulsar 180cc,38000.0,Hyderabad,26000.0,0,9.0,180.0,1
+Royal Enfield Bullet 350cc,110000.0,Karnal,14000.0,0,5.0,350.0,17
+Yamaha FZs 150cc,30000.0,Noida,34500.0,2,7.0,150.0,21
+Honda Livo Disc 110cc,35000.0,Ahmedabad,32377.0,0,5.0,110.0,6
+TVS Apache RR310,195000.0,Mumbai,11950.0,0,3.0,310.0,19
+TVS Apache RTR 160 4V Disc,65000.0,Ghaziabad,10906.0,2,3.0,160.0,19
+Royal Enfield Classic 500cc,95000.0,Bangalore,22000.0,0,11.0,500.0,17
+Bajaj V15 150cc,61000.0,Ludhiana,1700.0,0,4.0,150.0,1
+Hero HF Deluxe 100cc,14500.0,Faridabad,17604.0,0,12.0,100.0,5
+Yamaha FZs 150cc,41000.0,Faridabad,6168.0,0,5.0,150.0,21
+Honda CB Twister 110cc,30000.0,Mumbai,22167.0,0,10.0,110.0,6
+Yamaha FZ16 150cc,42500.0,Noida,16435.0,0,7.0,150.0,21
+Hero Karizma R 223cc,36000.0,Bangalore,54560.0,0,8.0,223.0,5
+KTM RC 390cc,150000.0,Jalandhar,9000.0,2,4.0,390.0,11
+Yamaha Fazer 150cc,37000.0,Delhi,77596.0,0,8.0,150.0,21
+Hero Karizma R 223cc,25000.0,Hyderabad,54560.0,2,14.0,223.0,5
+Honda CB Hornet 160R STD,42000.0,Delhi,19000.0,0,5.0,160.0,6
+Honda Dream Yuga 110cc,26000.0,Delhi,23188.0,0,6.0,110.0,6
+Royal Enfield Thunderbird 350cc,110000.0,Bangalore,14201.0,0,5.0,350.0,17
+Honda CBR 150R 150cc,46000.0,Chennai,17407.0,2,9.0,150.0,6
+Royal Enfield Classic 350cc,100000.0,Mumbai,17482.0,2,6.0,350.0,17
+Bajaj Pulsar 180cc,27500.0,Noida,71496.0,0,11.0,180.0,1
+Honda CBR 250R Repsol,90600.0,Gurgaon,8970.0,0,4.0,250.0,6
+Mahindra Centuro NXT 110cc,35000.0,Ludhiana,1400.0,0,4.0,110.0,15
+Royal Enfield Bullet Twinspark 350cc,110000.0,Faridabad,10111.0,0,3.0,350.0,17
+Hero Splendor Pro 100cc,26500.0,Faridabad,17857.0,0,6.0,100.0,5
+Royal Enfield Thunderbird 350cc ABS,145000.0,Ghaziabad,12400.0,0,2.0,350.0,17
+Bajaj Pulsar 180cc,34000.0,Gurgaon,13000.0,0,11.0,180.0,1
+Bajaj Pulsar NS200 ABS,105000.0,Mumbai,500.0,0,2.0,200.0,1
+Bajaj Discover 125T,29000.0,Delhi,21000.0,0,7.0,125.0,1
+Bajaj V12 125cc,45000.0,Delhi,17281.0,0,3.0,125.0,1
+Bajaj Platina 100cc,14500.0,Gurgaon,36578.0,0,10.0,100.0,1
+Yamaha YZF-R15 2.0 150cc,65300.0,Bangalore,40000.0,0,6.0,150.0,21
+Hero Splendor Plus Self Alloy 100cc,52500.0,Delhi,9000.0,0,3.0,100.0,5
+Hero Hunk 150cc,30000.0,Mohali,66016.0,0,9.0,150.0,5
+Bajaj Platina 100cc,30000.0,Ghaziabad,14252.0,0,8.0,100.0,1
+Honda CBF Stunner 125cc,30000.0,Delhi,23000.0,0,7.0,125.0,6
+Hero Super Splendor 125cc,19000.0,Delhi,16787.0,0,14.0,125.0,5
+Bajaj Avenger Street 220,69600.0,Delhi,14900.0,0,4.0,220.0,1
+Bajaj CT 100 ES Alloy,39000.0,Faridabad,2564.0,0,2.0,100.0,1
+Hero Passion Pro 100cc,30000.0,Chennai,18168.0,0,7.0,100.0,5
+Honda CB Trigger 150cc,49000.0,Mumbai,10000.0,0,7.0,150.0,6
+Hero Splendor iSmart 100cc,29000.0,Chennai,24000.0,0,7.0,100.0,5
+Yamaha FZs 150cc,47000.0,Jaipur,18227.0,0,6.0,150.0,21
+TVS Apache RTR 160cc,50000.0,Ghaziabad,22932.0,2,9.0,160.0,19
+TVS Star Sport 100cc,18000.0,Noida,38056.0,0,10.0,100.0,19
+Kawasaki Z250,269000.0,Mumbai,2204.0,0,4.0,250.0,12
+Bajaj V15 150cc,50000.0,Bangalore,7500.0,0,3.0,150.0,1
+Bajaj Pulsar 135LS 135cc,21316.0,Mumbai,39000.0,0,11.0,135.0,1
+Yamaha FZ25 250cc,100000.0,Chennai,20000.0,0,4.0,250.0,21
+Royal Enfield Classic 500cc,115000.0,Mumbai,14900.0,0,5.0,500.0,17
+Benelli TNT 300,220500.0,Dakshina Kannada,10000.0,0,4.0,300.0,2
+Yamaha Fazer 150cc,33500.0,Jaipur,40000.0,0,9.0,150.0,21
+Bajaj Pulsar 180cc,40000.0,Delhi,51210.0,2,7.0,180.0,1
+Kawasaki Ninja 300cc,180000.0,Uppidamangalam,180.0,0,4.0,300.0,12
+Bajaj Pulsar 150cc,38000.0,Jaipur,22724.0,0,7.0,150.0,1
+Hero Passion Pro 100cc,21500.0,Chennai,24634.0,0,11.0,100.0,5
+Yamaha FZ25 250cc,86000.0,Hyderabad,12398.0,0,3.0,250.0,21
+Royal Enfield Thunderbird 350cc,85000.0,Gurgaon,10000.0,0,6.0,350.0,17
+Harley-Davidson Street 750,250000.0,Ahmedabad,7600.0,3,5.0,750.0,4
+Bajaj Pulsar 135LS,45000.0,Gorakhpur,33000.0,0,7.0,135.0,1
+Bajaj V15 150cc,43000.0,Delhi,15000.0,2,5.0,150.0,1
+KTM Duke 200cc,62240.0,Pune,3706.0,0,7.0,200.0,11
+Bajaj Pulsar RS200 ABS,85000.0,Pune,26000.0,0,6.0,200.0,1
+Bajaj Pulsar RS200 ABS,100000.0,Bangalore,13829.0,0,5.0,200.0,1
+TVS Apache RTR 160cc,36000.0,Bangalore,21905.0,0,9.0,160.0,19
+Bajaj Discover 100cc,26799.0,Chhindwara,45000.0,0,8.0,100.0,1
+Honda CB Trigger 150cc,30000.0,Delhi,71188.0,0,7.0,150.0,6
+Bajaj Pulsar 200cc,50000.0,Ahmedabad,6000.0,0,8.0,200.0,1
+Royal Enfield Classic 350cc,117300.0,Mumbai,31000.0,0,6.0,350.0,17
+Royal Enfield Classic 500cc,170000.0,Hyderabad,2037.0,0,4.0,500.0,17
+Bajaj Pulsar 150cc,22000.0,Delhi,67776.0,0,8.0,150.0,1
+Yamaha FZ16 150cc,45000.0,Mumbai,72354.0,0,10.0,150.0,21
+Bajaj Pulsar 180cc,57000.0,Pune,15000.0,0,7.0,180.0,1
+Bajaj Pulsar 220cc,120000.0,Hyderabad,10147.0,0,3.0,220.0,1
+Honda CBR 150R 150cc,65500.0,Delhi,12000.0,0,8.0,150.0,6
+Yamaha FZ S V 2.0 150cc Rear Disc,59300.0,Delhi,9107.0,0,3.0,150.0,21
+Hero Splendor Plus Self Alloy 100cc,51300.0,Palakkad,2800.0,0,2.0,100.0,5
+Suzuki Gixxer 150cc,40000.0,Delhi,32000.0,0,6.0,150.0,18
+KTM Duke 390cc,210000.0,Pune,5000.0,0,2.0,390.0,11
+Bajaj Avenger Street 150,80000.0,Bangalore,16298.0,0,5.0,150.0,1
+TVS Apache RTR 180cc,45000.0,Delhi,18611.0,0,5.0,180.0,19
+Bajaj Pulsar 150cc,48400.0,Chennai,14500.0,0,4.0,150.0,1
+Hero Karizma R 223cc,22000.0,Bangalore,49000.0,0,14.0,223.0,5
+Hero HF Deluxe 100cc,33700.0,Jhansi,15000.0,0,5.0,100.0,5
+Royal Enfield Thunderbird 350cc,71800.0,Mumbai,43500.0,0,7.0,350.0,17
+Hero Passion Pro 100cc,25000.0,Jaipur,19296.0,0,9.0,100.0,5
+Bajaj Discover 125cc,20000.0,Delhi,26896.0,0,9.0,125.0,1
+Suzuki Gixxer 150cc,40000.0,Burdwan,8975.0,0,7.0,150.0,18
+Bajaj Avenger 220cc,56000.0,Chennai,27350.0,0,6.0,220.0,1
+Bajaj Avenger 220cc,34500.0,Bareilly,22000.0,3,7.0,220.0,1
+Bajaj Pulsar 150cc,60000.0,Faridabad,10121.0,0,2.0,150.0,1
+Royal Enfield Bullet Electra 350cc,94300.0,Noida,30860.0,0,7.0,350.0,17
+Royal Enfield Standard 500cc,70000.0,Ahmedabad,65000.0,0,10.0,500.0,17
+Hero Splendor Plus 100cc,27167.0,Ludhiana,27110.0,0,7.0,100.0,5
+Bajaj Pulsar NS200,35000.0,Faridabad,34000.0,0,9.0,200.0,1
+Bajaj Avenger Street 150,63000.0,Pune,19443.0,0,5.0,150.0,1
+Yamaha FZ S V 2.0 150cc,68000.0,Bangalore,17000.0,0,5.0,150.0,21
+Bajaj Avenger Street 150,67000.0,Mumbai,3600.0,0,5.0,150.0,1
+Honda CBR 650 F,440000.0,Vapi,10000.0,2,6.0,650.0,6
+Benelli TNT 600i,480000.0,Mumbai,14200.0,0,4.0,600.0,2
+Bajaj Dominar 400,123100.0,Bangalore,18000.0,0,4.0,400.0,1
+TVS Apache RTR 180cc,40500.0,Gurgaon,39125.0,0,6.0,180.0,19
+KTM Duke 250cc,170000.0,24 Pargana,2800.0,0,2.0,250.0,11
+Bajaj Discover 125ST,27000.0,Ludhiana,13299.0,0,8.0,125.0,1
+Yamaha FZs 150cc,38000.0,Delhi,40826.0,0,8.0,150.0,21
+Hero Splendor Plus 100cc,47000.0,Ganganagar,19151.0,0,4.0,100.0,5
+Bajaj Pulsar NS200 ABS,90000.0,Mumbai,12500.0,0,3.0,200.0,1
+KTM Duke 390cc,133000.0,Goa-panaji,26000.0,0,5.0,390.0,11
+Hyosung GT 650N,231000.0,Faridabad,4168.0,0,6.0,650.0,7
+Bajaj Pulsar 150cc,15000.0,Delhi,12800.0,0,12.0,150.0,1
+Bajaj Avenger 220cc,40000.0,Bangalore,27090.0,2,8.0,220.0,1
+Hero Passion Pro i3S Disc 100cc,52000.0,Delhi,4610.0,0,3.0,100.0,5
+Bajaj Avenger 220cc,52000.0,Ghaziabad,11226.0,0,5.0,220.0,1
+Bajaj Avenger 220cc,36000.0,Surat,10000.0,2,8.0,220.0,1
+Bajaj Platina 100cc,22000.0,Faridabad,19385.0,0,6.0,100.0,1
+KTM Duke 200cc,127000.0,Noida,6700.0,2,3.0,200.0,11
+Hero CBZ Xtreme 150cc,30000.0,Bangalore,46700.0,0,10.0,150.0,5
+Bajaj Pulsar 180cc,51000.0,Thane,9200.0,0,5.0,180.0,1
+Bajaj Pulsar 150cc,42000.0,Jaipur,28100.0,0,8.0,150.0,1
+TVS Apache RTR 180cc,72000.0,Delhi,7000.0,2,3.0,180.0,19
+Bajaj Discover 135cc,17000.0,Delhi,21243.0,0,14.0,135.0,1
+Royal Enfield Bullet Electra 350cc,65000.0,Delhi,15000.0,0,14.0,350.0,17
+Hero Super Splendor 125cc,45000.0,Gurgaon,16445.0,0,3.0,125.0,5
+Royal Enfield Thunderbird X 350cc ABS,155000.0,Vadodara,1650.0,0,2.0,350.0,17
+TVS Apache RTR 160cc,35000.0,Udaipur,40000.0,0,13.0,160.0,19
+Royal Enfield Classic 350cc,90000.0,Bangalore,61129.0,0,5.0,350.0,17
+Mahindra Mojo Tourer Edition 300cc,160000.0,Bangalore,7500.0,2,4.0,300.0,15
+Hero Super Splendor 125cc,35000.0,Faridabad,12669.0,0,4.0,125.0,5
+Bajaj Avenger 220cc,55000.0,Mathura,38000.0,0,6.0,220.0,1
+Hero Splendor iSmart 110cc,35100.0,Jhansi,15000.0,0,5.0,110.0,5
+Harley-Davidson Iron 883,670000.0,Delhi,20000.0,2,4.0,883.0,4
+Bajaj Avenger 220cc,50000.0,Pune,46527.0,0,8.0,220.0,1
+Bajaj CT 100 100cc,27000.0,Ludhiana,23000.0,0,3.0,100.0,1
+Bajaj Discover 125cc,13000.0,Gurgaon,32042.0,0,10.0,125.0,1
+Yamaha FZ 150cc,30000.0,Mumbai,27411.0,0,12.0,150.0,21
+Yamaha YZF-R15 V3 150cc,121000.0,Gurgaon,13013.0,0,3.0,150.0,21
+Bajaj V15 150cc,49100.0,Pune,10000.0,0,5.0,150.0,1
+Bajaj Discover 125cc,8000.0,Delhi,21493.0,0,16.0,125.0,1
+Bajaj Discover 150F,25000.0,Delhi,46995.0,0,6.0,150.0,1
+Royal Enfield Classic Gunmetal Grey 350cc,136424.0,Dhanbad,16000.0,0,3.0,350.0,17
+TVS Apache 150cc,23000.0,Ludhiana,12152.0,0,11.0,150.0,19
+Royal Enfield Classic 350cc,75000.0,Pune,23045.0,0,9.0,350.0,17
+Royal Enfield Classic 350cc,110000.0,Bangalore,17200.0,0,6.0,350.0,17
+Bajaj Pulsar 180cc,32000.0,Pune,5937.0,0,11.0,180.0,1
+Royal Enfield Classic Stealth Black 500cc,190000.0,Aurangabad,3600.0,0,3.0,500.0,17
+KTM Duke 390cc,200000.0,Mumbai,16000.0,0,3.0,390.0,11
+TVS Star City Plus 110cc,21000.0,Mandi Dabwali,40700.0,0,6.0,110.0,19
+Bajaj Platina  Alloy ES-100cc,38000.0,Faridabad,11408.0,0,3.0,100.0,1
+Honda CBF Stunner 125cc,16000.0,Jaipur,80981.0,0,12.0,125.0,6
+Hero Splendor Plus 100cc,16000.0,Madurai,58000.0,0,13.0,100.0,5
+Honda CB Unicorn 150cc,40000.0,Noida,30000.0,0,8.0,150.0,6
+Bajaj Pulsar RS200 ABS,87900.0,Thane,31000.0,0,6.0,200.0,1
+KTM RC 200cc,128700.0,Hyderabad,11300.0,0,5.0,200.0,11
+Yamaha FZ S V 2.0 150cc-Ltd. Edition,62000.0,Kolkata,8010.0,0,4.0,150.0,21
+Yamaha FZ V 2.0 150cc,40000.0,Delhi,28000.0,2,6.0,150.0,21
+Royal Enfield Classic 350cc,63618.0,Ghaziabad,16000.0,2,7.0,350.0,17
+Bajaj Dominar 400 ABS,195000.0,Mumbai,6000.0,0,2.0,400.0,1
+KTM Duke 390cc,130000.0,Gurgaon,9800.0,0,7.0,390.0,11
+Royal Enfield Thunderbird 500cc,107300.0,Pune,16000.0,0,9.0,500.0,17
+Honda CB Unicorn 160,51000.0,Nanded,22000.0,0,6.0,160.0,6
+Kawasaki Ninja 300cc,210000.0,Mumbai,4000.0,0,6.0,300.0,12
+Bajaj Pulsar 200 NS 200cc,52000.0,Mumbai,42786.0,0,7.0,200.0,1
+Royal Enfield Classic 350cc,123600.0,Jaipur,7702.0,0,3.0,350.0,17
+Yamaha FZ 150cc,20000.0,Gurgaon,25121.0,0,11.0,150.0,21
+Royal Enfield Bullet 350cc,107000.0,Pune,18443.0,0,5.0,350.0,17
+Bajaj Dominar 400 ABS,143000.0,Erode,3515.0,0,3.0,400.0,1
+Honda CB Shine 125cc,37000.0,Chennai,14993.0,0,6.0,125.0,6
+Bajaj Discover 125M,35000.0,Delhi,12000.0,0,6.0,125.0,1
+Royal Enfield Bullet Electra Twinspark 350cc,107100.0,Bangalore,37000.0,0,6.0,350.0,17
+Bajaj Discover 100M,30000.0,Bangalore,18500.0,0,9.0,100.0,1
+Hero Splendor iSmart 100cc,40000.0,Indore,42000.0,0,7.0,100.0,5
+Hero Passion Pro 100cc,28000.0,Ghaziabad,21477.0,0,8.0,100.0,5
+Royal Enfield Classic Desert Storm 500cc,145000.0,Mumbai,14307.0,0,5.0,500.0,17
+Bajaj Discover 125cc,20300.0,Jhansi,28000.0,2,6.0,125.0,1
+Bajaj V15 150cc,45000.0,Delhi,33000.0,0,5.0,150.0,1
+KTM RC 390cc,150000.0,Mumbai,37326.0,0,5.0,390.0,11
+Hero Splendor Plus IBS i3S 100cc,47167.0,Delhi,4664.0,0,2.0,100.0,5
+Royal Enfield Thunderbird 500cc,101400.0,Pune,30000.0,0,7.0,500.0,17
+Bajaj Avenger Street 150,80000.0,Nashik,2000.0,0,4.0,150.0,1
+TVS Star City 110cc,26000.0,Jaipur,24000.0,0,7.0,110.0,19
+Royal Enfield Thunderbird 350cc,110000.0,Bangalore,10400.0,0,4.0,350.0,17
+Hero Passion Pro 100cc,42000.0,Thane,6500.0,0,5.0,100.0,5
+Bajaj Pulsar 220cc,50300.0,Rewari,14000.0,0,7.0,220.0,1
+Honda CBR 250R Repsol,106000.0,Lucknow,233011.0,2,4.0,250.0,6
+TVS Apache RTR 160 4V Disc,75000.0,Delhi,19000.0,0,3.0,160.0,19
+Yamaha SZR 150cc,30000.0,Noida,34205.0,0,9.0,150.0,21
+Royal Enfield Classic 350cc,145000.0,Bangalore,10000.0,0,5.0,350.0,17
+Bajaj V15 150cc,39000.0,Vadodara,96611.0,0,4.0,150.0,1
+KTM Duke 250cc,120000.0,Chennai,10536.0,2,4.0,250.0,11
+Yamaha FZ25 ABS 250cc,142000.0,Delhi,233.0,0,2.0,250.0,21
+Hero Ignitor 125cc,32000.0,Vadodara,18779.0,0,6.0,125.0,5
+Hero Karizma R 223cc,55000.0,Howrah,39000.0,0,8.0,223.0,5
+Benelli TNT 300,225000.0,Chennai,13000.0,0,5.0,300.0,2
+TVS Star City Plus 110cc,44000.0,Delhi,5400.0,0,3.0,110.0,19
+Royal Enfield Machismo 500cc,150000.0,Hyderabad,38000.0,0,14.0,500.0,17
+Hero Hunk 150cc,20000.0,Gurgaon,35500.0,0,10.0,150.0,5
+KTM RC 390cc,215900.0,Hyderabad,3900.0,2,2.0,390.0,11
+Honda CB Hornet 160R Special Edition STD,70000.0,Bangalore,38000.0,0,4.0,160.0,6
+Yamaha SZR 150cc,28000.0,Jaipur,20555.0,0,10.0,150.0,21
+Royal Enfield Classic 500cc,120000.0,Delhi,18000.0,0,7.0,500.0,17
+Suzuki Gixxer SF Fi 150cc ABS,90000.0,Delhi,15255.0,0,3.0,150.0,18
+Honda CB ShineSP 125cc Disc,43000.0,Delhi,7880.0,0,4.0,125.0,6
+Bajaj Pulsar 220F,61000.0,Delhi,41000.0,0,7.0,220.0,1
+KTM RC 390cc,155000.0,Bangalore,20449.0,0,6.0,390.0,11
+Royal Enfield Continental GT 535cc,165000.0,Coimbatore,4610.0,0,5.0,535.0,17
+Royal Enfield Classic 350cc,112000.0,Faridabad,12552.0,0,3.0,350.0,17
+Bajaj Pulsar AS150,41000.0,Gurgaon,31942.0,0,6.0,150.0,1
+Royal Enfield Classic 350cc,130000.0,Delhi,5580.0,0,4.0,350.0,17
+Bajaj CT 100 B,24000.0,Delhi,6300.0,0,4.0,100.0,1
+Bajaj Dominar 400,115000.0,Bangalore,23931.0,0,4.0,400.0,1
+Royal Enfield Bullet Electra 350cc,100000.0,Mumbai,100000.0,0,19.0,350.0,17
+Royal Enfield Thunderbird 500cc,150000.0,Roorkee,900.0,0,4.0,500.0,17
+Suzuki Gixxer 150cc Dual Tone Rear Disc,92000.0,Mumbai,750.0,0,3.0,150.0,18
+Bajaj Pulsar 220F,55000.0,Kolkata,35107.0,0,8.0,220.0,1
+Royal Enfield Classic 500cc,128000.0,Delhi,5541.0,0,4.0,500.0,17
+Bajaj Pulsar 150cc,67000.0,Chennai,6266.0,0,2.0,150.0,1
+TVS Apache RTR 200 4V ABS Race Edition,120000.0,Mumbai,4442.0,0,2.0,200.0,19
+Royal Enfield Machismo 500cc,85000.0,Delhi,50143.0,0,14.0,500.0,17
+Ducati Diavel 1200cc,1000000.0,Coimbatore,4400.0,2,5.0,1200.0,3
+Bajaj Platina  Alloy ES-100cc,34200.0,Ludhiana,4000.0,0,5.0,100.0,1
+Yamaha YZF-R15 150cc,33000.0,Jhajjar,57000.0,3,10.0,150.0,21
+Harley-Davidson Street 750,391000.0,Sangli,6000.0,0,7.0,750.0,4
+Bajaj Avenger 220cc,75000.0,Chennai,15000.0,0,5.0,220.0,1
+Bajaj Avenger 220cc,60000.0,Delhi,12000.0,0,5.0,220.0,1
+Royal Enfield Classic Squadron Blue 500cc,165000.0,Pune,11500.0,0,4.0,500.0,17
+Honda CB Unicorn 160,55000.0,Mumbai,15200.0,0,6.0,160.0,6
+Bajaj Pulsar NS200 ABS,125000.0,Bangalore,1230.0,0,3.0,200.0,1
+Yamaha FZs 150cc,49999.0,Noida,21500.0,2,6.0,150.0,21
+Royal Enfield Continental GT 535cc,139300.0,Mumbai,19000.0,0,5.0,535.0,17
+Bajaj Pulsar 150cc,21000.0,Bangalore,11374.0,0,11.0,150.0,1
+Yamaha FZ25 250cc,95000.0,Bangalore,9665.0,0,4.0,250.0,21
+Yamaha SS 125 125cc,22000.0,Jaipur,65798.0,0,10.0,125.0,21
+Royal Enfield Thunderbird 350cc,109600.0,Kharagpur,31500.0,0,5.0,350.0,17
+Hero Passion Plus 100cc,20100.0,Pune,45330.0,0,14.0,100.0,5
+Royal Enfield Bullet 350cc,72000.0,Moradabad,36000.0,2,13.0,350.0,17
+Bajaj Pulsar 150cc,17000.0,Faridabad,30965.0,0,11.0,150.0,1
+Bajaj Avenger Street 150,43000.0,Delhi,27135.0,2,5.0,150.0,1
+Honda CB Shine 125cc,30000.0,Delhi,51751.0,0,4.0,125.0,6
+Royal Enfield Thunderbird 350cc,89700.0,Navi Mumbai,26000.0,0,6.0,350.0,17
+Bajaj Dominar 400 ABS,142000.0,Singhbhum,9500.0,0,3.0,400.0,1
+Royal Enfield Thunderbird 350cc,112100.0,Chennai,22800.0,0,5.0,350.0,17
+Royal Enfield Classic 350cc,84100.0,Pune,22000.0,0,8.0,350.0,17
+Royal Enfield Thunderbird X 500cc,195000.0,Delhi,1768.0,0,3.0,500.0,17
+Hero Glamour 125cc,23000.0,Delhi,30000.0,0,9.0,125.0,5
+Honda CB Shine 125cc,22000.0,Delhi,42554.0,0,6.0,125.0,6
+Yamaha YZF-R15 150cc,48000.0,Mumbai,15684.0,0,10.0,150.0,21
+Bajaj Pulsar 150cc,32400.0,Jaipur,32116.0,0,8.0,150.0,1
+Harley-Davidson Street 750,371100.0,Pune,6300.0,2,5.0,750.0,4
+Honda CBR 250R,97200.0,Delhi,20700.0,0,10.0,250.0,6
+Hero Splendor Plus 100cc,33000.0,Faridabad,16587.0,0,6.0,100.0,5
+Royal Enfield Classic 350cc,110000.0,Delhi,5073.0,0,5.0,350.0,17
+Hero Passion Plus 100cc,18000.0,Chennai,50000.0,0,11.0,100.0,5
+TVS Apache RTR 200 4V Race Edition 2.0,68500.0,Delhi,11101.0,0,3.0,200.0,19
+KTM Duke 390cc,115000.0,Pune,38500.0,0,5.0,390.0,11
+Royal Enfield Bullet Electra Twinspark 350CC ABS,140000.0,Mumbai,2000.0,0,2.0,350.0,17
+Bajaj Discover 100cc,20400.0,Jaipur,74000.0,0,9.0,100.0,1
+Hero Karizma R 223cc,57500.0,Latur,71000.0,0,9.0,223.0,5
+TVS Apache RTR 200 4V Carburetor,75000.0,Mumbai,27030.0,0,4.0,200.0,19
+Bajaj CT 100 100cc,32000.0,Faridabad,14118.0,0,3.0,100.0,1
+Royal Enfield Electra 350cc,50000.0,Saharanpur,65000.0,0,17.0,350.0,17
+Royal Enfield Thunderbird 350cc,62600.0,Secunderabad,25000.0,2,10.0,350.0,17
+Bajaj Pulsar RS200,90000.0,Uran,15000.0,0,4.0,200.0,1
+Bajaj Avenger Cruise 220,61500.0,Pune,15264.0,0,4.0,220.0,1
+Honda CBF Stunner 125cc,20800.0,Faridabad,30500.0,2,7.0,125.0,6
+Bajaj V15 150cc,45000.0,Gurgaon,13300.0,0,5.0,150.0,1
+Suzuki Gixxer SF 150cc Special MOTOGP Edition Rear Disc,63700.0,Delhi,18000.0,0,4.0,150.0,18
+TVS Apache RTR 180cc ABS,65000.0,Navi Mumbai,18070.0,0,4.0,180.0,19
+Yamaha YZF-R15 2.0 150cc,60000.0,Aligarh,37000.0,0,7.0,150.0,21
+Bajaj Pulsar 220F,65000.0,Bangalore,25000.0,0,7.0,220.0,1
+Bajaj Avenger Cruise 220,69600.0,Chennai,20500.0,0,3.0,220.0,1
+Yamaha YZF-R15 2.0 150cc,58000.0,Lucknow,28000.0,0,7.0,150.0,21
+Bajaj Pulsar 220cc,86000.0,Mumbai,15000.0,0,3.0,220.0,1
+Royal Enfield Classic 350cc,91161.0,Chandigarh,8800.0,0,7.0,350.0,17
+Yamaha SZR 150cc,19000.0,Faridabad,22617.0,0,9.0,150.0,21
+Honda Dream Yuga 110cc,18000.0,Gurgaon,18157.0,0,9.0,110.0,6
+Bajaj V15 150cc,48000.0,Delhi,13000.0,0,5.0,150.0,1
+Yamaha FZs 150cc,44000.0,Jaipur,32000.0,0,7.0,150.0,21
+Royal Enfield Classic 350cc-Redditch Edition,141000.0,Pune,10825.0,1,4.0,350.0,17
+Yamaha SZR 150cc,18700.0,Faridabad,10546.0,0,9.0,150.0,21
+Yamaha YZF-R15 150cc,105000.0,Delhi,6900.0,0,2.0,150.0,21
+Hero Splendor Pro 100cc,30200.0,Ahmedabad,33333.0,0,8.0,100.0,5
+Bajaj Pulsar 135LS 135cc,21300.0,Indore,45000.0,0,11.0,135.0,1
+Hero CD 100SS,10000.0,Chennai,646000.0,0,24.0,100.0,5
+TVS Star City Plus 110cc,20000.0,Delhi,5515.0,0,7.0,110.0,19
+Hero Splendor Plus 100cc,18000.0,Gurgaon,20779.0,0,12.0,100.0,5
+TVS Apache RTR 180cc ABS,45000.0,Jabalpur,50000.0,0,7.0,180.0,19
+Hero HF Deluxe Self 100cc,30000.0,Vadodara,25000.0,0,8.0,100.0,5
+TVS Apache RTR 180cc,65000.0,Bangalore,16329.0,0,4.0,180.0,19
+Yamaha FZ16 150cc,35000.0,Pune,13496.0,2,8.0,150.0,21
+Honda CBR 250R,62800.0,Mumbai,38400.0,2,7.0,250.0,6
+Yamaha YZF-R15 150cc,50000.0,Hyderabad,26408.0,0,11.0,150.0,21
+Yamaha YZF-R15 2.0 150cc,75000.0,Bangalore,28000.0,0,7.0,150.0,21
+KTM RC 390cc,111000.0,Mumbai,14647.0,0,6.0,390.0,11
+Suzuki Hayate EP 110cc,41000.0,Pune,9624.0,0,3.0,110.0,18
+Suzuki Gixxer 150cc,48000.0,Delhi,9800.0,0,6.0,150.0,18
+Indian Scout Bobber 1130cc,700000.0,Nagpur,172.0,0,3.0,1130.0,9
+Royal Enfield Bullet 350cc,115000.0,Gurgaon,23552.0,0,8.0,350.0,17
+Bajaj Avenger Cruise 220,65000.0,Hosur,35000.0,0,5.0,220.0,1
+Bajaj Avenger 220cc,55000.0,Mumbai,18000.0,0,6.0,220.0,1
+TVS Apache RTR 160cc,60000.0,Bangalore,30000.0,0,5.0,160.0,19
+Yamaha YZF-R15 2.0 150cc,80000.0,Kaithal,20000.0,2,4.0,150.0,21
+Yamaha FZs 150cc,60000.0,Bangalore,13115.0,0,6.0,150.0,21
+Bajaj Pulsar RS200 ABS,82000.0,Gurgaon,57444.0,0,6.0,200.0,1
+Yamaha YZF-R15 150cc,71600.0,Chenani,35000.0,2,6.0,150.0,21
+TVS Apache RTR 160 4V Disc,61000.0,Faridabad,9385.0,0,3.0,160.0,19
+Bajaj Pulsar 150cc,48400.0,Hyderabad,14500.0,0,6.0,150.0,1
+Bajaj Discover 150cc,25000.0,Ludhiana,30000.0,0,10.0,150.0,1
+Bajaj Pulsar 180cc,28000.0,Noida,34060.0,2,11.0,180.0,1
+Hero HF Deluxe 100cc,38000.0,Jaipur,20000.0,0,6.0,100.0,5
+Bajaj Avenger Street 150,48900.0,Chennai,16500.0,0,6.0,150.0,1
+Hero Xtreme 200R,78000.0,Guwahati,15000.0,0,3.0,200.0,5
+Bajaj Pulsar AS150,38000.0,Delhi,22840.0,0,5.0,150.0,1
+Hero Passion Plus 100cc,18500.0,Aurangabad,60000.0,0,17.0,100.0,5
+Bajaj Pulsar 200cc,20000.0,Panipat,20000.0,0,10.0,200.0,1
+Royal Enfield Himalayan 410cc Fi ABS,177982.0,Hamirpur(hp),7000.0,0,2.0,410.0,17
+Hero HF Deluxe Eco 100cc,36000.0,Gurgaon,12561.0,0,3.0,100.0,5
+Honda CB Shine 125cc,33000.0,Jaipur,22317.0,0,8.0,125.0,6
+KTM Duke 390cc,180000.0,Pune,6900.0,0,5.0,390.0,11
+Bajaj Pulsar 180cc,35000.0,Bangalore,41016.0,0,9.0,180.0,1
+Hero Passion Pro 100cc,31200.0,Delhi,20000.0,0,5.0,100.0,5
+Harley-Davidson Street 750 ABS,450000.0,Delhi,1174.0,2,3.0,750.0,4
+Honda CB Unicorn 150cc,60000.0,Bangalore,17423.0,0,4.0,150.0,6
+Suzuki Gixxer SF 150cc,60000.0,Delhi,14830.0,0,4.0,150.0,18
+TVS Star City Plus 110cc,35000.0,Delhi,8000.0,0,5.0,110.0,19
+Bajaj CT 100 Alloy,28000.0,Faridabad,13290.0,0,4.0,100.0,1
+TVS Apache RTR 160cc,36000.0,Delhi,2980.0,0,6.0,160.0,19
+KTM Duke 200cc,84300.0,Hyderabad,15000.0,0,8.0,200.0,11
+KTM RC 200cc,160700.0,Hyderabad,10000.0,0,3.0,200.0,11
+Yamaha SZ RR V 2.0 150cc Limited Edition,55000.0,Pune,6138.0,0,4.0,150.0,21
+Bajaj Avenger Street 150,50000.0,Mumbai,22469.0,0,4.0,150.0,1
+TVS Star City Plus 110cc,27800.0,Ahmedabad,35552.0,0,4.0,110.0,19
+TVS Apache RTR 200 4V Carburetor,59000.0,Faridabad,35693.0,0,4.0,200.0,19
+Bajaj Pulsar RS200 ABS,106100.0,Noida,11000.0,0,6.0,200.0,1
+Hero Passion Pro 100cc,42000.0,Jaipur,23000.0,0,3.0,100.0,5
+Honda CB Shine 125cc,20000.0,Gurgaon,28090.0,0,9.0,125.0,6
+Bajaj Dominar 400,150000.0,Bangalore,16000.0,0,2.0,400.0,1
+Bajaj Discover 125ST,25000.0,Bangalore,49871.0,2,8.0,125.0,1
+Hero HF Deluxe 100cc,35000.0,Jaipur,22230.0,0,6.0,100.0,5
+Royal Enfield Interceptor 650cc,250000.0,Silchar,920.0,0,2.0,650.0,17
+Bajaj Avenger 220cc,35000.0,Delhi,30154.0,0,10.0,220.0,1
+Royal Enfield Classic 350cc,75000.0,Pune,29094.0,0,9.0,350.0,17
+Bajaj V15 150cc,50000.0,Delhi,14000.0,0,5.0,150.0,1
+Kawasaki Ninja 300cc,355100.0,Delhi,1710.0,0,4.0,300.0,12
+Royal Enfield Bullet Twinspark 350cc,95000.0,Faridabad,8901.0,0,4.0,350.0,17
+Hero Passion Pro 100cc,23000.0,Mumbai,38499.0,2,11.0,100.0,5
+Bajaj Avenger Street 150,65000.0,Delhi,10500.0,0,5.0,150.0,1
+Bajaj Avenger Street 150,54900.0,Jhansi,11000.0,0,5.0,150.0,1
+Hero Splendor Plus 100cc,18000.0,Ludhiana,52928.0,0,11.0,100.0,5
+Honda Livo 110cc,31000.0,Delhi,15149.0,2,6.0,110.0,6
+Royal Enfield Classic 350cc,127300.0,Delhi,1400.0,0,5.0,350.0,17
+Hero Splendor 100cc,17000.0,Chennai,30700.0,0,13.0,100.0,5
+Honda CBR 150R 150cc,71800.0,Dehradun,22650.0,2,6.0,150.0,6
+Yamaha FZ25 250cc,63000.0,Delhi,45686.0,0,4.0,250.0,21
+Hero Splendor iSmart 110cc,51000.0,Palamu,4669.0,0,4.0,110.0,5
+Honda CBR 250R,100000.0,Navi Mumbai,36000.0,0,8.0,250.0,6
+Bajaj Discover 125cc,17000.0,Palwal,20000.0,2,8.0,125.0,1
+Bajaj V15 150cc,53200.0,Naihati,12135.0,0,3.0,150.0,1
+Yamaha FZ V 2.0 150cc,35000.0,Delhi,19000.0,2,6.0,150.0,21
+Honda CB Trigger 150cc,34850.0,Mumbai,38527.0,0,7.0,150.0,6
+Royal Enfield Classic 350cc,107900.0,Delhi,9767.0,0,7.0,350.0,17
+Suzuki Gixxer SF 150cc,89900.0,Hyderabad,6000.0,0,4.0,150.0,18
+Bajaj Pulsar RS200 ABS,88000.0,Ahmedabad,7150.0,0,5.0,200.0,1
+Yamaha SZR 150cc,20000.0,Faridabad,35173.0,0,9.0,150.0,21
+TVS Apache RR310,180000.0,Kurnool,5700.0,0,3.0,310.0,19
+Royal Enfield Classic 350cc,98000.0,Gurgaon,7300.0,0,7.0,350.0,17
+KTM Duke 250cc,198599.0,Balaghat,930.0,0,3.0,250.0,11
+Bajaj Pulsar NS200,88000.0,Hyderabad,21914.0,0,3.0,200.0,1
+Bajaj Pulsar 125cc Disc CBS,47000.0,Banki,14009.0,0,2.0,125.0,1
+Bajaj Avenger Street 150,67000.0,Delhi,30000.0,0,5.0,150.0,1
+TVS Apache RTR 180cc ABS,44000.0,Delhi,36000.0,0,6.0,180.0,19
+Mahindra Mojo Tourer Edition 300cc,120000.0,Gurgaon,11786.0,0,4.0,300.0,15
+KTM Duke 200cc,155000.0,Tirunelveli,7500.0,0,4.0,200.0,11
+Bajaj Pulsar 135LS,27000.0,Pune,61000.0,0,6.0,135.0,1
+Hero HF Deluxe 100cc,37000.0,Sirsa,16664.0,0,4.0,100.0,5
+Bajaj Pulsar 150cc,55000.0,Bangalore,19309.0,0,5.0,150.0,1
+Honda CB Unicorn 150cc,30000.0,Ghaziabad,64800.0,0,13.0,150.0,6
+Royal Enfield Classic Gunmetal Grey 350cc ABS,150000.0,Bardhaman,1800.0,0,2.0,350.0,17
+Bajaj Platina 100cc,20800.0,Gurgaon,27161.0,0,8.0,100.0,1
+Royal Enfield Thunderbird 500cc,85000.0,Gurgaon,7504.0,2,7.0,500.0,17
+Honda CB Shine 125cc,65000.0,Pune,2500.0,0,3.0,125.0,6
+Hero Xtreme Sports 149cc,56000.0,Jaipur,17330.0,0,6.0,149.0,5
+Bajaj Platina 100cc,19000.0,Ghaziabad,48754.0,0,9.0,100.0,1
+Suzuki Hayabusa 1300cc,1149000.0,Delhi,9875.0,0,6.0,1300.0,18
+Yamaha YZF-R15 2.0 150cc,80000.0,Hosur,30000.0,0,7.0,150.0,21
+Bajaj Avenger Street 150,70000.0,Mumbai,4900.0,0,5.0,150.0,1
+Royal Enfield Thunderbird 350cc,105800.0,Bangalore,27000.0,0,6.0,350.0,17
+Suzuki Gixxer SF 150cc Rear Disc,55000.0,Delhi,33186.0,0,5.0,150.0,18
+Bajaj Avenger 220cc,42000.0,Thane,17028.0,0,7.0,220.0,1
+Bajaj Pulsar 200 NS 200cc,42200.0,Ahmedabad,57000.0,0,7.0,200.0,1
+Bajaj Pulsar AS150,38700.0,Chennai,28500.0,2,6.0,150.0,1
+Bajaj Discover 150F,28000.0,Gurgaon,31634.0,0,6.0,150.0,1
+Honda CB Shine 125cc,20000.0,Chennai,654984.0,0,10.0,125.0,6
+Triumph Bonneville T100 865cc,550000.0,Bangalore,25536.0,0,7.0,865.0,20
+Honda CBF Stunner 125cc,15000.0,Ghaziabad,7900.0,0,12.0,125.0,6
+Royal Enfield Classic Chrome 500cc,135000.0,Noida,11514.0,0,3.0,500.0,17
+Royal Enfield Bullet 350cc,78500.0,Thane,35596.0,0,6.0,350.0,17
+Yamaha YZF-R15 2.0 150cc,75000.0,Delhi,23085.0,0,5.0,150.0,21
+Honda CB Twister 110cc,20000.0,Gurgaon,45000.0,0,10.0,110.0,6
+Hero Splendor Plus 100cc,31500.0,Ahmedabad,28653.0,0,8.0,100.0,5
+Honda CB Shine 125cc,18000.0,Ahmedabad,56000.0,0,11.0,125.0,6
+Bajaj Avenger 220cc,55000.0,Ahmedabad,29550.0,0,6.0,220.0,1
+Bajaj Avenger Street 150,65000.0,Mumbai,23000.0,0,5.0,150.0,1
+Bajaj Pulsar AS200,70000.0,Sundargarh,23000.0,0,5.0,200.0,1
+Hero Karizma ZMR 223cc,34154.0,Bangalore,33500.0,2,7.0,223.0,5
+Bajaj Discover 125cc,34000.0,Ahmedabad,17500.0,2,4.0,125.0,1
+Bajaj Platina 100cc,17000.0,Faridabad,12090.0,0,10.0,100.0,1
+Royal Enfield Classic 350cc,115000.0,Mumbai,16476.0,0,5.0,350.0,17
+Bajaj Avenger 220cc,40000.0,Mumbai,22295.0,0,8.0,220.0,1
+Bajaj Platina 100cc,18000.0,Gurgaon,25000.0,0,9.0,100.0,1
+Bajaj Pulsar AS200,44000.0,Ghaziabad,29000.0,2,6.0,200.0,1
+Honda CBR 250R,80000.0,Hyderabad,35741.0,0,7.0,250.0,6
+KTM RC 390cc,175000.0,Jaipur,10880.0,0,4.0,390.0,11
+Bajaj Discover 100cc,18000.0,Pune,52400.0,0,15.0,100.0,1
+Kawasaki Ninja 650cc,415000.0,Kanchipuram,8500.0,0,5.0,650.0,12
+KTM Duke 390cc,160000.0,Bangalore,23766.0,0,5.0,390.0,11
+Royal Enfield Himalayan 410cc,115000.0,Saharanpur,3300.0,0,5.0,410.0,17
+Yamaha FZs 150cc,47000.0,Dakshina Kannada,35000.0,0,6.0,150.0,21
+Hero Passion Pro 100cc,28000.0,Gurgaon,20000.0,0,10.0,100.0,5
+Hero Karizma R 223cc,49000.0,Vasai,25000.0,0,7.0,223.0,5
+Yamaha YZF-R15 V3 150cc,115600.0,Bangalore,16000.0,0,3.0,150.0,21
+KTM Duke 200cc,90000.0,Navsari,24072.0,0,5.0,200.0,11
+Hero HF Deluxe Self 100cc,36500.0,Ahmednagar,23000.0,0,7.0,100.0,5
+Royal Enfield Electra 350cc,90000.0,Bihar Shariff,2000.0,0,4.0,350.0,17
+Yamaha FZ25 250cc,99000.0,Hyderabad,8000.0,0,3.0,250.0,21
+KTM RC 390cc,135000.0,Mumbai,9800.0,0,6.0,390.0,11
+Hero CBZ Xtreme 150cc,41000.0,Kolkata,24000.0,0,9.0,150.0,5
+TVS Apache RTR 200 4V Carburetor,55000.0,Noida,30000.0,0,4.0,200.0,19
+Royal Enfield Thunderbird 350cc,110500.0,Kanchipuram,30000.0,0,6.0,350.0,17
+Bajaj Platina  Alloy ES-100cc,33000.0,Delhi,14000.0,0,4.0,100.0,1
+Royal Enfield Bullet Electra 350cc,110000.0,Mumbai,16000.0,0,5.0,350.0,17
+Royal Enfield Classic 350cc,120000.0,Delhi,23719.0,0,5.0,350.0,17
+KTM Duke 390cc,220000.0,Kolhapur,6700.0,0,4.0,390.0,11
+TVS Apache RTR 160cc,20000.0,Faridkot,20000.0,0,14.0,160.0,19
+Honda CB Shine 125cc,20000.0,Gurgaon,44500.0,0,11.0,125.0,6
+Hyosung GT250R,211300.0,Surat,15000.0,0,7.0,250.0,7
+Yamaha FZ16 150cc,34999.0,Gautam Buddha Nagar,45000.0,0,13.0,150.0,21
+Bajaj Dominar 400 ABS,125000.0,Gurgaon,13192.0,0,4.0,400.0,1
+Hero Passion Pro 100cc,25000.0,Delhi,29538.0,0,8.0,100.0,5
+Bajaj Discover 100M,30000.0,Thane,7334.0,0,7.0,100.0,1
+Bajaj Discover 100M,20000.0,Delhi,41781.0,0,9.0,100.0,1
+Royal Enfield Thunderbird 350cc,125000.0,Bangalore,3679.0,0,4.0,350.0,17
+Royal Enfield Thunderbird 350cc,100000.0,Delhi,10400.0,0,6.0,350.0,17
+Royal Enfield Classic 350cc,120000.0,Pune,2876.0,0,5.0,350.0,17
+Yamaha YZF-R3 320cc,246800.0,Gurgaon,4500.0,0,5.0,320.0,21
+Hero Splendor Pro 100cc,25000.0,Faridabad,18754.0,0,7.0,100.0,5
+Hero Splendor Plus 100cc,15000.0,Mumbai,60000.0,0,15.0,100.0,5
+Yamaha YZF-R15 150cc,60000.0,Mumbai,28000.0,0,9.0,150.0,21
+Triumph Street Triple 765,875000.0,Rajkot,750.0,0,2.0,765.0,20
+Royal Enfield Bullet 350cc,95000.0,Chandigarh,20069.0,2,6.0,350.0,17
+Bajaj Dominar 400 ABS,135000.0,Bangalore,21900.0,0,3.0,400.0,1
+Royal Enfield Thunderbird 350cc,100000.0,Kadi,14500.0,0,5.0,350.0,17
+Royal Enfield Thunderbird 350cc,54000.0,Delhi,20631.0,0,12.0,350.0,17
+Royal Enfield Classic 350cc,110000.0,Farrukhabad,18120.0,0,5.0,350.0,17
+Bajaj Pulsar 180cc,73000.0,Delhi,2055.0,0,3.0,180.0,1
+Bajaj Pulsar AS150,80000.0,Pune,9000.0,0,5.0,150.0,1
+Yamaha Fazer 150cc,35000.0,Bangalore,24000.0,0,9.0,150.0,21
+Bajaj CT 100 100cc,30000.0,Faridabad,51132.0,0,6.0,100.0,1
+Hero HF Deluxe 100cc,28000.0,Gurgaon,9184.0,0,6.0,100.0,5
+Bajaj Pulsar 135LS,22999.0,Bangalore,41000.0,2,11.0,135.0,1
+Bajaj Pulsar 150cc,18000.0,Jhansi,22000.0,2,12.0,150.0,1
+Honda CBR 250R Repsol ABS,120000.0,Noida,14000.0,2,4.0,250.0,6
+Bajaj Avenger Street 150,43000.0,Delhi,17000.0,0,5.0,150.0,1
+Honda Dream Yuga 110cc CBS,55000.0,Ahmedabad,8351.0,0,2.0,110.0,6
+Yamaha YZF-R15 2.0 150cc,90000.0,Thane,38000.0,0,6.0,150.0,21
+Yamaha YZF-R15 150cc,100000.0,Delhi,9000.0,0,4.0,150.0,21
+Hero HF Deluxe 100cc,33000.0,Faridabad,18643.0,0,5.0,100.0,5
+Suzuki Gixxer SF Fi 150cc,99999.0,Bangalore,5500.0,0,3.0,150.0,18
+Yamaha SZR 150cc,18000.0,Ambala,18695.0,0,10.0,150.0,21
+Royal Enfield Classic 350cc,145000.0,Mumbai,10300.0,0,4.0,350.0,17
+Bajaj Pulsar RS200,90000.0,Gurgaon,179.0,2,5.0,200.0,1
+Honda CB Shine 125cc,35500.0,Jaipur,17405.0,0,7.0,125.0,6
+Bajaj Pulsar RS200 ABS,103300.0,Hyderabad,20000.0,0,6.0,200.0,1
+Hero CD Deluxe 100cc,16800.0,Jhansi,35000.0,2,13.0,100.0,5
+Bajaj Avenger 200cc,33000.0,Bangalore,31500.0,3,14.0,200.0,1
+Royal Enfield Classic Chrome 500cc,120000.0,Bangalore,48000.0,2,8.0,500.0,17
+Royal Enfield Bullet Electra Twinspark 350cc,120000.0,Delhi,9219.0,0,3.0,350.0,17
+Suzuki Intruder 150cc,70926.0,Gorakhpur,17772.0,0,3.0,150.0,18
+Bajaj  Pulsar 180cc,22000.0,Delhi,20700.0,2,11.0,180.0,1
+Bajaj Avenger Street 150,53000.0,Ahmedabad,9319.0,0,4.0,150.0,1
+TVS Apache RTR 160cc,45000.0,Ghaziabad,19542.0,0,7.0,160.0,19
+Bajaj V15 150cc,35000.0,Delhi,24635.0,0,5.0,150.0,1
+Bajaj V12 125cc,36000.0,Gurgaon,28554.0,0,4.0,125.0,1
+Bajaj Pulsar 220F,67700.0,Kottayam,15000.0,0,4.0,220.0,1
+Bajaj Pulsar NS160 Rear Disc,72300.0,Delhi,4727.0,0,3.0,160.0,1
+Royal Enfield Thunderbird 350cc,71300.0,Hyderabad,40000.0,0,7.0,350.0,17
+Bajaj Discover 100M,22000.0,Ghaziabad,47853.0,0,9.0,100.0,1
+Hyosung Aquila GV250,170000.0,Bhubaneshwar,19000.0,0,5.0,250.0,7
+Bajaj Pulsar 180cc,62000.0,Delhi,7000.0,0,3.0,180.0,1
+Hero Splendor Plus 100cc,22000.0,Faridabad,16207.0,0,8.0,100.0,5
+Royal Enfield Standard 500cc,107000.0,Kanchipuram,20000.0,0,5.0,500.0,17
+Bajaj Pulsar 180cc,22000.0,Gurgaon,58706.0,0,8.0,180.0,1
+KTM RC 200cc,120000.0,Pune,12000.0,0,6.0,200.0,11
+Yamaha FZs 150cc,44000.0,Jaipur,27000.0,0,8.0,150.0,21
+Hero Splendor iSmart 110cc,40000.0,Delhi,15000.0,0,4.0,110.0,5
+Hero Glamour 125cc,39000.0,Jaipur,20000.0,0,4.0,125.0,5
+Royal Enfield Classic 350cc,116100.0,Rajkot,8000.0,0,4.0,350.0,17
+Honda CB Unicorn 150cc,65000.0,Mumbai,20000.0,0,4.0,150.0,6
+Honda CB Shine 125cc,30000.0,Chennai,45991.0,0,7.0,125.0,6
+Mahindra Mojo 300cc,110000.0,Noida,30000.0,0,5.0,300.0,15
+Bajaj Pulsar 150cc,30000.0,Badaun,50000.0,0,6.0,150.0,1
+Royal Enfield Classic 350cc,135000.0,Delhi,9000.0,0,3.0,350.0,17
+Bajaj Avenger Street 150,65000.0,Gwalior,4400.0,0,5.0,150.0,1
+KTM RC 390cc,96000.0,Mumbai,25000.0,0,7.0,390.0,11
+Bajaj Pulsar NS200,52000.0,Mumbai,26000.0,2,6.0,200.0,1
+Hero CD Deluxe 100cc,24000.0,Jaipur,20100.0,0,10.0,100.0,5
+Royal Enfield Classic 350cc,75000.0,Delhi,20000.0,0,9.0,350.0,17
+Bajaj Discover 125cc,40000.0,Faridabad,12808.0,0,3.0,125.0,1
+Bajaj Pulsar 220cc,72000.0,Kolkata,50000.0,0,4.0,220.0,1
+Bajaj V15 150cc,40085.0,Varanasi,9500.0,0,5.0,150.0,1
+Bajaj Discover 100M,30000.0,Pune,23697.0,0,7.0,100.0,1
+Bajaj Pulsar 180cc,24000.0,Mumbai,59944.0,0,8.0,180.0,1
+Honda CB Shine 125cc,28000.0,Hyderabad,36000.0,0,11.0,125.0,6
+Yamaha YZF-R15 150cc,47000.0,Chennai,42000.0,0,9.0,150.0,21
+Bajaj CT 100 ES Alloy,38500.0,Faridabad,4877.0,0,2.0,100.0,1
+Bajaj Discover 135cc,22000.0,Jaipur,22000.0,0,9.0,135.0,1
+Hero Achiever Disc 150cc,49900.0,Chennai,13813.0,0,4.0,150.0,5
+Bajaj Pulsar RS200,125000.0,Faridabad,2500.0,0,4.0,200.0,1
+Royal Enfield Bullet Electra Twinspark 350CC ABS,127000.0,Mumbai,83.0,0,2.0,350.0,17
+Bajaj Discover 100M,31000.0,Bangalore,21447.0,0,7.0,100.0,1
+Bajaj Avenger Street 220,42500.0,Surat,9300.0,0,5.0,220.0,1
+Royal Enfield Bullet Twinspark 350cc,90000.0,Faridabad,10195.0,0,5.0,350.0,17
+Bajaj Pulsar NS200,48000.0,Allahabad,41939.0,0,8.0,200.0,1
+Bajaj Pulsar 150cc,16500.0,Delhi,26850.0,0,12.0,150.0,1
+Bajaj V15 150cc,60000.0,Delhi,3500.0,0,4.0,150.0,1
+Ducati Monster 797,836000.0,Pune,7224.0,0,2.0,797.0,3
+Royal Enfield Thunderbird 350cc,115000.0,Ghaziabad,12500.0,0,3.0,350.0,17
+Royal Enfield Bullet Twinspark 350cc,105000.0,Faridabad,12822.0,0,4.0,350.0,17
+Royal Enfield Thunderbird 350cc,128000.0,Jaipur,8500.0,0,5.0,350.0,17
+Suzuki Gixxer SF 150cc,35000.0,Mumbai,59835.0,0,6.0,150.0,18
+Bajaj Pulsar 135LS,30000.0,Jodhpur,37125.0,0,8.0,135.0,1
+Royal Enfield Thunderbird 500cc,110000.0,Bangalore,28500.0,0,8.0,500.0,17
+TVS Apache RTR 160cc Rear Disc,56000.0,Ghaziabad,6539.0,0,3.0,160.0,19
+Bajaj Discover 100cc,23000.0,Delhi,32000.0,0,8.0,100.0,1
+Royal Enfield Bullet Electra 350cc,70000.0,Mumbai,33144.0,0,14.0,350.0,17
+Royal Enfield Himalayan 410cc,138000.0,Delhi,5000.0,0,5.0,410.0,17
+Yamaha SZ RR V 2.0 150cc Limited Edition,54000.0,Ludhiana,5600.0,0,4.0,150.0,21
+KTM Duke 125cc,135000.0,Patna,4549.0,0,2.0,125.0,11
+Hero CBZ 150cc,30000.0,Ahmedabad,51528.0,0,9.0,150.0,5
+Hero Passion Pro 100cc,31000.0,Delhi,12410.0,0,7.0,100.0,5
+Yamaha YZF-R15 S 150cc,75000.0,Chennai,14400.0,0,4.0,150.0,21
+Bajaj Dominar 400 ABS,110000.0,Hyderabad,36000.0,0,4.0,400.0,1
+Royal Enfield Bullet Electra 350cc,70000.0,Bangalore,60095.0,2,14.0,350.0,17
+Royal Enfield Classic Desert Storm 500cc,95000.0,Bangalore,12233.0,0,6.0,500.0,17
+Bajaj Platina 100cc,20400.0,Jhansi,26000.0,0,8.0,100.0,1
+Bajaj Dominar 400 ABS,120000.0,Mumbai,33647.0,0,4.0,400.0,1
+Yamaha Fazer 150cc,34000.0,Jaipur,39000.0,0,9.0,150.0,21
+Honda CBR 250R ABS,173400.0,Mumbai,10060.0,0,4.0,250.0,6
+Honda CB Unicorn 150cc,33000.0,Mumbai,78000.0,0,10.0,150.0,6
+Bajaj Avenger 220cc,40000.0,Ahmedabad,64000.0,0,7.0,220.0,1
+Royal Enfield Interceptor 650cc,260000.0,Navi Mumbai,3800.0,0,2.0,650.0,17
+Hyosung GT250R,256000.0,Thane,5823.0,0,4.0,250.0,7
+Bajaj Pulsar 220F,60000.0,Kolkata,19865.0,0,4.0,220.0,1
+Honda CB Unicorn 150cc,30000.0,Lucknow,50000.0,0,8.0,150.0,6
+Bajaj Pulsar 150cc,10000.0,Delhi,1223.0,0,13.0,150.0,1
+Honda CB Shine 125cc Disc,37500.0,Chennai,20192.0,0,5.0,125.0,6
+TVS Apache RTR 160cc,26000.0,Ghaziabad,51875.0,0,9.0,160.0,19
+Royal Enfield Classic 350cc Dual Disc,156000.0,Pune,6517.0,0,2.0,350.0,17
+TVS Apache RR310 Slipper Clutch,224000.0,Vadodara,3900.0,0,2.0,310.0,19
+Royal Enfield Classic 350cc,115000.0,Delhi,15000.0,2,5.0,350.0,17
+Royal Enfield Thunderbird 350cc,103000.0,Bankura,14400.0,0,6.0,350.0,17
+Honda Dream Yuga 110cc,46500.0,Ludhiana,3500.0,0,4.0,110.0,6
+Hero Splendor Plus 100cc,25000.0,Jaipur,24000.0,0,11.0,100.0,5
+KTM Duke 390cc,83000.0,Pune,36083.0,0,7.0,390.0,11
+Honda CB Unicorn 160,48900.0,Salem,24200.0,0,6.0,160.0,6
+Honda CB Trigger 150cc,40000.0,Ghaziabad,40323.0,0,7.0,150.0,6
+Bajaj Avenger 220cc,32900.0,Mehsana,11000.0,0,8.0,220.0,1
+Honda Dream Neo 110cc,35000.0,Gurgaon,15242.0,0,6.0,110.0,6
+Hero Passion Pro 100cc,43000.0,Delhi,10224.0,0,5.0,100.0,5
+Royal Enfield Classic 500cc,66200.0,Delhi,3400.0,0,10.0,500.0,17
+TVS Flame 125cc,10000.0,Sonepat,30800.0,0,12.0,125.0,19
+Hero Splendor iSmart 100cc,35000.0,Karnal,10000.0,0,5.0,100.0,5
+Bajaj Pulsar 150cc,25000.0,Pune,86283.0,3,10.0,150.0,1
+KTM Duke 200cc,55000.0,Mumbai,32000.0,3,9.0,200.0,11
+Bajaj Dominar 400 ABS,140000.0,Bangalore,19000.0,0,4.0,400.0,1
+Bajaj Avenger 220cc,53000.0,Navi Mumbai,15000.0,0,6.0,220.0,1
+Royal Enfield Classic 500cc,120000.0,Kurnool,34000.0,0,6.0,500.0,17
+Bajaj Avenger Street 220,70000.0,Gurgaon,5768.0,0,5.0,220.0,1
+Bajaj Pulsar 150cc Rear Disc ABS,85000.0,Balaghat,2500.0,0,2.0,150.0,1
+Honda CB Twister 110cc,24500.0,Ahmedabad,24182.0,0,10.0,110.0,6
+Suzuki Gixxer 150cc Dual Tone Rear Disc,70000.0,Delhi,21543.0,0,3.0,150.0,18
+Honda CBF Stunner 125cc,28499.0,Ahmedabad,23500.0,0,8.0,125.0,6
+Hero Passion Pro 100cc,30000.0,Ghaziabad,19546.0,0,8.0,100.0,5
+Royal Enfield Thunderbird 350cc,80000.0,Delhi,14448.0,0,6.0,350.0,17
+TVS Sport 100cc,25000.0,Gurgaon,21539.0,0,4.0,100.0,19
+Hero Passion Xpro 110cc,30000.0,Nanjangud,26000.0,0,8.0,110.0,5
+Royal Enfield Bullet Twinspark 350cc,90000.0,Delhi,6000.0,0,7.0,350.0,17
+KTM RC 390cc,230000.0,Bangalore,10000.0,0,4.0,390.0,11
+Yamaha FZs 150cc,45000.0,Hyderabad,34900.0,0,7.0,150.0,21
+Honda Dream Yuga 110cc,19000.0,Gurgaon,25878.0,0,7.0,110.0,6
+TVS Apache RTR 160 4V Disc,80000.0,Delhi,7000.0,0,3.0,160.0,19
+Bajaj Boxer BM150,22345.0,Delhi,87383.0,0,9.0,150.0,1
+Bajaj Pulsar 150cc,18000.0,Cuttack,45000.0,0,13.0,150.0,1
+TVS Apache RTR 180cc,73000.0,Rohtak,2100.0,0,3.0,180.0,19
+Mahindra Pantero 110cc,22000.0,Nadiad,28000.0,0,8.0,110.0,15
+Bajaj Dominar 400,135000.0,Chennai,5000.0,0,4.0,400.0,1
+Royal Enfield Thunderbird 500cc,150000.0,Faridabad,5200.0,0,6.0,500.0,17
+TVS Apache RTR 160cc,30000.0,Dhanbad,40000.0,0,13.0,160.0,19
+Bajaj Avenger Street 220,60000.0,Thane,15000.0,0,6.0,220.0,1
+Hero Splendor iSmart 110cc,56000.0,Ranga Reddy,16500.0,0,4.0,110.0,5
+Hero Passion Pro 100cc,23000.0,Mumbai,33300.0,2,11.0,100.0,5
+Royal Enfield Himalayan 410cc,119000.0,Gurgaon,15064.0,0,5.0,410.0,17
+Honda CB Shine 125cc,45000.0,Roorkee,17000.0,0,5.0,125.0,6
+Suzuki Gixxer SF 150cc,47000.0,Jaipur,70000.0,0,6.0,150.0,18
+Hero Karizma R 223cc,40000.0,Bangalore,42000.0,0,13.0,223.0,5
+Honda CBF Stunner 125cc,20000.0,Delhi,25000.0,0,7.0,125.0,6
+Hero Splendor Plus 100cc,24000.0,Faridabad,12015.0,0,7.0,100.0,5
+Harley-Davidson Sportster 883,350000.0,Noida,30000.0,0,9.0,883.0,4
+Benelli TNT 25 250cc,120000.0,Bangalore,26000.0,2,5.0,250.0,2
+Bajaj Discover 135cc,15000.0,Bhiwani,45000.0,2,13.0,135.0,1
+Royal Enfield Himalayan 410cc Fi,170000.0,Hyderabad,9500.0,0,3.0,410.0,17
+Bajaj Pulsar 150cc,19800.0,Jhansi,35000.0,0,12.0,150.0,1
+Bajaj Avenger 220cc,45000.0,Pune,27000.0,0,9.0,220.0,1
+Royal Enfield Thunderbird 500cc,174600.0,Thane,9200.0,0,4.0,500.0,17
+Honda CB Shine 125cc,30000.0,Delhi,23199.0,0,5.0,125.0,6
+Hero Karizma 223cc,15000.0,Delhi,38000.0,0,15.0,223.0,5
+Bajaj Avenger Street 220,45000.0,Faridabad,841.0,0,5.0,220.0,1
+Honda CB Unicorn 160 STD,67500.0,Mumbai,10000.0,0,3.0,160.0,6
+Bajaj Dominar 400 ABS,150000.0,Gurgaon,9500.0,0,3.0,400.0,1
+Bajaj Avenger Street 150,72100.0,Ahmedabad,22000.0,0,5.0,150.0,1
+Hero Karizma R 223cc,32000.0,Delhi,17659.0,0,9.0,223.0,5
+KTM Duke 200cc,130000.0,Delhi,9221.0,0,3.0,200.0,11
+Hero Splendor iSmart 100cc,25000.0,Satara,15000.0,0,5.0,100.0,5
+Mahindra Mojo 300cc,124900.0,Pune,35000.0,0,5.0,300.0,15
+Bajaj Pulsar 150cc,19000.0,Gurgaon,39858.0,0,11.0,150.0,1
+Royal Enfield Classic Desert Storm 500cc,110800.0,Mumbai,13300.0,0,6.0,500.0,17
+Bajaj V15 150cc,35000.0,Bangalore,38717.0,0,5.0,150.0,1
+Bajaj Pulsar 220cc,26000.0,Delhi,55686.0,2,9.0,220.0,1
+Yamaha FZS FI 150cc,48600.0,Ludhiana,20559.0,0,4.0,150.0,21
+Hero HF Deluxe Eco 100cc,36000.0,Jhansi,17000.0,2,4.0,100.0,5
+Bajaj Pulsar 220cc,54200.0,Ahmedabad,33750.0,0,5.0,220.0,1
+Hero CD Deluxe 100cc,15200.0,Jhansi,36000.0,2,12.0,100.0,5
+Hero Splendor Pro 100cc,37000.0,Gurdaspur,37000.0,0,6.0,100.0,5
+Bajaj Pulsar AS200,70000.0,Panchkula,25000.0,0,5.0,200.0,1
+Bajaj Avenger Street 220,75000.0,Bangalore,5399.0,0,4.0,220.0,1
+Honda CB Shine 125cc,37000.0,Jaipur,18110.0,0,6.0,125.0,6
+Bajaj Discover 100cc,23000.0,Chennai,36105.0,0,8.0,100.0,1
+Bajaj Discover 150F,26200.0,Gurgaon,17000.0,0,6.0,150.0,1
+Bajaj V15 150cc,48999.0,Patna,9600.0,0,5.0,150.0,1
+KTM RC 390cc,130000.0,Trivandrum,61000.0,0,7.0,390.0,11
+Hero Passion Pro 100cc,34000.0,Ghaziabad,18755.0,0,5.0,100.0,5
+Yamaha FZs 150cc,37000.0,Delhi,12500.0,0,6.0,150.0,21
+Royal Enfield Thunderbird 350cc,95000.0,Pune,20241.0,0,6.0,350.0,17
+Honda CB ShineSP 125cc,35900.0,Delhi,19000.0,0,5.0,125.0,6
+Bajaj Discover 125ST,26675.0,Thane,30032.0,0,8.0,125.0,1
+Bajaj Discover 150cc,31500.0,Delhi,26000.0,0,7.0,150.0,1
+Hero Glamour 125cc,28000.0,Ghaziabad,33632.0,0,7.0,125.0,5
+Bajaj Dominar 400 ABS,120000.0,Bangalore,24200.0,0,4.0,400.0,1
+Royal Enfield Bullet Electra 350cc,82000.0,Delhi,29860.0,0,7.0,350.0,17
+Honda CBR 150R 150cc,60000.0,Gohana,30000.0,0,9.0,150.0,6
+Hero Glamour Fi 125cc,29000.0,Patna,30579.0,0,6.0,125.0,5
+Yamaha FZs 150cc,25000.0,Faridabad,78309.0,0,9.0,150.0,21
+Bajaj V15 150cc,50000.0,Delhi,9718.0,0,5.0,150.0,1
+Honda CB Hornet 160R  ABS STD,100000.0,Churu,2322.0,0,2.0,160.0,6
+Royal Enfield Thunderbird 500cc,140900.0,Pune,1400.0,0,6.0,500.0,17
+TVS Apache RTR 200 4V FI,65000.0,Sonepat,8800.0,3,4.0,200.0,19
+Bajaj Pulsar 180cc,48000.0,Bangalore,45037.0,0,6.0,180.0,1
+KTM RC 390cc,130000.0,Bangalore,14324.0,0,5.0,390.0,11
+Bajaj Pulsar 180cc,15000.0,Bangalore,72367.0,0,15.0,180.0,1
+Yamaha Gladiator 125cc,18000.0,Bhopal,22000.0,0,12.0,125.0,21
+Hero HF Deluxe Self 100cc,30000.0,Jodhpur,45000.0,0,6.0,100.0,5
+Hero Splendor Plus 100cc,27000.0,Gurgaon,61421.0,0,8.0,100.0,5
+Bajaj V15 150cc,50000.0,Ambala,17000.0,0,5.0,150.0,1
+Bajaj Pulsar 220cc,65000.0,Ahmedabad,30000.0,0,9.0,220.0,1
+Bajaj Platina 100cc,19000.0,Ghaziabad,74594.0,0,11.0,100.0,1
+Hero Karizma R 223cc,20000.0,Ghaziabad,46007.0,0,13.0,223.0,5
+Honda CBR 150R 150cc,65000.0,Bulandshahr,60000.0,0,7.0,150.0,6
+Hero Hunk 150cc,10000.0,Mumbai,21389.0,0,12.0,150.0,5
+KTM Duke 390cc,165000.0,Thane,17883.0,0,6.0,390.0,11
+Bajaj Pulsar 200 NS 200cc,50000.0,Ahmedabad,44000.0,0,7.0,200.0,1
+Royal Enfield Bullet Electra 350cc,99999.0,Ahmedabad,7921.0,0,6.0,350.0,17
+Royal Enfield Himalayan 410cc,125000.0,Delhi,10158.0,0,5.0,410.0,17
+Hero Splendor Plus Kick Alloy 100cc,48500.0,Delhi,5500.0,0,2.0,100.0,5
+Hero CBZ Xtreme 150cc,25000.0,Visakhapatnam,60000.0,0,9.0,150.0,5
+Yamaha FZ16 150cc,47000.0,Jaipur,18415.0,0,8.0,150.0,21
+Bajaj Pulsar 150cc,30000.0,Nagpur,55297.0,0,11.0,150.0,1
+Hero Splendor iSmart Plus IBS 110cc,48672.0,Ernakulam,608.0,0,2.0,110.0,5
+Yamaha FZs 150cc,25000.0,Gurgaon,38554.0,0,7.0,150.0,21
+Hero CD Deluxe 100cc,23000.0,Jaipur,20931.0,0,11.0,100.0,5
+Honda CB Unicorn 160,70000.0,Mumbai,8000.0,0,6.0,160.0,6
+Royal Enfield Thunderbird 350cc,105000.0,Jaipur,1543.0,0,5.0,350.0,17
+Bajaj Avenger Cruise 220,55250.0,Pune,7781.0,2,3.0,220.0,1
+Royal Enfield Classic 500cc,131000.0,Jalandhar,8866.0,0,6.0,500.0,17
+Hero Splendor Plus 100cc,25000.0,Delhi,9000.0,0,11.0,100.0,5
+TVS Apache RTR 160cc,24000.0,Jabalpur,266028.0,0,10.0,160.0,19
+Yamaha FZ16 150cc,35000.0,Bangalore,53005.0,0,7.0,150.0,21
+Suzuki Gixxer 150cc,50000.0,Hyderabad,35053.0,0,5.0,150.0,18
+Bajaj Pulsar RS200 ABS,110000.0,Kanpur,9119.0,0,5.0,200.0,1
+Bajaj Pulsar  180cc,38000.0,Sambalpur,78000.0,0,6.0,180.0,1
+Bajaj Pulsar 220F,39000.0,Kanchipuram,25600.0,2,7.0,220.0,1
+Bajaj Avenger Cruise 220,68000.0,Bangalore,18568.0,0,5.0,220.0,1
+Royal Enfield Continental GT 535cc,161300.0,Pune,17000.0,0,5.0,535.0,17
+Hero CD Deluxe 100cc,30000.0,Gurgaon,26000.0,0,4.0,100.0,5
+Bajaj Discover 100M,19000.0,Faridabad,20089.0,0,7.0,100.0,1
+Bajaj V15 150cc,25000.0,Delhi,28550.0,0,5.0,150.0,1
+Hero Passion Pro 100cc,32000.0,Faridabad,24720.0,0,5.0,100.0,5
+Honda CB Unicorn 160 CBS,64400.0,Mumbai,3310.0,0,5.0,160.0,6
+Hero Splendor Plus 100 CC,35000.0,Jaipur,36283.0,0,7.0,100.0,5
+Bajaj Platina  Alloy ES-100cc,36000.0,Faridabad,10160.0,0,4.0,100.0,1
+Hero HF Deluxe 100cc,39107.0,Aurangabad,16289.0,0,4.0,100.0,5
+Hero CBZ 150cc,15000.0,Navsari,300000.0,2,19.0,150.0,5
+Royal Enfield Classic 500cc,93500.0,Gurgaon,10100.0,2,7.0,500.0,17
+Yamaha FZ S V 2.0 150cc,41500.0,Mumbai,12986.0,2,7.0,150.0,21
+Bajaj Pulsar 150cc,50000.0,Jaipur,27342.0,0,5.0,150.0,1
+Royal Enfield Thunderbird 350cc,80600.0,Mumbai,26000.0,2,7.0,350.0,17
+KTM RC 390cc,135000.0,Bhopal,15000.0,2,7.0,390.0,11
+Harley-Davidson Street 750,417000.0,Delhi,13000.0,2,5.0,750.0,4
+Honda CB ShineSP 125cc,55000.0,Bangalore,10000.0,0,4.0,125.0,6
+Hero HF Deluxe 100cc,31000.0,Ghaziabad,17405.0,0,6.0,100.0,5
+Bajaj Pulsar 220cc,35000.0,Mumbai,30000.0,0,11.0,220.0,1
+Suzuki Gixxer 150cc,52200.0,Ghaziabad,4500.0,0,4.0,150.0,18
+KTM RC 200cc,89000.0,Mumbai,29301.0,0,7.0,200.0,11
+KTM Duke 390cc,190000.0,Kanpur Nagar,4159.0,2,4.0,390.0,11
+TVS Apache RTR 200 4V Carburetor,75000.0,Thane,13500.0,0,4.0,200.0,19
+Suzuki Gixxer SF 150cc SP Rear Disc,52000.0,Delhi,40272.0,0,4.0,150.0,18
+Hero CBZ Xtreme 150cc,36000.0,Chennai,26700.0,0,10.0,150.0,5
+Royal Enfield Thunderbird 350cc,63499.0,Gurgaon,18000.0,0,11.0,350.0,17
+Bajaj Pulsar RS200 ABS,75000.0,Mumbai,16000.0,0,6.0,200.0,1
+Hero Splendor Plus Kick Alloy 100cc,35000.0,Delhi,11211.0,0,4.0,100.0,5
+Honda CB Hornet 160R CBS,65000.0,Krishna,27000.0,0,3.0,160.0,6
+Royal Enfield Classic 350cc,108000.0,Delhi,20000.0,0,5.0,350.0,17
+Hero Super Splendor 125cc,15000.0,Jaipur,52391.0,0,15.0,125.0,5
+Bajaj CT 100 100cc,11500.0,Tiruvallur,28000.0,0,15.0,100.0,1
+Hero Glamour 125cc,48000.0,Noida,15000.0,0,3.0,125.0,5
+Bajaj Pulsar NS160,69500.0,Indore,15000.0,0,3.0,160.0,1
+Bajaj Pulsar 220cc,80000.0,Pune,5000.0,0,4.0,220.0,1
+Hero Splendor Plus 100cc,45000.0,Delhi,18000.0,0,3.0,100.0,5
+Hero HF Deluxe 100cc,33000.0,Faridabad,19365.0,0,4.0,100.0,5
+Yamaha FZs 150cc,22000.0,Delhi,32000.0,0,13.0,150.0,21
+Yamaha FZs 150cc,22000.0,Delhi,30378.0,0,9.0,150.0,21
+Bajaj Pulsar NS200,90000.0,Bangalore,8200.0,0,4.0,200.0,1
+Honda CB Unicorn 160,45900.0,Mumbai,40000.0,0,6.0,160.0,6
+Suzuki Gixxer SF 150cc,65000.0,Mumbai,7420.0,0,6.0,150.0,18
+Royal Enfield Classic 350cc,85000.0,Ghaziabad,17580.0,0,8.0,350.0,17
+Honda CB Trigger 150cc,25000.0,Delhi,98971.0,0,8.0,150.0,6
+Bajaj Avenger Street 150,68000.0,Thane,12642.0,0,3.0,150.0,1
+Bajaj Discover 125ST,33000.0,Kolkata,50000.0,0,9.0,125.0,1
+Yamaha FZs 150cc,80000.0,Jaipur,12000.0,0,3.0,150.0,21
+Honda CB Shine 125cc,26000.0,Ghaziabad,15768.0,0,6.0,125.0,6
+Royal Enfield Himalayan 410cc Fi ABS,173300.0,Vadodara,14000.0,0,2.0,410.0,17
+KTM Duke 390cc,197200.0,Suri,24000.0,0,4.0,390.0,11
+KTM RC 200cc,126000.0,Howrah,9000.0,0,4.0,200.0,11
+Bajaj Pulsar 220cc,49500.0,Delhi,15000.0,2,5.0,220.0,1
+Bajaj Pulsar 150cc,74000.0,Delhi,856.0,0,4.0,150.0,1
+Bajaj Dominar 400 ABS,150000.0,Mumbai,11535.0,0,3.0,400.0,1
+Royal Enfield Classic 350cc Dual Disc,130000.0,Faridabad,3734.0,0,3.0,350.0,17
+Suzuki Gixxer 150cc SP ABS,89000.0,Faridabad,19627.0,0,2.0,150.0,18
+Bajaj V15 150cc,44000.0,Rajkot,15000.0,0,4.0,150.0,1
+Bajaj Avenger Street 150,42000.0,Vadodara,30000.0,0,5.0,150.0,1
+Hero CBZ Xtreme 150cc,42000.0,Jorhat,32300.0,0,7.0,150.0,5
+Yamaha FZs 150cc,45000.0,Bangalore,26200.0,2,8.0,150.0,21
+Yamaha FZ S V 2.0 150cc-Ltd. Edition,70000.0,Delhi,9355.0,0,4.0,150.0,21
+Bajaj Discover 150cc,15000.0,Mumbai,34997.0,0,11.0,150.0,1
+Hero Passion Pro 100cc,25000.0,Gurgaon,27116.0,0,11.0,100.0,5
+Yamaha YZF-R15 2.0 150cc,56000.0,Bangalore,34721.0,0,9.0,150.0,21
+TVS Apache RTR 160cc,23000.0,Vellore,32500.0,2,11.0,160.0,19
+Bajaj Pulsar RS200,107000.0,Delhi,9100.0,0,5.0,200.0,1
+Honda CB Unicorn 160,52000.0,Kolkata,70000.0,0,6.0,160.0,6
+Bajaj Discover 125cc,24000.0,Ghaziabad,18085.0,0,7.0,125.0,1
+Bajaj Pulsar NS200 ABS,90000.0,Bangalore,11574.0,0,3.0,200.0,1
+Bajaj Avenger Street 220,65000.0,Bangalore,26592.0,0,4.0,220.0,1
+Bajaj Avenger Street 150,55000.0,Pune,28000.0,0,5.0,150.0,1
+KTM Duke 390cc,180000.0,Mumbai,27874.0,0,4.0,390.0,11
+KTM RC 200cc,150000.0,Dharwar,9800.0,0,5.0,200.0,11
+Yamaha Fazer 150cc,39000.0,Gurgaon,13000.0,0,7.0,150.0,21
+Bajaj Avenger Street 180,70000.0,Delhi,7000.0,0,3.0,180.0,1
+Triumph Speed Triple 1050cc,750000.0,Koppal,9500.0,0,4.0,1050.0,20
+Hero Passion Plus 100cc,18000.0,Chennai,38000.0,0,11.0,100.0,5
+Hero Passion Xpro 110cc,25000.0,Mumbai,46000.0,0,9.0,110.0,5
+Suzuki Gixxer SF 150cc,40000.0,Delhi,45426.0,0,6.0,150.0,18
+Hero Splendor Plus 100cc,42000.0,Faridabad,11624.0,0,3.0,100.0,5
+Honda CB Unicorn 150cc,48000.0,Mumbai,26900.0,0,7.0,150.0,6
+Royal Enfield Thunderbird 350cc,75500.0,Ghaziabad,25212.0,0,6.0,350.0,17
+Suzuki Gixxer 150cc,55000.0,Mumbai,23000.0,0,6.0,150.0,18
+Yamaha YZF-R3 320cc,200000.0,Bhubaneshwar,10600.0,0,5.0,320.0,21
+Bajaj Pulsar 220F,27000.0,Gurgaon,23000.0,0,9.0,220.0,1
+Bajaj Pulsar 135LS,15000.0,Aquem,26000.0,0,11.0,135.0,1
+Kawasaki Z800,528000.0,Mumbai,8821.0,0,5.0,800.0,12
+Honda CB Unicorn Dazzler 150cc,16800.0,Gurgaon,134200.0,0,10.0,150.0,6
+Honda CB Shine 125cc,33500.0,Pune,26000.0,2,12.0,125.0,6
+Royal Enfield Classic 350cc,110000.0,Faridabad,11776.0,0,4.0,350.0,17
+Bajaj Pulsar 150cc,48000.0,Dehradun,27000.0,0,5.0,150.0,1
+TVS Apache RTR 160 4V Carburetor With Rear Disc,85000.0,Mumbai,6821.0,0,2.0,160.0,19
+Honda CBF Stunner 125cc,22000.0,Ludhiana,16000.0,0,9.0,125.0,6
+Bajaj Pulsar 200 NS 200cc,45000.0,Jodhpur,33247.0,0,7.0,200.0,1
+Hero Karizma ZMR 223cc,45000.0,Bangalore,34000.0,2,7.0,223.0,5
+Bajaj Pulsar RS200 ABS,120000.0,Bangalore,9236.0,0,4.0,200.0,1
+Bajaj Avenger Street 220,93000.0,Hyderabad,500.0,0,4.0,220.0,1
+Royal Enfield Classic Chrome 500cc,171000.0,Bhiwani,3700.0,0,4.0,500.0,17
+Bajaj Discover 125cc,22000.0,Jaipur,28686.0,0,9.0,125.0,1
+KTM RC 390cc,130000.0,Bangalore,20000.0,0,7.0,390.0,11
+TVS Star City 110cc,20000.0,Chennai,3712.0,0,9.0,110.0,19
+Honda CB Shine 125cc,36000.0,Jaipur,21172.0,0,8.0,125.0,6
+Kawasaki Ninja 650cc,550000.0,Bangalore,8000.0,0,3.0,650.0,12
+Kawasaki Ninja 400,300000.0,Surat,190.0,0,2.0,400.0,12
+KTM RC 125CC,152000.0,Delhi,40.0,0,2.0,125.0,11
+Bajaj Pulsar NS200,40000.0,Gurgaon,30711.0,2,9.0,200.0,1
+TVS Apache RTR 200 4V FI,80000.0,Delhi,11982.0,0,4.0,200.0,19
+Royal Enfield Classic 500cc Dual Disc,175000.0,Mumbai,16786.0,0,3.0,500.0,17
+Royal Enfield Classic Squadron Blue 500cc,130000.0,Delhi,22705.0,0,5.0,500.0,17
+TVS Apache RTR 160 4V DISC ABS BS6,98000.0,Jaipur,749.0,0,1.0,160.0,19
+Bajaj Pulsar 150cc,35000.0,Ahmedabad,40588.0,0,7.0,150.0,1
+Yamaha YZF-R15 S 150cc,76000.0,Delhi,11424.0,0,5.0,150.0,21
+Bajaj Avenger Street 220,62000.0,Bangalore,8500.0,0,5.0,220.0,1
+KTM RC 390cc,160000.0,Ghaziabad,23000.0,0,5.0,390.0,11
+Honda CBR 150R 150cc,80000.0,Chennai,28764.0,0,6.0,150.0,6
+Honda CB Hornet 160R STD,75000.0,Ahmedabad,1307.0,0,3.0,160.0,6
+Yamaha FZ S V 2.0 150cc,55000.0,Suri,29500.0,0,6.0,150.0,21
+Hero Xtreme 200R,94000.0,Mumbai,6069.0,0,3.0,200.0,5
+Bajaj Pulsar 150cc,26000.0,Lucknow,70000.0,0,11.0,150.0,1
+Bajaj V15 150cc,31000.0,Faridabad,12315.0,0,5.0,150.0,1
+Bajaj V15 150cc,40000.0,Mumbai,17038.0,0,5.0,150.0,1
+Hero Passion Pro i3S Alloy 100cc,36500.0,Delhi,17400.0,0,3.0,100.0,5
+Hero Passion Pro 100cc,23000.0,Jaisalmer,30000.0,2,10.0,100.0,5
+Hero Passion Plus 100cc,15000.0,Ahmedabad,78000.0,0,13.0,100.0,5
+Bajaj Pulsar RS200 ABS,95000.0,Vadodara,11400.0,0,6.0,200.0,1
+Bajaj Pulsar 135LS,32000.0,Bangalore,34378.0,0,7.0,135.0,1
+Bajaj Pulsar 135LS,24500.0,Ludhiana,58699.0,0,8.0,135.0,1
+Royal Enfield Classic 350cc,105000.0,Delhi,16000.0,0,4.0,350.0,17
+Bajaj Platina 100cc,19500.0,Gurgaon,48101.0,0,6.0,100.0,1
+Royal Enfield Thunderbird 350cc,80000.0,Delhi,17000.0,2,8.0,350.0,17
+Bajaj Pulsar 220cc,80000.0,Bangalore,17000.0,0,6.0,220.0,1
+Royal Enfield Standard 500cc,95000.0,Delhi,29000.0,0,7.0,500.0,17
+Yamaha FZ 150cc,29900.0,Delhi,41048.0,0,10.0,150.0,21
+TVS Apache RTR 200 4V FI,102000.0,Thane,8120.0,0,2.0,200.0,19
+Bajaj Pulsar 135LS,16000.0,Gurgaon,42107.0,2,10.0,135.0,1
+Yamaha FZs 150cc,58000.0,Pune,14560.0,0,7.0,150.0,21
+Royal Enfield Classic Desert Storm 500cc,88000.0,Delhi,19000.0,2,7.0,500.0,17
+Bajaj Avenger Cruise 220,66000.0,Bangalore,20919.0,0,6.0,220.0,1
+KTM Duke 390cc,120000.0,Mumbai,11735.0,0,5.0,390.0,11
+Bajaj V15 150cc,50000.0,Karnal,16833.0,0,5.0,150.0,1
+Hero Super Splendor 125cc,19000.0,Ghaziabad,78822.0,0,8.0,125.0,5
+Royal Enfield Classic Gunmetal Grey 350cc,143500.0,Delhi,5700.0,0,3.0,350.0,17
+TVS Apache RTR 200 4V ABS Race Edition,110000.0,Hyderabad,6800.0,0,3.0,200.0,19
+Hero Passion Pro 100cc,24000.0,Chennai,16138.0,0,7.0,100.0,5
+Bajaj Avenger 220cc,35000.0,Delhi,32994.0,0,10.0,220.0,1
+Hero Passion Pro 100cc,35000.0,Lucknow,17079.0,0,8.0,100.0,5
+Honda CBR 250R,120000.0,Chennai,44000.0,0,5.0,250.0,6
+Bajaj Discover 100cc,19000.0,Bangalore,26527.0,0,16.0,100.0,1
+TVS Apache RTR 180cc ABS,59900.0,Jaipur,32000.0,0,5.0,180.0,19
+KTM Duke 390cc,200000.0,Jaipur,11700.0,0,4.0,390.0,11
+Bajaj Pulsar 150cc,12000.0,Ahmedabad,43596.0,0,11.0,150.0,1
+Royal Enfield Bullet Twinspark 500cc,82000.0,Mumbai,146642.0,0,7.0,500.0,17
+Honda CBF Stunner 125cc,17000.0,Mohali,27000.0,2,10.0,125.0,6
+Bajaj Pulsar 150cc,50000.0,Faridabad,18516.0,0,3.0,150.0,1
+Indian Scout Bobber 1130cc,700000.0,Coimbatore,173.0,0,3.0,1130.0,9
+Yamaha Gladiator 125cc,19000.0,Pune,48568.0,0,14.0,125.0,21
+Royal Enfield Thunderbird 350cc,150000.0,Lucknow,11306.0,0,3.0,350.0,17
+TVS Apache RTR 160cc,41000.0,Delhi,9833.0,0,5.0,160.0,19
+Bajaj Discover 135cc,18500.0,Ghaziabad,23580.0,0,12.0,135.0,1
+Hero Passion Pro 100cc,35000.0,Pinjore,9500.0,0,6.0,100.0,5
+Royal Enfield Classic Gunmetal Grey 350cc,140000.0,Bangalore,1121.0,0,3.0,350.0,17
+Royal Enfield Standard 350cc,89720.0,Chandigarh,33885.0,0,8.0,350.0,17
+Honda CB Shine 125cc,35000.0,Faridabad,1909.0,0,4.0,125.0,6
+KTM RC 390cc,200000.0,Dehradun,5000.0,0,3.0,390.0,11
+KTM RC 200cc,128000.0,Jaipur,15000.0,0,4.0,200.0,11
+Honda Dream Yuga 110cc,42000.0,Jaipur,15833.0,0,3.0,110.0,6
+Royal Enfield Machismo 350cc,75000.0,Mumbai,17000.0,2,13.0,350.0,17
+KTM RC 200cc,130000.0,Hyderabad,17800.0,0,5.0,200.0,11
+Hero Passion Pro 100cc,21400.0,Mumbai,35000.0,0,11.0,100.0,5
+Bajaj Dominar 400 ABS,145000.0,Bangalore,3000.0,0,3.0,400.0,1
+Royal Enfield Bullet Electra Twinspark 350cc,95783.0,Mumbai,12975.0,0,6.0,350.0,17
+Suzuki Gixxer SF 150cc,78000.0,Bangalore,31000.0,0,5.0,150.0,18
+Honda CB Shine 125cc,40500.0,Gurgaon,10489.0,0,5.0,125.0,6
+Yamaha SZR 150cc,19000.0,Ahmedabad,42000.0,2,10.0,150.0,21
+Bajaj Pulsar RS200,86300.0,Gurgaon,18500.0,0,5.0,200.0,1
+Suzuki Intruder 150cc,93300.0,Bangalore,1500.0,0,3.0,150.0,18
+Bajaj Pulsar RS200 ABS,145400.0,Pune,1980.0,0,2.0,200.0,1
+Hyosung Aquila GV250,190000.0,Delhi,10500.0,0,6.0,250.0,7
+KTM Duke 200cc,125000.0,Mumbai,13000.0,0,5.0,200.0,11
+Benelli TNT 300,225000.0,Kolhapur,17300.0,0,6.0,300.0,2
+Hero CBZ Xtreme 150 cc,20000.0,Delhi,18000.0,0,9.0,150.0,5
+Royal Enfield Himalayan 410cc,120000.0,Jaipur,14290.0,0,5.0,410.0,17
+Bajaj Discover 135cc,23000.0,Jodhpur,36301.0,0,13.0,135.0,1
+TVS Apache RTR 180cc,45000.0,Bangalore,26500.0,2,7.0,180.0,19
+Royal Enfield Thunderbird X 350cc,145000.0,Bangalore,9190.0,0,3.0,350.0,17
+Bajaj Pulsar 150cc,22000.0,Bangalore,91649.0,0,14.0,150.0,1
+Honda CB Unicorn 160 CBS,29515.0,Delhi,27281.0,0,5.0,160.0,6
+KTM RC 390cc,170000.0,Nashik,7000.0,0,3.0,390.0,11
+Bajaj Avenger Street 220,65000.0,Goa-panaji,7706.0,0,5.0,220.0,1
+Bajaj Pulsar RS200  ABS-200cc,108000.0,Bodhan,13400.0,0,6.0,200.0,1
+KTM Duke 390cc,248000.0,Pune,5300.0,0,4.0,390.0,11
+Bajaj Avenger Cruise 220,88000.0,Bangalore,610.0,0,4.0,220.0,1
+Hero Passion Xpro 110cc,24000.0,Ahmedabad,35838.0,0,6.0,110.0,5
+BMW G 310 GS,330000.0,Gurgaon,4241.0,0,3.0,310.0,0
+Kawasaki Ninja 650cc,290000.0,Dharwad,11350.0,0,7.0,650.0,12
+Bajaj Discover 100cc,25000.0,Faridabad,80517.0,0,9.0,100.0,1
+Hero Splendor Pro 100cc,24000.0,Delhi,36244.0,0,7.0,100.0,5
+Hero Glamour 125cc,13000.0,Ahmedabad,45466.0,2,14.0,125.0,5
+Royal Enfield Thunderbird 500cc,140000.0,Noida,12643.0,0,5.0,500.0,17
+Honda CB Trigger 150cc,30000.0,Bangalore,28524.0,3,8.0,150.0,6
+Kawasaki Ninja 650cc,289000.0,Delhi,18000.0,2,7.0,650.0,12
+Hero CBZ Xtreme 150cc,20457.0,Kolkata,43000.0,2,8.0,150.0,5
+Honda CBR 150R 150cc,78000.0,Thane,9700.0,0,7.0,150.0,6
+Bajaj Pulsar RS200,110000.0,Jaipur,25232.0,0,5.0,200.0,1
+Yamaha SZR 150cc,22500.0,Mumbai,80000.0,0,7.0,150.0,21
+Bajaj CT 100 100cc,27000.0,Gurgaon,31969.0,0,4.0,100.0,1
+Honda CB Twister 110cc,25000.0,Delhi,15098.0,2,9.0,110.0,6
+Hero Karizma ZMR 223cc,29500.0,Pune,45000.0,2,10.0,223.0,5
+KTM Duke 390cc,145000.0,Delhi,8600.0,0,6.0,390.0,11
+Hero Passion Pro 100cc,25500.0,Jaipur,19000.0,0,10.0,100.0,5
+Royal Enfield Classic 350cc,140000.0,Ghaziabad,17931.0,0,3.0,350.0,17
+Bajaj V15 150cc,36700.0,Gurgaon,37861.0,0,4.0,150.0,1
+Honda CBR 250R,75000.0,Delhi,41007.0,0,8.0,250.0,6
+Hero HF Deluxe 100cc,26000.0,Faridabad,30000.0,0,6.0,100.0,5
+Bajaj Discover 100cc,15000.0,Bhopal,11065.0,2,12.0,100.0,1
+TVS Apache RTR 160cc,45000.0,Bangalore,24950.0,0,9.0,160.0,19
+Yamaha YZF-R3 320cc,220000.0,Delhi,7130.0,0,5.0,320.0,21
+Hero Splendor Pro 100cc,22000.0,Faridabad,19224.0,0,7.0,100.0,5
+KTM Duke 200cc,90000.0,Belgaum,31000.0,0,6.0,200.0,11
+Bajaj Discover 150cc,24000.0,Mumbai,39000.0,0,10.0,150.0,1
+Bajaj Pulsar NS 200cc,29000.0,Mumbai,48500.0,0,10.0,200.0,1
+Hero Passion Pro 100cc,14000.0,Ghaziabad,40000.0,2,12.0,100.0,5
+Bajaj Platina 125cc,22000.0,Chennai,40328.0,0,8.0,125.0,1
+Royal Enfield Thunderbird 500cc,110000.0,Vadodara,14000.0,0,8.0,500.0,17
+KTM Duke 390cc,135000.0,Pune,8823.0,0,5.0,390.0,11
+Royal Enfield Classic 350cc,140000.0,Ghaziabad,7000.0,0,4.0,350.0,17
+Yamaha YZF-R15 2.0 150cc,85000.0,Pune,32000.0,0,7.0,150.0,21
+Honda CB Unicorn 150cc,40000.0,Mumbai,24504.0,0,7.0,150.0,6
+Honda CB Hornet 160R CBS,55000.0,Kolkata,89000.0,0,5.0,160.0,6
+Bajaj Pulsar RS200 ABS,130000.0,Udaipur,5500.0,0,4.0,200.0,1
+Hero Splendor 100cc,21000.0,Gandhinagar,70600.0,0,25.0,100.0,5
+Bajaj Avenger Street 150,50000.0,Chandigarh,18000.0,0,5.0,150.0,1
+Suzuki Gixxer SF 150cc,56000.0,Sonepat,6876.0,0,6.0,150.0,18
+KTM Duke 390cc,75000.0,Delhi,25754.0,0,7.0,390.0,11
+Honda CB Trigger 150cc,45600.0,Patna,23128.0,0,7.0,150.0,6
+Bajaj Pulsar 180cc,17000.0,Durg,70000.0,0,11.0,180.0,1
+Bajaj Pulsar 150cc,16500.0,Delhi,41012.0,0,10.0,150.0,1
+TVS Apache RTR 160cc,35000.0,Kanpur,43000.0,0,9.0,160.0,19
+Bajaj Dominar 400 ABS,137000.0,Delhi,3297.0,0,4.0,400.0,1
+Royal Enfield Thunderbird 350cc,105000.0,Nagaon,15000.0,0,3.0,350.0,17
+Honda CBR 250R ABS,78400.0,Hyderabad,23180.0,2,8.0,250.0,6
+Royal Enfield Classic 350cc,81100.0,Faridabad,21000.0,0,7.0,350.0,17
+KTM Duke 200cc,61000.0,Delhi,16000.0,3,9.0,200.0,11
+Hero Karizma R 223cc,27000.0,Bangalore,101250.0,3,14.0,223.0,5
+Honda CB Shine 125cc,48000.0,Mumbai,22500.0,0,4.0,125.0,6
+Bajaj Avenger Street 150,49000.0,Kharar,13281.0,0,5.0,150.0,1
+Bajaj V15 150cc,43000.0,Ludhiana,6336.0,0,4.0,150.0,1
+KTM Duke 200cc,75000.0,Kolkata,29000.0,0,8.0,200.0,11
+Bajaj Discover 100cc,22000.0,Jaipur,21448.0,0,8.0,100.0,1
+Honda CB Shine 125cc,29000.0,Mumbai,57687.0,2,9.0,125.0,6
+Bajaj Pulsar 150cc,65000.0,Pune,26000.0,0,7.0,150.0,1
+Bajaj V15 150cc,51000.0,Faridabad,9000.0,0,4.0,150.0,1
+Hero Passion Pro 100cc,32000.0,Delhi,31385.0,0,5.0,100.0,5
+Honda CBF Stunner 125cc,18000.0,Delhi,24657.0,0,12.0,125.0,6
+Hero CBZ 150cc,21000.0,Jaipur,50000.0,0,10.0,150.0,5
+Royal Enfield Thunderbird 350cc,130000.0,Dharwar,8000.0,0,4.0,350.0,17
+Royal Enfield Thunderbird 350cc,45000.0,Bangalore,93108.0,3,18.0,350.0,17
+Suzuki Gixxer SF 150cc Special MOTOGP Edition,80000.0,Namakkal,14000.0,0,4.0,150.0,18
+Royal Enfield Classic 350cc-Redditch Edition,130000.0,Pune,5300.0,0,3.0,350.0,17
+Yamaha YZF-R15 2.0 150cc,83000.0,Chennai,14208.0,0,4.0,150.0,21
+Bajaj Pulsar AS150,60000.0,Gurgaon,31769.0,0,5.0,150.0,1
+Yamaha YZF-R15 150cc,88000.0,Ludhiana,24263.0,0,5.0,150.0,21
+KTM RC 125CC,178000.0,Bhopal,100.0,0,1.0,125.0,11
+Bajaj Pulsar NS200,46000.0,Mumbai,24374.0,0,6.0,200.0,1
+TVS Sport 100cc,22500.0,Ghaziabad,24461.0,0,7.0,100.0,19
+Royal Enfield Classic 350cc,132000.0,Pune,9648.0,0,4.0,350.0,17
+Honda CB 1000R,800000.0,Varanasi,300.0,0,6.0,1000.0,6
+Hero Splendor Pro 100cc,32000.0,Bangalore,41905.0,0,7.0,100.0,5
+TVS Apache RTR 160 4V Carburetor,65000.0,Faridabad,7421.0,0,3.0,160.0,19
+KTM Duke 390cc,165147.0,Pune,12000.0,0,4.0,390.0,11
+Honda CD 110 Dream,23000.0,Faridabad,15660.0,0,6.0,110.0,6
+KTM RC 200cc ABS,190000.0,Mumbai,2500.0,0,2.0,200.0,11
+Mahindra Centuro 110cc,17800.0,Faridabad,21587.0,0,7.0,110.0,15
+Royal Enfield Classic 350cc,107000.0,Delhi,15000.0,0,7.0,350.0,17
+Bajaj Pulsar 150cc,32000.0,Delhi,23553.0,2,6.0,150.0,1
+TVS Apache RTR 200 4V Carburetor Race Edition 2.0,75000.0,Gurgaon,20000.0,0,3.0,200.0,19
+Royal Enfield Classic 350cc,120000.0,Vadodara,14164.0,0,6.0,350.0,17
+Bajaj Pulsar 150cc,21000.0,Gurgaon,23059.0,0,10.0,150.0,1
+Hero HF Deluxe Eco 100cc,38000.0,Faridabad,5511.0,0,3.0,100.0,5
+Hero Super Splendor 125cc,25000.0,Delhi,24000.0,0,8.0,125.0,5
+Honda CB Unicorn 150cc,20500.0,Delhi,48000.0,0,13.0,150.0,6
+Bajaj Pulsar AS200,35000.0,Delhi,55250.0,0,6.0,200.0,1
+Bajaj Pulsar 220cc,50000.0,Surat,13098.0,0,6.0,220.0,1
+Hero Splendor Pro 100cc,18000.0,Delhi,750000.0,0,10.0,100.0,5
+Hero Karizma ZMR 223cc,60000.0,Kolhapur,72000.0,0,8.0,223.0,5
+Bajaj Pulsar 150cc,55000.0,Bangalore,20000.0,0,7.0,150.0,1
+Royal Enfield Classic Desert Storm 500cc,110439.0,Chennai,3000.0,0,9.0,500.0,17
+Hero Super Splendor 125cc,25000.0,Gurgaon,68717.0,0,9.0,125.0,5
+Bajaj Pulsar NS200,42000.0,Varanasi,33000.0,2,8.0,200.0,1
+Harley-Davidson Iron 883,900000.0,Bangalore,13782.0,0,4.0,883.0,4
+Yamaha YZF-R15 2.0 150cc,90000.0,Ranchi,17000.0,0,4.0,150.0,21
+Yamaha FZ16 150cc,40000.0,Bangalore,26500.0,0,9.0,150.0,21
+Hero HF Deluxe 100cc,33100.0,Jhansi,19000.0,0,5.0,100.0,5
+Royal Enfield Himalayan 410cc,135000.0,Mumbai,22444.0,0,4.0,410.0,17
+Honda CD 110 Dream,23000.0,Gurgaon,14489.0,0,4.0,110.0,6
+Honda CBR 150R 150cc,33000.0,Chennai,34588.0,0,8.0,150.0,6
+Bajaj Pulsar 150cc,32500.0,Ahmedabad,56482.0,0,8.0,150.0,1
+Bajaj Pulsar 150cc,60000.0,Bangalore,9000.0,0,6.0,150.0,1
+Royal Enfield Classic 350cc,111600.0,Bangalore,22000.0,0,7.0,350.0,17
+Bajaj Avenger Cruise 220,75000.0,Delhi,24400.0,0,5.0,220.0,1
+Royal Enfield Classic 350cc,90000.0,Delhi,5148.0,2,5.0,350.0,17
+KTM Duke 250cc,150000.0,Jaipur,12500.0,0,4.0,250.0,11
+Harley-Davidson Street 750,430000.0,Delhi,600.0,0,5.0,750.0,4
+Bajaj Avenger 220cc,45000.0,Bangalore,17160.0,2,6.0,220.0,1
+Kawasaki Ninja 300 ABS,266600.0,Patna,2467.0,0,2.0,300.0,12
+TVS Star City Plus 110cc,31500.0,Chaksu,28725.0,0,4.0,110.0,19
+Royal Enfield Bullet Twinspark 500cc,70440.0,Delhi,41036.0,0,6.0,500.0,17
+Bajaj Avenger Street 150,47000.0,Delhi,23980.0,0,5.0,150.0,1
+Honda CB Unicorn 150cc,35000.0,Chennai,37000.0,0,9.0,150.0,6
+Bajaj Pulsar 220F,92000.0,Hyderabad,7000.0,0,4.0,220.0,1
+Hero Splendor Plus 100cc,38000.0,Pune,17376.0,2,5.0,100.0,5
+Royal Enfield Thunderbird 350cc,120000.0,Bangalore,18300.0,0,7.0,350.0,17
+Royal Enfield Thunderbird 350cc,100000.0,Delhi,46000.0,0,7.0,350.0,17
+Honda CB Shine 125cc,42000.0,Ghaziabad,16974.0,0,4.0,125.0,6
+KTM RC 200cc,170200.0,Lucknow,7123.0,0,3.0,200.0,11
+Hero Passion 100cc,12500.0,Ahmedabad,70403.0,3,15.0,100.0,5
+TVS Apache 150cc,10200.0,Delhi,71474.0,0,12.0,150.0,19
+Royal Enfield Thunderbird 350cc,88000.0,Delhi,19000.0,0,5.0,350.0,17
+Bajaj Avenger Cruise 220 ABS,99000.0,Delhi,1958.0,0,2.0,220.0,1
+Bajaj Platina 100cc,32000.0,Faridabad,15989.0,0,4.0,100.0,1
+Royal Enfield Classic 350cc,108000.0,Delhi,7299.0,0,5.0,350.0,17
+Yamaha FZs 150cc,50000.0,Hyderabad,29800.0,0,7.0,150.0,21
+KTM Duke 390cc,140000.0,Raigarh(mh),11100.0,0,6.0,390.0,11
+Suzuki Gixxer 150cc,41000.0,Delhi,15478.0,0,6.0,150.0,18
+Bajaj Pulsar 150cc,14227.0,Bhopal,36000.0,0,15.0,150.0,1
+Bajaj Pulsar 135LS,30000.0,Delhi,32000.0,0,7.0,135.0,1
+Yamaha YZF-R15 150cc,62000.0,Bangalore,14490.0,0,8.0,150.0,21
+MV Agusta F3 800cc,950000.0,Delhi,6898.0,0,6.0,800.0,14
+Suzuki Intruder 150cc,92000.0,Delhi,4700.0,0,4.0,150.0,18
+Royal Enfield Bullet Electra 350cc,75000.0,Thane,24203.0,0,7.0,350.0,17
+Bajaj CT 100 100cc,20000.0,Chhatarpur,30806.0,0,5.0,100.0,1
+Mahindra Centuro 110cc,17800.0,Malout,10000.0,0,8.0,110.0,15
+Bajaj Discover 125ST,20000.0,Faridabad,55000.0,0,9.0,125.0,1
+Bajaj Avenger Street 150,64000.0,Pune,20816.0,2,5.0,150.0,1
+Hero Splendor Plus 100cc,19600.0,Gwalior,42000.0,2,11.0,100.0,5
+Bajaj Avenger 220cc,60000.0,Sangareddy,34000.0,0,7.0,220.0,1
+Royal Enfield Classic 500cc,98000.0,Noida,19398.0,0,7.0,500.0,17
+Royal Enfield Classic 350cc-Redditch Edition Dual Disc,154900.0,Bangalore,7050.0,0,3.0,350.0,17
+KTM RC 390cc,188600.0,Pune,10838.0,0,4.0,390.0,11
+Hero Glamour 125cc,28000.0,Ghaziabad,32041.0,0,5.0,125.0,5
+Yamaha FZ S V 2.0 150cc,45000.0,Delhi,15886.0,0,7.0,150.0,21
+Honda CB Shine 125cc,22000.0,Tiruvallur,30000.0,0,9.0,125.0,6
+Bajaj Discover 100cc,20000.0,Chennai,16036.0,0,7.0,100.0,1
+Royal Enfield Classic 500cc,181200.0,Baripara,5000.0,0,2.0,500.0,17
+Bajaj Avenger Street 150,65000.0,Khandwa,30000.0,0,4.0,150.0,1
+Bajaj Pulsar 150cc,15000.0,Delhi,23000.0,0,17.0,150.0,1
+Royal Enfield Classic 350cc,120000.0,Bangalore,16400.0,0,7.0,350.0,17
+Yamaha YZF-R15 2.0 150cc,100000.0,Hyderabad,4800.0,0,4.0,150.0,21
+KTM RC 200cc ABS,170000.0,Jind,4600.0,0,2.0,200.0,11
+Royal Enfield Bullet Electra 350cc,96000.0,Delhi,24000.0,0,5.0,350.0,17
+Bajaj Pulsar 150cc,58000.0,Hyderabad,42000.0,2,4.0,150.0,1
+Mahindra Mojo 300cc,100000.0,Faridabad,21548.0,0,5.0,300.0,15
+Hero Splendor Plus 100cc,46500.0,Ahmedabad,12432.0,0,3.0,100.0,5
+TVS Apache RTR 180cc ABS,65000.0,Ghaziabad,15000.0,0,5.0,180.0,19
+Bajaj Pulsar 150cc,15344.0,Jamnagar,71943.0,3,12.0,150.0,1
+Bajaj Pulsar 150cc,44000.0,Ghaziabad,13138.0,0,4.0,150.0,1
+TVS Apache RTR 200 4V Carburetor,65000.0,Ahmedabad,28000.0,0,4.0,200.0,19
+Bajaj Avenger 220cc,25000.0,Pune,25388.0,0,11.0,220.0,1
+Honda CB Shine 125cc,54000.0,Surat,7658.0,0,4.0,125.0,6
+Hero Hunk 150cc,35000.0,Hospet,39000.0,0,12.0,150.0,5
+Bajaj Pulsar NS200,35000.0,Delhi,77600.0,0,9.0,200.0,1
+Bajaj Avenger Street 150,44400.0,Lucknow,21000.0,0,5.0,150.0,1
+Honda CB Hornet 160R CBS,67000.0,Bangalore,47493.0,0,4.0,160.0,6
+Bajaj CT 100 100cc,36400.0,Ludhiana,6000.0,0,3.0,100.0,1
+Hero Splendor Plus 100cc,51000.0,Faridabad,5120.0,0,3.0,100.0,5
+Bajaj Pulsar 150cc,14200.0,Delhi,55200.0,0,16.0,150.0,1
+Royal Enfield Thunderbird 350cc,90000.0,Bangalore,25000.0,0,6.0,350.0,17
+Royal Enfield Bullet 350cc,92000.0,Mumbai,12447.0,0,6.0,350.0,17
+Yamaha Gladiator 125cc,21000.0,Jaipur,55000.0,0,8.0,125.0,21
+Honda CB Trigger 150cc,36000.0,Delhi,30000.0,0,7.0,150.0,6
+Royal Enfield Classic 350cc,126000.0,Bangalore,23000.0,0,4.0,350.0,17
+KTM RC 390cc,185000.0,Delhi,1400.0,0,5.0,390.0,11
+TVS Apache RTR 160 4V Disc,68000.0,Delhi,32644.0,0,3.0,160.0,19
+Hero HF Deluxe i3s 100cc,41800.0,Jhansi,16000.0,0,4.0,100.0,5
+Hero Passion Pro 100cc,25000.0,Chennai,3762.0,0,10.0,100.0,5
+Honda CB ShineSP 125cc CBS Disc,65000.0,Bangalore,2750.0,0,2.0,125.0,6
+Hero Ignitor Disc 125cc,27000.0,Bangalore,55000.0,0,8.0,125.0,5
+Hero Passion Pro 100cc,52000.0,Delhi,3200.0,0,4.0,100.0,5
+Royal Enfield Electra 350cc,120000.0,Delhi,2172.0,0,3.0,350.0,17
+Honda CB Unicorn 160 STD,45000.0,Bangalore,23910.0,0,5.0,160.0,6
+Royal Enfield Classic Squadron Blue 500cc,135000.0,Delhi,22000.0,0,5.0,500.0,17
+KTM Duke 250cc,135000.0,Chennai,7840.0,0,3.0,250.0,11
+Royal Enfield Classic Chrome 500cc,95000.0,Mumbai,18000.0,0,8.0,500.0,17
+TVS Victor 110cc Disc,32000.0,Ghaziabad,33142.0,0,5.0,110.0,19
+Royal Enfield Thunderbird 350cc,75000.0,Mumbai,55000.0,0,6.0,350.0,17
+Honda CB Twister 110cc,17000.0,Ghaziabad,36849.0,0,10.0,110.0,6
+Hero Glamour Fi 125cc,37000.0,Delhi,28478.0,0,5.0,125.0,5
+Honda CBR 150R 150cc,70000.0,Indore,34000.0,0,7.0,150.0,6
+Hero Passion 100cc,25000.0,Mughalsarai,22113.0,0,18.0,100.0,5
+Hero Karizma ZMR 223cc,45000.0,Kanpur,18000.0,0,7.0,223.0,5
+KTM RC 390cc,210000.0,Ranchi,1900.0,0,2.0,390.0,11
+Bajaj Discover 135cc,18000.0,Delhi,53800.0,0,14.0,135.0,1
+Bajaj Pulsar 220cc,35000.0,Gurgaon,25651.0,0,10.0,220.0,1
+Hero Honda Splendor Plus 100cc,20000.0,Faridabad,19071.0,0,9.0,100.0,5
+Suzuki Gixxer SF 150cc,47000.0,Chennai,49000.0,0,5.0,150.0,18
+Hero Passion Pro 100cc,36000.0,Mumbai,36000.0,0,6.0,100.0,5
+Honda CB Twister 110cc,27400.0,Hyderabad,33000.0,0,10.0,110.0,6
+Royal Enfield Bullet Electra 350cc,63326.0,Delhi,17965.0,0,9.0,350.0,17
+Yamaha FZ V 2.0 150cc,50000.0,Thiruvallur,30000.0,0,4.0,150.0,21
+Honda Livo 110cc,42000.0,Ahmedabad,17000.0,0,5.0,110.0,6
+Royal Enfield Classic 350cc,123000.0,Delhi,8600.0,0,5.0,350.0,17
+Hero Passion Pro 100cc,19000.0,Gurgaon,47075.0,0,12.0,100.0,5
+Hero Passion Pro 100cc,33000.0,Gurgaon,22114.0,0,7.0,100.0,5
+Yamaha YZF-R15 150cc,55000.0,Gurgaon,67445.0,0,10.0,150.0,21
+Hero Karizma ZMR 223cc,40000.0,Mumbai,28530.0,0,7.0,223.0,5
+Mahindra Centuro 110cc,29000.0,Jaipur,18000.0,0,7.0,110.0,15
+Bajaj Pulsar 150cc,50000.0,Mumbai,6150.0,0,3.0,150.0,1
+Hero Passion Plus 100cc,20000.0,Chennai,2584.0,0,11.0,100.0,5
+Hero Honda Splendor Plus 100cc,29500.0,Noida,18000.0,0,10.0,100.0,5
+Royal Enfield Himalayan 410cc,120000.0,Bangalore,20000.0,0,5.0,410.0,17
+Royal Enfield Classic 350cc,100000.0,Noida,40000.0,0,6.0,350.0,17
+Royal Enfield Classic 350cc,96000.0,Chandigarh,40497.0,0,5.0,350.0,17
+Honda Dream Yuga 110cc,47600.0,Hyderabad,18000.0,0,4.0,110.0,6
+Royal Enfield Thunderbird 350cc,110000.0,Mumbai,33800.0,0,6.0,350.0,17
+Hero Super Splendor 125cc,38000.0,Delhi,21000.0,0,4.0,125.0,5
+Royal Enfield Electra 350cc,99000.0,Pune,23397.0,0,4.0,350.0,17
+Mahindra Centuro Rockstar 110cc,18999.0,Pune,38669.0,3,6.0,110.0,15
+TVS Apache RTR 180cc,34000.0,Sirsa,53817.0,0,9.0,180.0,19
+Hero Ignitor 125cc,23000.0,Mumbai,10009.0,0,7.0,125.0,5
+TVS Apache RTR 160cc,43000.0,Delhi,28454.0,2,4.0,160.0,19
+TVS Apache RTR 180cc ABS,67000.0,Coimbatore,21963.0,0,4.0,180.0,19
+Hero Honda Splendor 100cc,28000.0,Jaipur,21336.0,0,10.0,100.0,5
+Royal Enfield Bullet Electra Twinspark 350cc,100000.0,Delhi,11937.0,0,4.0,350.0,17
+TVS Apache RTR 200 4V Carburetor Race Edition 2.0,90000.0,Ahmedabad,52594.0,0,3.0,200.0,19
+Royal Enfield Classic 350cc,100000.0,Delhi,13190.0,0,4.0,350.0,17
+Royal Enfield Thunderbird 350cc,58000.0,Delhi,66650.0,2,9.0,350.0,17
+Royal Enfield Classic Gunmetal Grey 350cc,135000.0,Bangalore,14171.0,0,3.0,350.0,17
+Honda CB Unicorn 150cc,70000.0,Sirsi,26000.0,0,4.0,150.0,6
+Yamaha YZF-R15 2.0 150cc,65000.0,Bangalore,27909.0,0,7.0,150.0,21
+Royal Enfield Bullet Electra 350cc,70000.0,Karnal,48500.0,0,11.0,350.0,17
+Bajaj Pulsar 150cc,10000.0,Alibag,33520.0,0,16.0,150.0,1
+TVS Apache RTR 180cc,65000.0,Raipur,6202.0,0,5.0,180.0,19
+Yamaha YZF-R15 150cc,47000.0,Delhi,12643.0,2,9.0,150.0,21
+Bajaj  Pulsar 180cc,25000.0,Delhi,14524.0,0,10.0,180.0,1
+KTM RC 390cc,158000.0,Alibag,3834.0,0,4.0,390.0,11
+TVS Apache RTR 200 4V Race Edition 2.0,91000.0,Pune,8686.0,0,3.0,200.0,19
+Royal Enfield Thunderbird 500cc,97000.0,Gurgaon,12184.0,0,6.0,500.0,17
+Yamaha FZS FI 150cc,55000.0,Delhi,3600.0,0,5.0,150.0,21
+Royal Enfield Classic 350cc,100000.0,Pune,23378.0,0,5.0,350.0,17
+Bajaj Avenger 220cc,75000.0,Bangalore,8600.0,0,4.0,220.0,1
+Hero Glamour 125cc,19000.0,Delhi,48000.0,0,12.0,125.0,5
+Hero Passion Pro 100cc,36000.0,Delhi,17225.0,0,4.0,100.0,5
+Royal Enfield Thunderbird 350cc,60000.0,Bangalore,72400.0,0,10.0,350.0,17
+Hero Splendor 100cc,21000.0,Pune,24000.0,2,19.0,100.0,5
+Bajaj Platina 125cc,27000.0,Vadodara,44410.0,0,10.0,125.0,1
+Royal Enfield Classic 350cc,115000.0,Gurgaon,26000.0,0,6.0,350.0,17
+Bajaj Discover 125cc,40000.0,Chandigarh,5995.0,0,5.0,125.0,1
+Honda CBR 150R 150cc,55000.0,Rohtak,30000.0,0,9.0,150.0,6
+Honda CBR 250R,75000.0,Ahmedabad,20500.0,0,7.0,250.0,6
+Royal Enfield Thunderbird 500cc,110000.0,Bangalore,29369.0,0,5.0,500.0,17
+KTM Duke 390cc,212000.0,Pune,7500.0,0,4.0,390.0,11
+Bajaj Pulsar RS200,85000.0,Chandigarh,6500.0,0,5.0,200.0,1
+KTM RC 390cc,145000.0,Kolkata,13000.0,0,4.0,390.0,11
+Royal Enfield Thunderbird 350cc,64000.0,Mumbai,31571.0,2,10.0,350.0,17
+Bajaj Dominar 400 ABS,96750.0,Tiruverkadu,3084.0,0,3.0,400.0,1
+Bajaj Pulsar 150cc,16600.0,Ahmedabad,8321.0,0,12.0,150.0,1
+Bajaj V15 150cc,50000.0,Delhi,15000.0,0,5.0,150.0,1
+TVS Apache RTR 160 4V Disc,69900.0,Delhi,8700.0,0,3.0,160.0,19
+Royal Enfield Classic 350cc,142000.0,Hyderabad,16690.0,0,3.0,350.0,17
+Yamaha YZF-R15 2.0 150cc,75000.0,Delhi,39000.0,0,5.0,150.0,21
+Bajaj Discover 150cc,23000.0,Ghaziabad,7193.0,0,6.0,150.0,1
+Hero CBZ Xtreme 150cc,20000.0,Gangaghat,65000.0,0,11.0,150.0,5
+Bajaj CT 100 100cc,30000.0,Ghaziabad,27571.0,0,4.0,100.0,1
+Honda CB Shine 125cc,28000.0,Gurgaon,20776.0,0,7.0,125.0,6
+Bajaj Pulsar 200 NS 200cc,45000.0,Gurgaon,27700.0,0,7.0,200.0,1
+Yamaha FZ S V 2.0 150cc,49000.0,Delhi,21000.0,0,6.0,150.0,21
+Hero Splendor Plus 100cc,18900.0,Jhansi,35000.0,2,12.0,100.0,5
+Royal Enfield Thunderbird 350cc,70000.0,Nadiad,45000.0,0,8.0,350.0,17
+Hero Splendor Plus 100cc,20000.0,Delhi,67209.0,0,11.0,100.0,5
+Bajaj Avenger Street 150,62000.0,Bangalore,16030.0,0,5.0,150.0,1
+Honda CB Trigger 150cc,43300.0,Delhi,21000.0,0,8.0,150.0,6
+Royal Enfield Classic 350cc,110000.0,Delhi,16500.0,0,5.0,350.0,17
+Hero Passion Pro 100cc,24000.0,Ahmedabad,26000.0,0,8.0,100.0,5
+Bajaj Avenger 220cc,32000.0,Delhi,17529.0,0,8.0,220.0,1
+Honda CBR 250R,50000.0,Delhi,21623.0,0,9.0,250.0,6
+Bajaj Discover 125cc,46400.0,Indore,9500.0,0,3.0,125.0,1
+TVS Apache RTR 200 4V Carburetor,91400.0,Delhi,4500.0,0,4.0,200.0,19
+Ducati Scrambler 1100 Special,1350000.0,Mumbai,190.0,0,1.0,1100.0,3
+Harley-Davidson Street 750,345000.0,Jaipur,10619.0,0,6.0,750.0,4
+Royal Enfield Thunderbird 350cc,101900.0,Mumbai,18000.0,0,5.0,350.0,17
+TVS Apache RTR 200 4V Fi,70000.0,Delhi,9761.0,2,5.0,200.0,19
+Yamaha FZ 150cc,35000.0,Bangalore,36845.0,0,10.0,150.0,21
+Royal Enfield Himalayan 410cc,110000.0,Bangalore,24676.0,0,5.0,410.0,17
+Hero Splendor iSmart 110cc,57999.0,Pune,3000.0,0,4.0,110.0,5
+Bajaj Avenger Street 160 ABS,80000.0,Delhi,2700.0,0,2.0,160.0,1
+Bajaj Avenger Street 220,72000.0,Gurgaon,28045.0,0,5.0,220.0,1
+Bajaj Pulsar 220cc,45000.0,Lucknow,52000.0,0,6.0,220.0,1
+Honda CB Hornet 160R STD,51000.0,Indore,24800.0,0,5.0,160.0,6
+Suzuki Gixxer 150cc SP Rear Disc,80000.0,Pune,6000.0,0,4.0,150.0,18
+Royal Enfield Thunderbird 350cc,100000.0,Bangalore,15428.0,0,6.0,350.0,17
+Hero Splendor iSmart 110cc,43000.0,Jaipur,55000.0,0,4.0,110.0,5
+Bajaj Platina 100cc,21000.0,Gurgaon,20386.0,0,9.0,100.0,1
+Bajaj V15 150cc,30000.0,Faridabad,16920.0,0,5.0,150.0,1
+Yamaha FZs 150cc,35000.0,Delhi,17325.0,0,7.0,150.0,21
+Bajaj Pulsar RS200,115000.0,Thane,21500.0,0,4.0,200.0,1
+Hero Super Splendor 125cc,60000.0,Delhi,8000.0,0,3.0,125.0,5
+Yamaha FZ25 250cc,105000.0,Jaipur,10468.0,0,2.0,250.0,21
+Ducati 1299 Superleggera,800000.0,Mumbai,3.0,0,3.0,1299.0,3
+Bajaj Pulsar 180cc,40400.0,Chennai,33000.0,0,5.0,180.0,1
+Royal Enfield Bullet Electra Twinspark 350cc,120500.0,Surat,12550.0,0,6.0,350.0,17
+Bajaj Pulsar 200 NS 200cc,62000.0,Gurgaon,25000.0,0,6.0,200.0,1
+KTM RC 200cc,150000.0,Kota,7500.0,0,5.0,200.0,11
+Bajaj Avenger 220cc,35000.0,Delhi,15200.0,0,10.0,220.0,1
+Royal Enfield Bullet Electra 350cc,95000.0,Delhi,15525.0,0,12.0,350.0,17
+Royal Enfield Thunderbird 350cc,104400.0,Bangalore,41000.0,0,5.0,350.0,17
+Bajaj Pulsar 200 NS 200cc,56789.0,Delhi,20000.0,0,6.0,200.0,1
+Hero Splendor Plus 100cc,25000.0,Faridabad,18792.0,0,6.0,100.0,5
+Bajaj Pulsar 150cc,53000.0,Jaipur,23890.0,0,7.0,150.0,1
+Hero Splendor Plus Self Alloy 100cc,50000.0,Jodhpur,3400.0,0,3.0,100.0,5
+Hero Passion Plus 100cc,16900.0,Delhi,48000.0,0,17.0,100.0,5
+KTM Duke 200cc,97000.0,Ghaziabad,24699.0,0,4.0,200.0,11
+Royal Enfield Classic Squadron Blue 500cc,128700.0,Bangalore,50000.0,0,5.0,500.0,17
+Hero Hunk 150cc,31000.0,Jaipur,20000.0,0,8.0,150.0,5
+Royal Enfield Electra 350cc,90000.0,Jaipur,14330.0,0,3.0,350.0,17
+Royal Enfield Thunderbird 350cc,115000.0,Bangalore,23700.0,0,4.0,350.0,17
+Honda CB Hornet 160R Special Edition STD,73000.0,Hyderabad,12464.0,0,4.0,160.0,6
+Royal Enfield Classic 350cc,85000.0,Delhi,18000.0,0,6.0,350.0,17
+Hero Xtreme Sports 150cc,65000.0,Delhi,3200.0,0,5.0,150.0,5
+Honda Dream Yuga 110cc,28000.0,Gurgaon,35719.0,0,6.0,110.0,6
+TVS Apache RTR 200 4V Carburetor Race Edition 2.0,78000.0,Delhi,14500.0,0,3.0,200.0,19
+Hero Splendor iSmart 110cc,50000.0,Jalandhar,65718.0,0,4.0,110.0,5
+Yamaha YZF-R15 2.0 150cc,85000.0,Nadiad,7350.0,0,5.0,150.0,21
+Royal Enfield Classic 350cc,90000.0,Delhi,38400.0,0,10.0,350.0,17
+Yamaha YZF-R15 S 150cc,90000.0,Solan,14060.0,0,4.0,150.0,21
+Honda CB Unicorn 150cc,33000.0,Mumbai,15250.0,0,9.0,150.0,6
+Hero Splendor iSmart 110cc,36000.0,Vellore,9500.0,0,5.0,110.0,5
+Royal Enfield Thunderbird 350cc,95000.0,24 Pargana,9000.0,0,6.0,350.0,17
+Royal Enfield Classic 350cc,130000.0,Delhi,8419.0,0,3.0,350.0,17
+Harley-Davidson Street 750,439000.0,Delhi,2472.0,0,5.0,750.0,4
+Bajaj Avenger Street 150,62000.0,Rohtak,18500.0,0,5.0,150.0,1
+Honda CB Shine 125cc,19000.0,Jaipur,22700.0,0,13.0,125.0,6
+Bajaj Pulsar NS 200cc,52949.0,Mumbai,26000.0,0,8.0,200.0,1
+Hero Passion Pro 100cc,20000.0,Chennai,37501.0,0,9.0,100.0,5
+Hero Splendor iSmart 110cc,36000.0,Lucknow,16581.0,0,4.0,110.0,5
+Kawasaki Z650,525000.0,Mumbai,6000.0,0,4.0,650.0,12
+KTM RC 200cc,185000.0,Kolkata,3000.0,0,2.0,200.0,11
+Bajaj Pulsar 150cc,10800.0,Ghazipur,47970.0,0,16.0,150.0,1
+Hero Achiever 150cc,35000.0,Bally,4750.0,0,9.0,150.0,5
+Bajaj Discover 135cc,17500.0,Chennai,54889.0,0,12.0,135.0,1
+Hero Passion Pro 100cc,17000.0,Chennai,33000.0,0,11.0,100.0,5
+Hero Passion Plus 100cc,14500.0,Delhi,17999.0,3,15.0,100.0,5
+Bajaj Avenger Cruise 220,55000.0,Belgaum,13000.0,0,5.0,220.0,1
+Bajaj V12 125cc,35000.0,Delhi,15621.0,0,4.0,125.0,1
+Bajaj V15 150cc,33800.0,Delhi,17000.0,0,5.0,150.0,1
+Royal Enfield Thunderbird 500cc,100000.0,Bangalore,15500.0,0,8.0,500.0,17
+Kawasaki Ninja 650cc,550000.0,Mumbai,3500.0,2,4.0,650.0,12
+Bajaj Pulsar 150cc,12000.0,Gurgaon,51855.0,2,12.0,150.0,1
+Hero Passion Pro 100cc,35000.0,Delhi,22000.0,0,8.0,100.0,5
+Hero Super Splendor 125cc,44000.0,Ludhiana,7329.0,0,3.0,125.0,5
+Bajaj Pulsar NS200,60000.0,Gurgaon,4200.0,0,9.0,200.0,1
+Hero Passion 100cc,21100.0,Visakhapatnam,30000.0,0,16.0,100.0,5
+Royal Enfield Classic 350cc,125000.0,Mumbai,36000.0,0,4.0,350.0,17
+Hero Passion Pro i3S Alloy 100cc,46000.0,Mumbai,10000.0,0,3.0,100.0,5
+Yamaha FZs 150cc,46000.0,Hyderabad,28176.0,0,7.0,150.0,21
+Bajaj Pulsar 180cc,39000.0,Noida,15000.0,0,7.0,180.0,1
+Honda CBR 600RR,500000.0,Solapur,8000.0,2,14.0,600.0,6
+Hero CBZ Xtreme 150cc,25000.0,Raipur,50000.0,2,7.0,150.0,5
+Hero Passion Xpro 110cc,39000.0,Mumbai,36850.0,0,8.0,110.0,5
+Hero Karizma R 223cc,49000.0,Junagadh,21000.0,0,6.0,223.0,5
+Royal Enfield Classic Desert Storm 500cc,138000.0,Bhatinda,5457.0,0,5.0,500.0,17
+Ducati Multistrada 1200 Enduro,1400000.0,Gurgaon,3174.0,0,4.0,1200.0,3
+TVS Apache RTR 180cc,35000.0,Noida,67363.0,0,8.0,180.0,19
+Royal Enfield Classic 350cc,134100.0,Bangalore,10000.0,0,5.0,350.0,17
+Bajaj Avenger 220cc,40000.0,Gwalior,19300.0,0,7.0,220.0,1
+Royal Enfield Bullet Electra 350cc,75000.0,Delhi,29318.0,0,7.0,350.0,17
+Kawasaki Z900,830000.0,Bangalore,19300.0,0,3.0,900.0,12
+Honda CBF Stunner 125cc,18000.0,Jaipur,40266.0,0,11.0,125.0,6
+Royal Enfield Bullet Twinspark 500cc,110000.0,Bangalore,75956.0,0,7.0,500.0,17
+Bajaj Discover 125cc,20000.0,Gurgaon,24530.0,0,9.0,125.0,1
+Royal Enfield Bullet Electra 350cc,80000.0,Delhi,38430.0,0,10.0,350.0,17
+Royal Enfield Classic Desert Storm 500cc,145000.0,Kathua,14000.0,0,4.0,500.0,17
+KTM RC 390cc,145000.0,Vizianagaram,24000.0,2,6.0,390.0,11
+TVS Apache RTR 160 4V Carburetor With Rear Disc,82000.0,Kolkata,5200.0,0,3.0,160.0,19
+Hyosung GT250R,185000.0,Thane,21000.0,0,5.0,250.0,7
+Hero Splendor iSmart 110cc,35000.0,Gurgaon,27877.0,0,4.0,110.0,5
+Royal Enfield Classic 350cc,116800.0,Delhi,17662.0,0,5.0,350.0,17
+Royal Enfield Classic 350cc,120000.0,Faridabad,12028.0,0,6.0,350.0,17
+Yamaha YZF-R15 150cc,90000.0,Chennai,16000.0,0,5.0,150.0,21
+TVS Sport 100cc,24000.0,Faridabad,23522.0,0,5.0,100.0,19
+Kawasaki Ninja 650 KRT Edition,526300.0,Hyderabad,12000.0,0,3.0,650.0,12
+Royal Enfield Classic 350cc,136000.0,Delhi,5800.0,0,5.0,350.0,17
+Royal Enfield Thunderbird 350cc,58400.0,Gurgaon,43000.0,2,10.0,350.0,17
+Royal Enfield Classic Gunmetal Grey 350cc,132000.0,Tikamgarh,6100.0,0,3.0,350.0,17
+Hero Splendor Plus 100cc,9500.0,Ghaziabad,60000.0,0,17.0,100.0,5
+TVS Sport 100cc,23000.0,Faridabad,15095.0,0,6.0,100.0,19
+Hero HF Deluxe Self 100cc,37300.0,Jhansi,13000.0,2,4.0,100.0,5
+Hyosung GT250R,260000.0,Pune,4400.0,0,5.0,250.0,7
+Honda CB Shine 125cc,26000.0,Jaipur,18000.0,0,7.0,125.0,6
+Honda CBR 250R,85000.0,Bellary,38000.0,0,7.0,250.0,6
+Hero Splendor Pro 100cc,22100.0,Jhansi,24000.0,2,7.0,100.0,5
+Bajaj Avenger Street 150,47000.0,Gurgaon,16873.0,0,5.0,150.0,1
+Bajaj Avenger Street 150,70000.0,Kolkata,3400.0,0,4.0,150.0,1
+Bajaj Pulsar 220F,40000.0,Bangalore,42000.0,0,8.0,220.0,1
+Yamaha FZS FI 150cc Rear Disc,75000.0,Surat,13000.0,0,3.0,150.0,21
+Royal Enfield Thunderbird 350cc,130000.0,Hyderabad,5900.0,0,4.0,350.0,17
+KTM RC 200cc,130000.0,Adyar,16000.0,0,6.0,200.0,11
+TVS Apache RTR 180cc,36000.0,Chennai,34000.0,0,7.0,180.0,19
+Bajaj  Pulsar 180cc,22000.0,Pune,51516.0,0,13.0,180.0,1
+KTM Duke 250cc,150000.0,Mumbai,17500.0,0,4.0,250.0,11
+Bajaj Platina  Alloy ES-100cc,43000.0,Jaipur,10000.0,0,4.0,100.0,1
+KTM RC 200cc,120000.0,Thane,15000.0,0,4.0,200.0,11
+Hero Passion Plus 100cc,25000.0,Jaipur,19682.0,0,10.0,100.0,5
+KTM RC 200cc,110000.0,Ghaziabad,26000.0,0,6.0,200.0,11
+Bajaj Dominar 400 ABS,140000.0,Chennai,7500.0,0,4.0,400.0,1
+Royal Enfield Bullet Electra 350cc,75000.0,Delhi,30000.0,0,10.0,350.0,17
+Yamaha SZ-RR 150cc,29700.0,Chennai,39000.0,0,8.0,150.0,21
+Suzuki Gixxer 150cc SP ABS,81800.0,Bangalore,3700.0,0,2.0,150.0,18
+Bajaj Pulsar 150cc,22000.0,Hyderabad,27400.0,0,12.0,150.0,1
+Honda CB Unicorn 150cc,11000.0,Delhi,53254.0,0,15.0,150.0,6
+Yamaha FZs 150cc,17000.0,Delhi,15000.0,2,13.0,150.0,21
+TVS Apache RTR 160cc,20000.0,Chennai,36000.0,0,10.0,160.0,19
+KTM RC 390cc,145000.0,Bangalore,23085.0,0,7.0,390.0,11
+Bajaj Avenger 200cc,34000.0,Pune,40000.0,0,11.0,200.0,1
+Honda CB Unicorn 150cc,55000.0,Chennai,23000.0,0,6.0,150.0,6
+Hero Hunk 150cc,35000.0,Sholapur,49000.0,0,7.0,150.0,5
+Bajaj Pulsar RS200 ABS,108000.0,Mumbai,10200.0,0,5.0,200.0,1
+Bajaj Discover 100cc,16000.0,Ghaziabad,32791.0,0,12.0,100.0,1
+Royal Enfield Thunderbird 500cc,100000.0,Pune,98056.0,0,7.0,500.0,17
+Bajaj Avenger Cruise 220,69000.0,Delhi,3542.0,0,3.0,220.0,1
+KTM Duke 390cc,100000.0,Gurgaon,17600.0,0,6.0,390.0,11
+TVS Apache RTR 160cc,52000.0,Ahmedabad,22000.0,0,6.0,160.0,19
+Yamaha YZF-R15 2.0 150cc,66000.0,Delhi,2465.0,0,9.0,150.0,21
+Bajaj V15 150cc,42000.0,Delhi,15327.0,0,5.0,150.0,1
+Yamaha SZ-RR 150cc,35000.0,Faridabad,30000.0,2,5.0,150.0,21
+Royal Enfield Classic Desert Storm 500cc,175000.0,Ernakulam,10951.0,0,6.0,500.0,17
+Bajaj Pulsar 180cc,36999.0,Mumbai,57811.0,0,8.0,180.0,1
+Yamaha SZR 150cc,25000.0,Hyderabad,55000.0,0,10.0,150.0,21
+Hero CBZ Xtreme 150cc,25000.0,Ghaziabad,35244.0,3,9.0,150.0,5
+Bajaj Avenger 220cc,56000.0,Ahmednagar,42500.0,0,6.0,220.0,1
+Royal Enfield Thunderbird 350cc,75000.0,Gurgaon,14396.0,0,7.0,350.0,17
+Bajaj Pulsar 220cc,44000.0,Delhi,42500.0,0,7.0,220.0,1
+Bajaj Avenger 220cc,32000.0,Gurgaon,25751.0,3,8.0,220.0,1
+Royal Enfield Standard 350cc,85500.0,Noida,24363.0,0,6.0,350.0,17
+Royal Enfield Thunderbird 350cc,100000.0,Ahmedabad,11738.0,0,4.0,350.0,17
+Yamaha FZ 150cc,27000.0,Bangalore,46006.0,2,10.0,150.0,21
+Bajaj Pulsar RS200 ABS,89000.0,Alibag,38000.0,0,5.0,200.0,1
+Royal Enfield Thunderbird 350cc,55000.0,Jaipur,4779.0,0,11.0,350.0,17
+Royal Enfield Bullet Electra Twinspark 350cc,93000.0,Faridabad,20436.0,0,6.0,350.0,17
+Royal Enfield Bullet 350 cc,45000.0,Gurgaon,40000.0,2,20.0,350.0,17
+TVS Star Sport 100cc,22800.0,Ludhiana,20750.0,0,7.0,100.0,19
+Royal Enfield Classic 350cc,90000.0,Tiruvallur,21000.0,0,6.0,350.0,17
+Honda Dream Yuga 110cc,28000.0,Ghaziabad,21605.0,0,5.0,110.0,6
+TVS Apache RTR 200 4V Carburetor,75000.0,Bangalore,3419.0,0,3.0,200.0,19
+Royal Enfield Thunderbird 350cc,70000.0,Delhi,30000.0,0,11.0,350.0,17
+Royal Enfield Classic 500cc,125000.0,Chennai,20000.0,0,5.0,500.0,17
+Honda CB Shine 125cc,37000.0,Chennai,27520.0,0,5.0,125.0,6
+Bajaj Discover 125cc,9500.0,Ghaziabad,42014.0,0,14.0,125.0,1
+Bajaj Avenger Cruise 220,66000.0,Bangalore,2981.0,0,4.0,220.0,1
+Hero CBZ Xtreme 150cc,35000.0,Delhi,12185.0,0,7.0,150.0,5
+Suzuki Gixxer SF 150cc SP Rear Disc,65000.0,Nawanshahr,7000.0,0,4.0,150.0,18
+Bajaj Avenger Street 160 ABS,80000.0,Delhi,3509.0,0,2.0,160.0,1
+Bajaj Avenger 220cc,51500.0,Delhi,4734.0,0,6.0,220.0,1
+Bajaj Avenger Cruise 220,71000.0,Ludhiana,2700.0,0,3.0,220.0,1
+TVS Apache RTR 160cc,65000.0,Bangalore,18500.0,0,5.0,160.0,19
+Hyosung GT650R,493500.0,Ahmedabad,7500.0,0,4.0,650.0,7
+Yamaha Fazer FI V 2.0 150cc,60000.0,Chennai,24581.0,0,4.0,150.0,21
+Bajaj Avenger 220cc,60000.0,Jaipur,17962.0,0,5.0,220.0,1
+KTM RC 390cc,162000.0,Delhi,8000.0,0,6.0,390.0,11
+KTM Duke 390cc,125000.0,Delhi,4500.0,0,7.0,390.0,11
+Yamaha FZs 150cc,22500.0,Faridabad,40000.0,2,9.0,150.0,21
+TVS Radeon 110cc Drum SBT,38000.0,Delhi,21249.0,0,3.0,110.0,19
+Hero Splendor Plus 100cc,43000.0,Faridabad,12296.0,0,3.0,100.0,5
+Royal Enfield Classic 350cc,137300.0,Dharwad,15200.0,0,5.0,350.0,17
+Royal Enfield Thunderbird X 350cc,138000.0,Kasargode,6500.0,0,3.0,350.0,17
+Yamaha YZF-R15 2.0 150cc,82800.0,Jaipur,6500.0,0,3.0,150.0,21
+Bajaj CT 100 100cc,34000.0,Faridabad,9660.0,0,3.0,100.0,1
+Bajaj Pulsar RS200,90000.0,Thane,6700.0,0,4.0,200.0,1
+Royal Enfield Bullet Electra Twinspark 350cc,95000.0,Navi Mumbai,39000.0,0,7.0,350.0,17
+Honda CB Shine 125cc,28000.0,Bhuj,54400.0,0,10.0,125.0,6
+Harley-Davidson Street 750,395000.0,Bangalore,5043.0,2,5.0,750.0,4
+Honda CBR 150R Deluxe,95000.0,Bargarh,9293.0,0,6.0,150.0,6
+Hero Passion 100cc,16000.0,Chennai,26512.0,2,16.0,100.0,5
+Yamaha MT-15 150cc,125100.0,Ankleshwar,7000.0,0,2.0,150.0,21
+Hyosung GT250R,192000.0,Delhi,7390.0,0,6.0,250.0,7
+Bajaj Pulsar NS200,79000.0,Bangalore,12966.0,0,3.0,200.0,1
+Bajaj Discover 125M,30000.0,Bangalore,34028.0,0,6.0,125.0,1
+Hero Karizma R 223cc,58000.0,Jaipur,20000.0,0,5.0,223.0,5
+Bajaj Pulsar NS200,79000.0,Delhi,9556.0,0,4.0,200.0,1
+TVS Apache RTR 160cc White Race Edition,63000.0,Delhi,9999.0,0,3.0,160.0,19
+Royal Enfield Thunderbird 350cc,100300.0,Palanpur,11824.0,0,6.0,350.0,17
+Suzuki GS 150 R 150cc,47000.0,Bangalore,44626.0,0,8.0,150.0,18
+Bajaj Pulsar 150cc,11500.0,Thane,72300.0,0,14.0,150.0,1
+Hero Splendor Plus 100cc,42000.0,Pune,17962.0,0,4.0,100.0,5
+Hero Splendor Plus 100cc,16400.0,Jhansi,35000.0,0,12.0,100.0,5
+Suzuki Intruder 150cc,57800.0,Gurgaon,3000.0,0,3.0,150.0,18
+Bajaj Discover 125cc,24000.0,Gurgaon,35000.0,0,7.0,125.0,1
+Honda Livo 110cc,32000.0,Meerut,10005.0,0,5.0,110.0,6
+Royal Enfield Classic 350cc,140000.0,Bangalore,11166.0,0,3.0,350.0,17
+Bajaj Avenger Cruise 220,55000.0,Delhi,12500.0,0,5.0,220.0,1
+Suzuki Gixxer 150cc,40000.0,Delhi,16000.0,0,6.0,150.0,18
+Hero HF Deluxe 100cc,30000.0,Delhi,21358.0,0,5.0,100.0,5
+Royal Enfield Thunderbird 350cc,110000.0,Lucknow,24271.0,0,4.0,350.0,17
+Royal Enfield Bullet Electra 350cc,80000.0,Bangalore,24000.0,0,12.0,350.0,17
+Harley-Davidson Street 750,445600.0,Pune,10741.0,0,5.0,750.0,4
+Royal Enfield Classic 350cc,99000.0,Mumbai,16000.0,2,7.0,350.0,17
+Yamaha YZF-R15 V3 150cc,140000.0,Delhi,2473.0,0,2.0,150.0,21
+Bajaj Pulsar 180cc,45000.0,Bangalore,45000.0,0,7.0,180.0,1
+Kawasaki Z900,935000.0,Bagalkot,2500.0,0,2.0,900.0,12
+Hero Splendor iSmart 110cc,35000.0,Faridabad,13273.0,0,5.0,110.0,5
+Bajaj Avenger Street 150,65000.0,Delhi,20314.0,0,4.0,150.0,1
+Yamaha FZ 150cc,29500.0,Alappuzha,54000.0,0,11.0,150.0,21
+TVS Sport 100cc,20000.0,Faridabad,10649.0,0,6.0,100.0,19
+Bajaj Dominar 400 ABS,160000.0,Bangalore,6177.0,0,3.0,400.0,1
+Honda CB Hornet 160R CBS,55000.0,Siwan,25000.0,0,5.0,160.0,6
+Royal Enfield Classic 350cc,65500.0,Ahmedabad,7347.0,0,10.0,350.0,17
+Bajaj Platina 125cc,16000.0,Chennai,79000.0,0,12.0,125.0,1
+Bajaj Dominar 400,115000.0,Delhi,7593.0,0,4.0,400.0,1
+Bajaj Pulsar NS200,38000.0,Delhi,20765.0,0,9.0,200.0,1
+TVS Star City 110cc,23000.0,Gurgaon,20019.0,0,7.0,110.0,19
+Hero Ignitor 125cc,22000.0,Gurgaon,38755.0,0,8.0,125.0,5
+Royal Enfield Thunderbird 500cc,90000.0,Delhi,12000.0,0,8.0,500.0,17
+Bajaj Avenger Street 150,55000.0,Mumbai,17157.0,0,5.0,150.0,1
+Honda CB Hornet 160R CBS,65000.0,Hyderabad,25533.0,0,5.0,160.0,6
+Suzuki Gixxer 150cc ABS,68000.0,Mumbai,3240.0,0,2.0,150.0,18
+Honda CBR 150R 150cc,69000.0,Bangalore,62000.0,0,9.0,150.0,6
+Hero Karizma R 223cc,35000.0,Gurgaon,26000.0,0,8.0,223.0,5
+Yamaha FZ V 2.0 150cc,65000.0,Chennai,8800.0,0,3.0,150.0,21
+Yamaha FZ16 150cc,37000.0,Delhi,32000.0,0,8.0,150.0,21
+Royal Enfield Standard 350cc,81300.0,Sri Ganganagar,25000.0,2,9.0,350.0,17
+Royal Enfield Bullet Twinspark 350cc,90000.0,Trivandrum,17000.0,0,7.0,350.0,17
+Yamaha FZ V 2.0 150cc,68000.0,Bangalore,10407.0,0,5.0,150.0,21
+Hero Ignitor 125cc,30000.0,Jaipur,18251.0,0,8.0,125.0,5
+Hero Super Splendor 125cc,15244.0,Jaipur,40320.0,0,15.0,125.0,5
+Bajaj Pulsar 220cc,20000.0,Delhi,43750.0,2,13.0,220.0,1
+Royal Enfield Thunderbird 500cc,95000.0,Ahmedabad,30000.0,3,8.0,500.0,17

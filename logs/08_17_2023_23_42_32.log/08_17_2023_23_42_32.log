@@ -1,0 +1,23 @@
+[ 2023-08-17 23:42:33,983 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-08-17 23:42:33,990 ] 187 werkzeug - INFO -  * Debugger PIN: 553-770-768
+[ 2023-08-17 23:42:37,859 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:42:37] "GET /predict HTTP/1.1" 200 -
+[ 2023-08-17 23:42:42,353 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:42:42] "GET /predict HTTP/1.1" 200 -
+[ 2023-08-17 23:42:42,369 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:42:42] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-08-17 23:42:43,684 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:42:43] "GET /predict HTTP/1.1" 200 -
+[ 2023-08-17 23:42:43,702 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:42:43] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-08-17 23:42:50,345 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:42:50] "GET /predict HTTP/1.1" 200 -
+[ 2023-08-17 23:42:50,360 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:42:50] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-08-17 23:42:51,443 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:42:51] "GET /predict HTTP/1.1" 200 -
+[ 2023-08-17 23:42:51,458 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:42:51] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-08-17 23:42:52,087 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:42:52] "GET /predict HTTP/1.1" 200 -
+[ 2023-08-17 23:42:52,099 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:42:52] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-08-17 23:42:52,402 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:42:52] "GET /predict HTTP/1.1" 200 -
+[ 2023-08-17 23:42:52,454 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:42:52] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-08-17 23:42:52,749 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:42:52] "GET /predict HTTP/1.1" 200 -
+[ 2023-08-17 23:42:52,769 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:42:52] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-08-17 23:42:53,029 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:42:53] "GET /predict HTTP/1.1" 200 -
+[ 2023-08-17 23:42:53,123 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:42:53] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-08-17 23:42:59,144 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:42:59] "GET /predict HTTP/1.1" 200 -
+[ 2023-08-17 23:42:59,160 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:42:59] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-08-17 23:43:16,452 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:43:16] "GET /predict HTTP/1.1" 200 -
+[ 2023-08-17 23:43:16,469 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:43:16] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -

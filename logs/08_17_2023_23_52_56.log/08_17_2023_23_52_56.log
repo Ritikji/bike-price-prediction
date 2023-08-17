@@ -1,0 +1,9 @@
+[ 2023-08-17 23:52:59,460 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-08-17 23:52:59,478 ] 187 werkzeug - INFO -  * Debugger PIN: 553-770-768
+[ 2023-08-17 23:53:05,233 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:53:05] "GET /predict HTTP/1.1" 200 -
+[ 2023-08-17 23:53:05,331 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:53:05] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
+[ 2023-08-17 23:53:05,350 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:53:05] "GET /predict HTTP/1.1" 200 -
+[ 2023-08-17 23:53:47,329 ] 69 root - INFO - DataFrame Gathered
+[ 2023-08-17 23:53:47,329 ] 16 root - INFO - Predict started
+[ 2023-08-17 23:53:47,765 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:53:47] "POST /predict HTTP/1.1" 200 -
+[ 2023-08-17 23:53:47,783 ] 187 werkzeug - INFO - 127.0.0.1 - - [17/Aug/2023 23:53:47] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -
